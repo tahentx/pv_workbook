@@ -18,5 +18,7 @@ with open('data.json') as json_file:
 ca = []
 for feature in data['features']:
     if feature['properties']['developer'] == "SunPower":
-        ca.append(feature)
-        print(feature['properties']['projname'])
+        ca.append(feature['properties']['projname'])
+ca.sort()
+print(ca)
+        # print(feature['properties']['projname'])
