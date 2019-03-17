@@ -17,16 +17,9 @@ with open('data.json') as json_file:
 
 
 # Find all of the SPWR projects, and alphabetize them
-# ca = []
-# for feature in data['features']:
-#     if feature['properties']['developer'] == "SunPower":
-#         ca.append(feature['properties']['projname'])
-# ca.sort()
-# print(ca)
-
-home = [37.795400, -122.178570]
-locations = []
+ca = []
 for feature in data['features']:
-    locations.append(feature['properties']['y'])
-    locations.append(feature['properties']['x'])
-print(locations)
+    if feature['properties']['developer'] == "SunPower":
+        ca.append(feature['properties']['projname'])
+ca.sort()
+print("The SunPower pojects in the NREL data set: " + str(ca))
