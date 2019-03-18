@@ -1,3 +1,4 @@
+import statistics
 import json
 with open('data.json') as json_file:
     data = json.load(json_file)
@@ -17,9 +18,16 @@ with open('data.json') as json_file:
 
 
 # Find all of the SPWR projects, and alphabetize them
-ca = []
+# ca = []
+# for feature in data['features']:
+#     if feature['properties']['developer'] == "SunPower":
+#         ca.append(feature['properties']['projname'])
+# ca.sort()
+# print("The SunPower pojects in the NREL data set: " + str(ca))
+
+capacity = []
 for feature in data['features']:
-    if feature['properties']['developer'] == "SunPower":
-        ca.append(feature['properties']['projname'])
-ca.sort()
-print("The SunPower pojects in the NREL data set: " + str(ca))
+    capacity.append(feature['properties']['cap_mw'])
+avg = statistics.mean(capacity)
+std = statistics.pstdev(capacity)
+print("The average system size (MWdc) in NREL database: " + str(avg))
