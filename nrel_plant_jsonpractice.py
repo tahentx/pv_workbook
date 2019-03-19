@@ -21,13 +21,27 @@ with open('data.json') as json_file:
 # ca = []
 # for feature in data['features']:
 #     if feature['properties']['developer'] == "SunPower":
-#         ca.append(feature['properties']['projname'])
+        # ca.append(feature['properties']['projname'])
 # ca.sort()
 # print("The SunPower pojects in the NREL data set: " + str(ca))
 
-capacity = []
+# capacity = []
+# for feature in data['features']:
+#     capacity.append(feature['properties']['cap_mw'])
+# avg = statistics.mean(capacity)
+# std = statistics.pstdev(capacity)
+# print("The average system size (MWdc) in NREL database: " + str(avg))
+
+public = []
+private = []
+unspecified = []
 for feature in data['features']:
-    capacity.append(feature['properties']['cap_mw'])
-avg = statistics.mean(capacity)
-std = statistics.pstdev(capacity)
-print("The average system size (MWdc) in NREL database: " + str(avg))
+    if feature['properties']['landtype'] == "Private":
+        private.append(feature['properties']['projname'])
+    elif feature['properties']['landtype'] == "Public":
+        public.append(feature['properties']['projname'])
+    else:
+        unspecified.append(feature['properties']['projname'])
+
+print("There are " + str(len(public)) + " C&I projects on public land in the dataset.")
+print(len(private))
