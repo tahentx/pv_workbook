@@ -1,5 +1,6 @@
 import statistics
 import json
+from random import *
 with open('data.json') as json_file:
     data = json.load(json_file)
 
@@ -32,16 +33,20 @@ with open('data.json') as json_file:
 # std = statistics.pstdev(capacity)
 # print("The average system size (MWdc) in NREL database: " + str(avg))
 
-public = []
-private = []
-unspecified = []
-for feature in data['features']:
-    if feature['properties']['landtype'] == "Private":
-        private.append(feature['properties']['projname'])
-    elif feature['properties']['landtype'] == "Public":
-        public.append(feature['properties']['projname'])
-    else:
-        unspecified.append(feature['properties']['projname'])
+# public = []
+# private = []
+# unspecified = []
+# for feature in data['features']:
+#     if feature['properties']['landtype'] == "Private":
+#         private.append(feature['properties']['projname'])
+#     elif feature['properties']['landtype'] == "Public":
+#         public.append(feature['properties']['projname'])
+#     else:
+#         unspecified.append(feature['properties']['projname'])
+#
+# print("There are " + str(len(public)) + " C&I projects on public land in the dataset.")
+# print(len(private))
 
-print("There are " + str(len(public)) + " C&I projects on public land in the dataset.")
-print(len(private))
+for feauture in data['features']:
+    feauture['properties']['budget'] = randint(20000,30000)
+    print(str(feauture['properties']['budget']))
