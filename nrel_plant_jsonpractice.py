@@ -49,4 +49,10 @@ with open('data.json') as json_file:
 
 for feauture in data['features']:
     feauture['properties']['budget'] = randint(20000,30000)
-    print(str(feauture['properties']['budget']))
+    feauture['properties']['spend'] = randint(5000,12500)
+
+west = []
+east = []
+
+print(len(west))
+print(len(east))
