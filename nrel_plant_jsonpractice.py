@@ -53,6 +53,10 @@ for feauture in data['features']:
 
 west = []
 east = []
+for feature in data['features']:
+    if feature['properties']['state'] == "CA":
+        west.append(feature['properties'])
+    elif feature['properties']['state'] == "NJ" or "NY" or "PA":
+        east.append(feature['properties'])
 
-print(len(west))
-print(len(east))
+print(east[0]['budget'])
