@@ -59,4 +59,7 @@ for feature in data['features']:
     elif feature['properties']['state'] == "NJ" or "NY" or "PA":
         east.append(feature['properties'])
 
-print(east[0]['budget'])
+east_budget = []
+for site in east:
+    east_budget.append(site['budget'])
+print(statistics.mean(east_budget))
