@@ -62,4 +62,7 @@ for feature in data['features']:
 east_budget = []
 for site in east:
     east_budget.append(site['budget'])
-print(statistics.mean(east_budget))
+avg = statistics.mean(east_budget)
+for site in east_budget:
+    if site > avg:
+        print(test)
