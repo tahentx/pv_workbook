@@ -1,3 +1,5 @@
-n = 3294
+n = 38941
 value = [int(x) for x in str(n)]
-print(value)
+y = value[0]*value[1]
+print(str(y))
+    # if
