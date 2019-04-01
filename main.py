@@ -9,9 +9,7 @@ def main():
 # first use of requests library
 	response = requests.get(url,params=api_key)
 	print(response.status_code)
-	
+
 
 if __name__ == "__main__":
 		main()
-
-
