@@ -1,4 +1,4 @@
 import pandas as pd
-events = pd.read_csv('jspevents.csv')
+events = pd.read_csv('jspevents.csv', index_col="Plant")
 df = pd.DataFrame(events)
-print(type(df))
+print(df)
