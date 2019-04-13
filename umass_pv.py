@@ -1,8 +1,13 @@
 import pandas as pd
 import numpy as np
 data = pd.read_csv('umass.csv')
-sites = pd.DataFrame(data)
+df = pd.DataFrame(data)
 
-# print column headers
-for x in data :
-    print(x)
+# print shape of data
+print(df.shape)
+
+# print columns
+print(df.columns)
+
+# print general Information about the dataset
+print(df.info())
