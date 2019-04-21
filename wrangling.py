@@ -8,4 +8,4 @@ df = pd.DataFrame(a7)
 #     with open('a7.json', 'w') as f:
 #         f.write(df.to_json(orient='records', lines=True))
 # export(df)
-print(df.info())
+print("Alamo 7 production values for April 10, 2019 \n")
