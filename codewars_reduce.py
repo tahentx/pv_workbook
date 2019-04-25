@@ -1,7 +1,9 @@
 # Given a non-empty array of integers, return the result of multiplying the values together in order.
-array = [5,5,2]
-def reduce(array):
-    for x in array:
-        print(x)
+ham = [5,5,2,6]
+def reduce(ham):
+    result = 1
+    for x in ham:
+        result = result * x
+        print(result)
 
-reduce(array)
+reduce(ham)
