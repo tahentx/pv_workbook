@@ -10,7 +10,6 @@ def find_diff(all_students):
     for x in all_students:
         diff = x - mean
         differences_total.append(diff)
-
 find_diff(all_students)
 
 differences_total_sq = []
@@ -18,5 +17,9 @@ def sq_diff(differences_total):
     for x in differences_total:
         sq = lambda x: x ** 2
         differences_total_sq.append(sq(x))
+sq_diff(differences_total)
 
-print(differences_total_sq)
+variance = (sum(differences_total_sq) / len(differences_total_sq))
+print("The variance for the entire class is " + str(variance))
+standard_dev = variance / len(all_students)
+print("The standard deviation for the entire class is " + str(standard_dev))
