@@ -1,4 +1,5 @@
 from __future__ import division
+import math
 grades1 = [68, 71, 81, 90, 92]
 grades2 = [78, 83, 85, 85, 87]
 
@@ -20,6 +21,6 @@ def sq_diff(differences_total):
 sq_diff(differences_total)
 
 variance = (sum(differences_total_sq) / len(differences_total_sq))
+standard_deviation = math.sqrt(variance)
 print("The variance for the entire class is " + str(variance))
-standard_dev = variance / len(all_students)
-print("The standard deviation for the entire class is " + str(standard_dev))
+print("The standard deviation for the entire class is " + str(standard_deviation))
