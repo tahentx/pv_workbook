@@ -1,12 +1,9 @@
 avengers_ticket = 25
-people = [100,50,25]
-
-def tickets(people):
-    vasya_cash_available = 0
-    for x in people:
-        if x % 25:
-            print("test")
-        else:
-            print("not feasible")
-
-tickets(people)
+people = [25,25,50,50,100]
+cash_on_hand = [25,25,50,50]
+def tickets(people, cash_on_hand):
+    if sum(cash_on_hand) < (people[-1] - 25):
+        print("this is not feasible.")
+    else:
+        print("this works.")
+tickets(people, cash_on_hand)
