@@ -1,6 +1,7 @@
 # https://www.codewars.com/kata/playing-with-digits/train/python
 def dig_pow(n,p):
-    x = lambda n,p : n ** p
+    exp = 1
+    x = lambda n,exp : n ** exp
     print(x(n,p))
 
-dig_pow(3,2)
+dig_pow(9,4)
