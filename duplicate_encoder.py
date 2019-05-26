@@ -10,4 +10,5 @@ def list_duplicates(seq):
   # turn the set into a list (as requested)
   return list(seen_twice)
 
-print(list_duplicates(list_word))
+final_word = [")" if list_duplicates != [] else "(" for x in list_word]
+print(str(final_word))
