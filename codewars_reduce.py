@@ -1,9 +1,7 @@
 text = input("Test word:")
-dups = []
 def duplicate_count(text):
-    for x in text:
-        if text.count(x) > 1:
-            dups.append(x)
+    upper = text.upper()
+    for x in upper:
+        if upper.count(x) > 1:
             print(x + " has a duplicate value.")
-            print(dups)
 duplicate_count(text)
