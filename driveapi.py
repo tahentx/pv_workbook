@@ -1,3 +1,6 @@
+import pandas as pd
+import numpy as np
+import matplotlib as plt
 import requests
 import http.client, urllib.request, urllib.parse, urllib.error, base64
 
@@ -13,7 +16,7 @@ def main():
 
     try:
         conn = http.client.HTTPSConnection('api.powerfactorscorp.com')
-        conn.request("GET", "/test/bandwidth-limit?%s" % params, "{body}", headers)
+        conn.request("GET", "/drive/v2/snapshot?%s" % params, "{body}", headers)
         response = conn.getresponse()
         data = response.read()
         print(data)
