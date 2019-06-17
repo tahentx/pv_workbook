@@ -1,21 +1,7 @@
-import geopy.distance
-
-A =	{
-  "Name": "Kung",
-  "value1": 4,
-  "value2": 4
-}
-
-B =	{
-  "Name": "Foo",
-  "value1": 5,
-  "value2": 2
-}
-
-C =	{
-  "Name": "Grip",
-  "value1": 6,
-  "value2": 3
-}
-
-D = [A,B,C]
+from haversine import haversine
+lyon = (45.7597, 4.8422)
+paris = (48.8567, 2.3508)
+esb = (40.748440, -73.985664)
+group = [lyon,paris,esb]
+for x in group:
+	print(haversine(lyon,x,unit='mi'))
