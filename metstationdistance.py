@@ -7,16 +7,11 @@ with open('tucson.csv') as file:
     if has_header:
         next(met)
     met_list = list(met)
-print(met_list)
-lyon = (45.7597, 4.8422)
-paris = (48.8567, 2.3508)
-esb = (40.748440, -73.985664)
+coords = []
+for x in met_list:
+    coords.append(x[1:])
+backup_mets = []
+for i in range(len(coords)-1):
+	backup_mets.append(haversine(coords[i], coords[i + 1],unit='mi'))
 #
-# backup_mets = []
-# for i in range(len(met_list)-1):
-# 	backup_mets.append(haversine(met_list[i], met_list[i + 1],unit='mi'))
-#
-# print(backups)
-# print(min(backups))
-#
-# import csv v >>> exampleFile = open('example.csv') w >>> exampleReader = csv.reader(exampleFile) x >>> exampleData = list(exampleReader) y >>> exampleData
+print(backup_mets)
