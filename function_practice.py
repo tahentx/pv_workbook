@@ -1,3 +1,5 @@
+import math
+
 def return_sum(x,y):
     c = x + y
     return c
@@ -37,4 +39,5 @@ def get_the_variance(sq_sum,count):
     return variance
 
 v = get_the_variance(z,len(n))
- 
+stdev = math.sqrt(v)
+print("The standard deviation of the list is: " + str(stdev) + ", while the mean is: " + str(avg))
