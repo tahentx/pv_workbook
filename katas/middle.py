@@ -3,9 +3,13 @@
 def get_middle(s):
   word = list(s)
   if len(word) % 2 == 0:
-      del word[0]
-      del word[-1]
-      print(word)
+      while len(word) > 2:
+          del word[0]
+          del word[-1]
+      return word
+            # if len(word) == 2:
+            #     break
+
 
 
 
