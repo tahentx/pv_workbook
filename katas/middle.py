@@ -6,12 +6,12 @@ def get_middle(s):
       while len(word) > 2:
           del word[0]
           del word[-1]
-      return word
-            # if len(word) == 2:
-            #     break
+      x = ''.join(word)
+      return x
+  else:
+      while len(word) > 1:
+          del word[0]
+          del word[-1]
+      return word[0]
 
-
-
-
-
-get_middle("Kombucha")
+get_middle("Plan")
