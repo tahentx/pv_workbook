@@ -4,10 +4,7 @@ def DNAtoRNA(dna: str) -> str:
 
     """ Translate a given Deoxyribonucleic acid (DNA) to Ribonucleic acid (RNA) """
     input = list(dna)
-    for x in input:
-        print(x)
-        if x == "T":
-            print("U")
-    # rna = ["U" for i in input if i == "T"]
-    # print(rna)
+    store = ["U" if x == "T" else x for x in input]
+    print(store)
+
 DNAtoRNA("Time")
