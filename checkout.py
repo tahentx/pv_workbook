@@ -1,5 +1,6 @@
 def queue_time(customers: list, stations: int) -> int:
     if stations == 1:
-        print(sum(customers))
-
-queue_time([5,5], 1)
+        return sum(customers)
+    for x in customers:
+        if x > sum(customers[x:]):
+            print("check")
