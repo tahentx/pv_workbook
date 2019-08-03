@@ -1,6 +1,6 @@
 import PyPDF2
-import pdftables_api
 import io
+import csv
 
 pdfFileObj = open('nrel_sample_agreement.pdf', 'rb')
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
