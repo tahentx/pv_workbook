@@ -1,15 +1,18 @@
 import PyPDF2
 import pdftables_api
-import csv
+import io
 
-pdfFileObj = open('ag.pdf', 'rb')
+pdfFileObj = open('nrel_sample_agreement.pdf', 'rb')
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
 pageObj = pdfReader.getPage(0)
-print(pageObj.extractText())
+text = pageObj.extractText()
+s = io.StringIO(text)
+with open('terms.csv', 'w') as f:
+    for line in s:
+        f.write(line)
 
-contract = open('terms.csv','w', newline='')
-terms = csv.writer(contract)
-terms.writerow(['This','is','a','test'])
 
-c = pdftables_api.Client('yu8wx1021116')
-c.csv('nrel_sample_agreement.pdf', 'terms')
+#
+# contract = open('terms.csv','w', newline='')
+# terms = csv.writer(contract)
+# terms.writerow(['This','is','a','test'])
