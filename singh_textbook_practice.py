@@ -17,4 +17,19 @@ answer = A * x
 f =  np.array([[2,3,6],[1,5,7]])
 g =  np.array([[3,7],[4,2],[1,3]])
 h = np.matmul(f,g)
-print(h)
+
+
+a = [5,3,6]
+b = [3,9,0]
+c = [4,1,1]
+d = [a,b,c]
+
+def convert(x,y):
+    solution = np.array([x,y])
+    print(solution)
+
+def listconvert(z):
+    foo = np.array([z])
+    print(foo)
+
+listconvert(d)
