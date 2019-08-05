@@ -1,5 +1,6 @@
 import numpy as np
-
+from numpy import empty
+from numpy import zeros
 # Matrix arithmetic, pg. 46, Example 1.17
 
 x = np.array([[1,2],[3,4]])
@@ -30,6 +31,9 @@ def convert(x,y):
 
 def listconvert(z):
     foo = np.array([z])
-    print(foo)
+    determ = np.linalg.det(foo)
+    print(foo, determ)
 
-listconvert(d)
+a = empty([3,3])
+b = zeros([3,5])
+print(b)
