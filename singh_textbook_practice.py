@@ -19,7 +19,7 @@ answer = A * x
 f =  np.array([[2,3,6],[1,5,7]])
 g =  np.array([[3,7],[4,2],[1,3]])
 h = np.matmul(f,g)
-print(h)
+
 
 a = tuple([5,3,6])
 b = tuple([3,9,0])
@@ -42,8 +42,11 @@ x, y = bravo[:,:-1], bravo[:, -1]
 
 z = np.array([[4,6],[3,9]])
 w = np.linalg.det(z)
-print(w)
 
+# khan academy determininant practice problem
+E = np.array([[1,5,2],[0,1,4],[-1,0,5]])
+det = np.linalg.det(E)
+print(det)
 
 
 # def convert(x,y):
