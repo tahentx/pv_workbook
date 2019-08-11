@@ -1,6 +1,7 @@
 import numpy as np
 from numpy import empty
 from numpy import zeros
+from numpy import array
 # Matrix arithmetic, pg. 46, Example 1.17
 
 x = np.array([[1,2],[3,4]])
@@ -18,22 +19,42 @@ answer = A * x
 f =  np.array([[2,3,6],[1,5,7]])
 g =  np.array([[3,7],[4,2],[1,3]])
 h = np.matmul(f,g)
+print(h)
 
-
-a = [5,3,6]
-b = [3,9,0]
+a = tuple([5,3,6])
+b = tuple([3,9,0])
 c = [4,1,1]
 d = [a,b,c]
 
-def convert(x,y):
-    solution = np.array([x,y])
-    print(solution)
+e = zip(a,b)
+# print(tuple(e))
+# #
+# variance = [4,-12,2,3,-3]
+# data = array(variance)
+# print(data)
+# print(type(data))
 
-def listconvert(z):
-    foo = np.array([z])
-    determ = np.linalg.det(foo)
-    print(foo, determ)
+# create 3 x 3 matrix
+delta = [[23,35,63],[22,44,31],[32,5,9]]
+bravo = array(delta)
+# create features (x) and label (y)
+x, y = bravo[:,:-1], bravo[:, -1]
 
-a = empty([3,3])
-b = zeros([3,5])
-print(b)
+z = np.array([[4,6],[3,9]])
+w = np.linalg.det(z)
+print(w)
+
+
+
+# def convert(x,y):
+#     solution = np.array([x,y])
+#     print(solution)
+#
+# def listconvert(z):
+#     foo = np.array([z])
+#     determ = np.linalg.det(foo)
+#     print(foo, determ)
+#
+# a = empty([3,3])
+# b = zeros([3,5])
+# print(b)
