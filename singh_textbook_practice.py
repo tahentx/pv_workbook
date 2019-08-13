@@ -46,9 +46,14 @@ w = np.linalg.det(z)
 # khan academy determininant practice problem
 E = np.array([[1,5,2],[0,1,4],[-1,0,5]])
 det = np.linalg.det(E)
-print(det)
 
 
+
+fuse_qty = np.array([85,59])
+fuse_cost = np.array([10,50])
+
+value = sum(fuse_cost * fuse_qty)
+print(value)
 # def convert(x,y):
 #     solution = np.array([x,y])
 #     print(solution)
