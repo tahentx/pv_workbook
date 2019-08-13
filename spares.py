@@ -14,4 +14,9 @@ for x in df:
 df.to_csv('storerooms.csv',sep='\t', encoding='utf-8')
 
 inventory = pd.read_csv('mbs_servicetrucks_01.csv')
+inventory.astype({'Cost P/Unit': 'int32'}, {'Qty on Hand': 'int32'}).dtypes
 inventory['Storeroom Record ID'] = 'a0O1M00000sCL52UAG'
+
+cost = np.array([inventory['Cost P/Unit']])
+supply = np.array([inventory['Qty on Hand']])
+value = cost * supply
