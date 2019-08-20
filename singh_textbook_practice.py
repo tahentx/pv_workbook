@@ -53,8 +53,14 @@ fuse_qty = np.array([85,59])
 fuse_cost = np.array([10,50])
 
 value = sum(fuse_cost * fuse_qty)
-print(value)
+
+union = {2,3,4} | {6,8,0}
+x = {2,8,4} & {6,8,0}
+print(union)
+print(2 in union)
+print(x)
 # def convert(x,y):
+
 #     solution = np.array([x,y])
 #     print(solution)
 #
