@@ -54,11 +54,27 @@ fuse_cost = np.array([10,50])
 
 value = sum(fuse_cost * fuse_qty)
 
-union = {2,3,4} | {6,8,0}
-x = {2,8,4} & {6,8,0}
-print(union)
-print(2 in union)
-print(x)
+# union = {2,3,4} | {6,8,0}
+# x = {2,8,4} & {6,8,0}
+# print(union)
+# print(2 in union)
+# print(x)
+# g = {1,2,3}
+# z = {2*i for i in g}
+# print(z)
+
+ca_hldg = {
+'Alpaugh' : 'Diaz',
+'Corcoran' : 'Ellorin',
+'Wisteria' : 'Durazo',
+'Panoche' : 'Williams',
+}
+
+print(ca_hldg['Wisteria'])
+print(ca_hldg['Avenal'] if 'Avenal' in ca_hldg else 'Not present')
+print(ca_hldg['Panoche'] if 'Panoche' in ca_hldg else 'Not present')
+
+
 # def convert(x,y):
 
 #     solution = np.array([x,y])
