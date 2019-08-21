@@ -63,17 +63,7 @@ value = sum(fuse_cost * fuse_qty)
 # z = {2*i for i in g}
 # print(z)
 
-ca_hldg = {
-'Alpaugh' : 'Diaz',
-'Corcoran' : 'Ellorin',
-'Wisteria' : 'Durazo',
-'Panoche' : 'Williams',
-}
-
-print(ca_hldg['Wisteria'])
-print(ca_hldg['Avenal'] if 'Avenal' in ca_hldg else 'Not present')
-print(ca_hldg['Panoche'] if 'Panoche' in ca_hldg else 'Not present')
-
+ops = [{'Alpaugh' : 'Diaz','Corcoran' : 'Ellorin','Wisteria' : 'Durazo', 'Panoche' : 'Williams'},{'Alamo': 'Keenan', 'Texas' : 'Ewing'},{'Pilesgrove':'Mattson', 'Penn' : 'Michaels'}]
 
 # def convert(x,y):
 
