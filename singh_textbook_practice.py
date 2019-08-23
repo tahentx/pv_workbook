@@ -65,6 +65,13 @@ value = sum(fuse_cost * fuse_qty)
 
 ops = [{'Alpaugh' : 'Diaz','Corcoran' : 'Ellorin','Wisteria' : 'Durazo', 'Panoche' : 'Williams'},{'Alamo': 'Keenan', 'Texas' : 'Ewing'},{'Pilesgrove':'Mattson', 'Penn' : 'Michaels'}]
 
+team = ops[0]
+assets = team.keys()
+mgrs = team.values()
+p = {k:v for (k,v) in team.items() if "P" in k}
+print(mgrs)
+print(assets)
+print(p)
 # def convert(x,y):
 
 #     solution = np.array([x,y])
