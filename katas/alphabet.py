@@ -4,3 +4,5 @@ place = []
 for i in letter:
     place.append(letter.index(i))
 assert len(place) == 26
+x = dict(zip(letter,place))
+print(x)
