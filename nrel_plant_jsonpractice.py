@@ -1,9 +1,10 @@
-import statistics
+from pandas.io.json import json_normalize
 import json
 from random import *
 with open('data.json') as json_file:
     data = json.load(json_file)
-
+table = json_normalize(data)
+print(table)
 # print project name
 # for feature in data['features']:
 #     if feature['properties']['developer'] == "SunPower":
@@ -46,23 +47,23 @@ with open('data.json') as json_file:
 #
 # print("There are " + str(len(public)) + " C&I projects on public land in the dataset.")
 # print(len(private))
-
-for feauture in data['features']:
-    feauture['properties']['budget'] = randint(20000,30000)
-    feauture['properties']['spend'] = randint(5000,12500)
-
-west = []
-east = []
-for feature in data['features']:
-    if feature['properties']['state'] == "CA":
-        west.append(feature['properties'])
-    elif feature['properties']['state'] == "NJ" or "NY" or "PA":
-        east.append(feature['properties'])
-
-east_budget = []
-for site in east:
-    east_budget.append(site['budget'])
-avg = statistics.mean(east_budget)
-for site in east_budget:
-    if site > avg:
-        print(test)
+#
+# for feauture in data['features']:
+#     feauture['properties']['budget'] = randint(20000,30000)
+#     feauture['properties']['spend'] = randint(5000,12500)
+#
+# west = []
+# east = []
+# for feature in data['features']:
+#     if feature['properties']['state'] == "CA":
+#         west.append(feature['properties'])
+#     elif feature['properties']['state'] == "NJ" or "NY" or "PA":
+#         east.append(feature['properties'])
+#
+# east_budget = []
+# for site in east:
+#     east_budget.append(site['budget'])
+# avg = statistics.mean(east_budget)
+# for site in east_budget:
+#     if site > avg:
+#         print(test)
