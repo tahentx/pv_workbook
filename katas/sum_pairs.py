@@ -1,3 +1,8 @@
 # Codewars kata: https://www.codewars.com/kata/sum-of-pairs/train/python
 def sum_pairs(int: list, s: int) -> list:
-    print([5,5], 6)
+    y = []
+    z = [y.append(s - x) for x in int]
+    for i,j in zip(y, int):
+        if i + j == s:
+            print(i,j)
+sum_pairs([5,8,2,4],10)
