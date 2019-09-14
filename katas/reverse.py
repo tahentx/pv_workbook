@@ -1,9 +1,14 @@
-def reverse(s):
+def reverse(s: str) -> str():
     x = list(s)
     x.reverse()
-    for i in x:
-        if isinstance(i,int):
-            del i
+    if any(isinstance(x,(int)) for i in x):
+        x.remove(i)
     y = ''.join(x)
     print(y)
-reverse("vibes")
+reverse("vib332es")
+
+#
+# for i in num:
+#     x = isinstance(i, int)
+#     if x is True:
+#         print(num.index(i))
