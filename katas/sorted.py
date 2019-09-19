@@ -1,13 +1,15 @@
 # Codewars kata: https://www.codewars.com/kata/sorted-yes-no-how/train/python
 def is_sorted_and_how(arr):
     copy = arr.copy()
+    copy2 = sorted(arr,reverse=True)
     arr.sort()
     if copy == arr:
-        print("Sorted already")
+        print("yes, ascending")
+    elif copy2 == arr:
+        print("yes, descending")
     else:
-        print("Either descending or other")
+        print("no")
 
 
 
-
-is_sorted_and_how([63,60,32])
+is_sorted_and_how([5,2,1])
