@@ -7,5 +7,9 @@ def nb_dig(n, d):
     for i in a:
         if i == d:
             count = count + 1
+    j = [int(i) for i in str(d)]
+    for e in j:
+        if e == d:
+            count = count + 1
     print(count)
-nb_dig(5,44)
+nb_dig(5,1)
