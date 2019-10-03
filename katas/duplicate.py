@@ -25,7 +25,8 @@ def high_and_low(numbers):
 def two_sum(numbers, target):
     foo = []
     for num in numbers:
-        value = num - target
+        value = target - num
         foo.append(value)
-    print(foo)
-two_sum([5,2,3,4],1)
+    y = [x for x in foo if x in numbers]
+    print(y)
+two_sum([5,2,9,6],7)
