@@ -9,7 +9,7 @@ def duplicate(word):
             word3.append("(")
     answer = ''.join(word3)
     return answer
-duplicate("Ball")
+# duplicate("Ball")
 
 # https://www.codewars.com/kata/highest-and-lowest
 def high_and_low(numbers):
@@ -19,5 +19,13 @@ def high_and_low(numbers):
     b = min(y)
     answer = str(a) + " " + str(b)
     print(answer)
+# high_and_low("2 7 6")
 
-high_and_low("2 7 6")
+# https://www.codewars.com/kata/two-sum/python
+def two_sum(numbers, target):
+    foo = []
+    for num in numbers:
+        value = num - target
+        foo.append(value)
+    print(foo)
+two_sum([5,2,3,4],1)
