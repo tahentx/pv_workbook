@@ -27,6 +27,6 @@ def two_sum(numbers, target):
     for num in numbers:
         value = target - num
         foo.append(value)
-    y = [x for x in foo if x in numbers]
+    y = [numbers.index(x) for x in foo if x in numbers]
     print(y)
 two_sum([5,2,9,6],7)
