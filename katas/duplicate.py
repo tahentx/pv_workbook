@@ -29,4 +29,14 @@ def two_sum(numbers, target):
         foo.append(value)
     y = [numbers.index(x) for x in foo if x in numbers]
     print(y)
-two_sum([5,2,9,6],7)
+# two_sum([5,2,9,6],7)
+#
+# https://www.codewars.com/kata/555eded1ad94b00403000071/train/python
+def series_sum(n: int) -> float:
+    value = []
+    i = 1
+    while i < n:
+        value.append(i/n)
+        n = n + 1
+    print(value)
+series_sum(9)
