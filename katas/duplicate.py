@@ -39,4 +39,11 @@ def series_sum(n: int) -> float:
         value.append(i/n)
         n = n + 1
     print(value)
-series_sum(9)
+# series_sum(9)
+
+def reverse(x: str) -> str:
+    x_list = list(x)
+    x_list.reverse()
+    x_str = ''.join(x_list)
+    print(x_str)
+reverse("Bugle")
