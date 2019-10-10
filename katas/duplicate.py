@@ -76,4 +76,11 @@ def disemvowel(string):
             revised.append(x)
     output = ''.join(revised)
     print(output)
-disemvowel("Test that function")
+# disemvowel("Test that function")
+
+def get_big(n):
+    foo = [int(x) for x in str(n)]
+    foo.insert(0, foo.pop(foo.index(max(foo))))
+    print(foo)
+
+get_big("21538")
