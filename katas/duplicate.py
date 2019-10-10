@@ -45,5 +45,13 @@ def reverse(x: str) -> str:
     x_list = list(x)
     x_list.reverse()
     x_str = ''.join(x_list)
-    print(x_str)
+    return x_str
 reverse("Bugle")
+
+def validate_pin(input):
+    if len(input) == 4 and input.isdigit():
+        return True
+    else:
+        return False
+    if
+validate_pin("Mort")
