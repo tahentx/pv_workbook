@@ -53,5 +53,27 @@ def validate_pin(input):
         return True
     else:
         return False
-    if
 validate_pin("Mort")
+
+# kata: https://www.codewars.com/kata/iq-test/train/python
+def iq_test(numbers):
+    no_space = numbers.replace(" ","")
+    list_form = list(no_space)
+    output = [list_form.index(num) for num in list_form if int(num) % 2 == 0]
+    for x in output:
+        x = x + 1
+        return x
+# iq_test("4 6 5 2 8 9")
+
+# kata: https://www.codewars.com/kata/52fba66badcd10859f00097e/train/python
+def disemvowel(string):
+    vow = ["a","e","i","o","u"]
+    revised = []
+    for x in string:
+        if x in vow:
+            pass
+        else:
+            revised.append(x)
+    output = ''.join(revised)
+    print(output)
+disemvowel("Test that function")
