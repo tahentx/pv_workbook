@@ -78,9 +78,16 @@ def disemvowel(string):
     print(output)
 # disemvowel("Test that function")
 
+# kata: https://www.codewars.com/kata/form-the-largest/train/python
 def get_big(n):
     foo = [int(x) for x in str(n)]
     foo.insert(0, foo.pop(foo.index(max(foo))))
     print(foo)
+# get_big("21538")
 
-get_big("21538")
+i = 1
+while i < 6:
+  print(i)
+  if i == 3:
+      break
+  i = i + 1
