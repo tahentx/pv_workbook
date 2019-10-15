@@ -85,9 +85,18 @@ def get_big(n):
     print(foo)
 # get_big("21538")
 
-i = 1
-while i < 6:
-  print(i)
-  if i == 3:
-      break
-  i = i + 1
+# i = 1
+# while i < 6:
+#   print(i)
+#   if i == 3:
+#       break
+#   i = i + 1
+
+# kata: https://www.codewars.com/kata/bumps-in-the-road/train/python
+def bump_checker(road):
+    if road.count("n") < 16:
+        return "Woohoo!"
+    else:
+        return "Car Dead!"
+
+bump_checker("none")
