@@ -102,6 +102,8 @@ def bump_checker(road):
 bump_checker("none")
 
 def unique_counter(list):
-    y = [list.count(x) for x in list]
-    print(y)
+    solo = set(list)
+    y = [list.count(x) for x in solo]
+    z = {(key, value) for (key, value) in zip(solo, y)}
+    return z
 unique_counter(["Bob","Joe","Bob"])
