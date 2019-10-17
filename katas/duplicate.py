@@ -101,9 +101,24 @@ def bump_checker(road):
 
 bump_checker("none")
 
+# kata: https://www.codewars.com/kata/counting-array-elements/train/python
 def unique_counter(list):
     solo = set(list)
     y = [list.count(x) for x in solo]
     z = {(key, value) for (key, value) in zip(solo, y)}
     return z
-unique_counter(["Bob","Joe","Bob"])
+# unique_counter(["Bob","Joe","Bob"])
+
+# https://www.codewars.com/kata/58223370aef9fc03fd000071/train/python
+def dashatize(num):
+    num_list = [int(d) for d in str(num)]
+    dashed_list = []
+    for x in num_list:
+        if x % 2 == 0:
+            dashed_list.append(x)
+        else:
+            x = "-"+ str(x) + "-"
+            dashed_list.append(x)
+    answer = ''.join(str(n) for n in dashed_list)
+    print(answer)
+dashatize(43264)
