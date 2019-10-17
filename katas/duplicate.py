@@ -100,3 +100,8 @@ def bump_checker(road):
         return "Car Dead!"
 
 bump_checker("none")
+
+def unique_counter(list):
+    y = [list.count(x) for x in list]
+    print(y)
+unique_counter(["Bob","Joe","Bob"])
