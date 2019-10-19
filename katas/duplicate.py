@@ -120,5 +120,14 @@ def dashatize(num):
             x = "-"+ str(x) + "-"
             dashed_list.append(x)
     answer = ''.join(str(n) for n in dashed_list)
-    print(answer)
-dashatize(43264)
+    return answer
+# dashatize(43264)
+
+# https://www.codewars.com/kata/the-highest-profit-wins/train/python
+def min_max(lst):
+    output_lst = []
+    lst.sort()
+    output_lst.append(lst[0])
+    output_lst.append(lst[-1])
+    print(output_lst)
+min_max([34,23,19,88,53])
