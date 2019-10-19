@@ -134,8 +134,9 @@ def min_max(lst):
 
 # https://www.codewars.com/kata/find-the-unique-number-1/train/python
 def find_uniq(arr):
-    for num in arr:
-        if arr.count(num) > 1:
+    arr_set = set(arr)
+    for n in arr_set:
+        if arr.count(n) != 1:
             pass
         else:
-            return num
+            return n
