@@ -130,4 +130,12 @@ def min_max(lst):
     output_lst.append(lst[0])
     output_lst.append(lst[-1])
     print(output_lst)
-min_max([34,23,19,88,53])
+# min_max([34,23,19,88,53])
+
+# https://www.codewars.com/kata/find-the-unique-number-1/train/python
+def find_uniq(arr):
+    for num in arr:
+        if arr.count(num) > 1:
+            pass
+        else:
+            return num
