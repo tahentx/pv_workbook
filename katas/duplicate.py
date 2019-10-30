@@ -140,3 +140,20 @@ def find_uniq(arr):
             pass
         else:
             return n
+
+# https://www.codewars.com/kata/meeting/python
+def meeting(s):
+    s_upper = s.upper()
+    s_list = s_upper.split(',')
+    print(s_list)
+
+# meeting("Fred:Corwill;Wilfred:Corwill;Barney:Tornbull;Betty:Tornbull;Bjon:Tornbull;Raphael:Corwill;Alfred:Corwill")
+
+def index_function(word):
+    for x in word:
+        if x.isupper():
+            print(word.index(x))
+        else:
+            print("false")
+
+index_function("Diff")
