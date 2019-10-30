@@ -150,10 +150,8 @@ def meeting(s):
 # meeting("Fred:Corwill;Wilfred:Corwill;Barney:Tornbull;Betty:Tornbull;Bjon:Tornbull;Raphael:Corwill;Alfred:Corwill")
 
 def index_function(word):
-    for x in word:
-        if x.isupper():
-            print(word.index(x))
-        else:
-            print("false")
+    caps = []
+    foo = [caps.append(word.index(x)) for x in word if x.isupper()]
+    return ordered(caps)
 
-index_function("Diff")
+index_function("DiffTesP")
