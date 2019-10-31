@@ -154,4 +154,13 @@ def index_function(word):
     foo = [caps.append(word.index(x)) for x in word if x.isupper()]
     return ordered(caps)
 
-index_function("DiffTesP")
+# index_function("DiffTesP")
+
+# kata: https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010/train/python
+def lost_sheep(friday: list, saturday: list, total: int):
+    friday_sheep = sum(friday)
+    print(int(friday_sheep))
+    print(saturday)
+    print(total)
+
+lost_sheep([93,3],[22,9],4)
