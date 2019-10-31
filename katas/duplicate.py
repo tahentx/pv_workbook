@@ -159,8 +159,8 @@ def index_function(word):
 # kata: https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010/train/python
 def lost_sheep(friday: list, saturday: list, total: int):
     friday_sheep = sum(friday)
-    print(int(friday_sheep))
-    print(saturday)
-    print(total)
-
-lost_sheep([93,3],[22,9],4)
+    saturday_sheep = sum(saturday)
+    all_seen_sheep = int(friday_sheep) + int(saturday_sheep)
+    all_unseen_sheep = total - all_seen_sheep
+    return all_unseen_sheep
+lost_sheep([93,3],[22,9],134)
