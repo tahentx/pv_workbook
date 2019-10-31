@@ -163,4 +163,14 @@ def lost_sheep(friday: list, saturday: list, total: int):
     all_seen_sheep = int(friday_sheep) + int(saturday_sheep)
     all_unseen_sheep = total - all_seen_sheep
     return all_unseen_sheep
-lost_sheep([93,3],[22,9],134)
+# lost_sheep([93,3],[22,9],134)
+
+# https://www.codewars.com/kata/rot13-1/train/python
+def rot13(message: str):
+    alphabet = [chr(i) for i in range(ord('a'),ord('z')+1)]
+    alph_dict = {k: v for v, k in enumerate(alphabet)}
+    for x in message:
+        if x in alph_dict:
+            print(alph_dict.get(x))
+
+rot13("test")
