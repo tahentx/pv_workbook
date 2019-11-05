@@ -174,3 +174,8 @@ def rot13(message: str):
             print(alph_dict.get(x))
 
 rot13("test")
+
+# kata: https://www.codewars.com/kata/thinkful-string-drills-repeater/python
+
+def repeater(string, number):
+    return string * int(number)
