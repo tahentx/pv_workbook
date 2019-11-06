@@ -173,9 +173,25 @@ def rot13(message: str):
         if x in alph_dict:
             print(alph_dict.get(x))
 
-rot13("test")
+# rot13("test")
 
 # kata: https://www.codewars.com/kata/thinkful-string-drills-repeater/python
 
 def repeater(string, number):
     return string * int(number)
+
+# kata: https://www.codewars.com/kata/rotate-for-a-max/train/python
+
+def max_rot(num: int):
+    store = []
+    #
+    num_to_str = str(num)
+    str_to_list = list(num_to_str)
+    str_to_list.insert(len(str_to_list),str_to_list[0])
+    str_to_list.pop(0)
+    store.append(str_to_list)
+    print(store)
+    
+
+
+max_rot(5832)
