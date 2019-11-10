@@ -198,6 +198,7 @@ def max_rot(num: int):
 
 def stray_num(nums):
     assert len(nums) % 2 != 0
-
+    x = [n for n in nums if nums.count(n) == 1]
+    return int(x[0])
 stray_num([4,5,5])
 # stray_num([3,4])
