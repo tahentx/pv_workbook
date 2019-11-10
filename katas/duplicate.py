@@ -191,7 +191,13 @@ def max_rot(num: int):
     str_to_list.pop(0)
     store.append(str_to_list)
     print(store)
-    
 
 
-max_rot(5832)
+
+# max_rot(5832)
+
+def stray_num(nums):
+    assert len(nums) % 2 != 0
+
+stray_num([4,5,5])
+# stray_num([3,4])
