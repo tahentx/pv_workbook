@@ -207,11 +207,13 @@ def highest_word(arr):
     from string import ascii_lowercase
     assert isinstance(arr,str)
     foo = arr.split()
-
     letter_mapping = dict(zip(ascii_lowercase, count(1)))
+    new = []
     for x in foo:
         val = [letter_mapping[letter] for letter in x.lower() if letter in letter_mapping]
-        
+        new.append(sum(val))
+    return max(new)
+
 
 
 highest_word('I like food a lot')
