@@ -203,10 +203,15 @@ def stray_num(nums):
 # stray_num([4,5,5])
 
 def highest_word(arr):
-    import string
+    from itertools import count
+    from string import ascii_lowercase
     assert isinstance(arr,str)
     foo = arr.split()
-    
+
+    letter_mapping = dict(zip(ascii_lowercase, count(1)))
+    for x in foo:
+        val = [letter_mapping[letter] for letter in x.lower() if letter in letter_mapping]
+        
 
 
 highest_word('I like food a lot')
