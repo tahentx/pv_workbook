@@ -195,10 +195,18 @@ def max_rot(num: int):
 
 
 # max_rot(5832)
-
+# kata: https://www.codewars.com/kata/find-the-stray-number/train/python
 def stray_num(nums):
     assert len(nums) % 2 != 0
     x = [n for n in nums if nums.count(n) == 1]
     return int(x[0])
-stray_num([4,5,5])
-# stray_num([3,4])
+# stray_num([4,5,5])
+
+def highest_word(arr):
+    import string
+    assert isinstance(arr,str)
+    foo = arr.split()
+    
+
+
+highest_word('I like food a lot')
