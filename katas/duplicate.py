@@ -202,6 +202,7 @@ def stray_num(nums):
     return int(x[0])
 # stray_num([4,5,5])
 
+
 # kata: https://www.codewars.com/kata/highest-scoring-word/train/python
 def highest_word(arr):
     from itertools import count
@@ -215,3 +216,12 @@ def highest_word(arr):
         new.append(sum(val))
     answer = [y for y in foo if foo.index(y) == new.index(max(new))]
     return answer[0]
+
+
+def split_test(str):
+    str_list = str.split()
+    del str_list[:2]
+    clean_plant = ' '.join(str_list)
+    return clean_plant
+
+split_test('047 - San Diego Inspiration Point')
