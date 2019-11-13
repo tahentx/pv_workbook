@@ -218,10 +218,25 @@ def highest_word(arr):
     return answer[0]
 
 
-def split_test(str):
+def clean_plant(str):
     str_list = str.split()
     del str_list[:2]
-    clean_plant = ' '.join(str_list)
-    return clean_plant
+    clean_plt = ' '.join(str_list)
+    return clean_plt
 
-split_test('047 - San Diego Inspiration Point')
+# split_test('047 - San Diego Inspiration Point')
+
+# https://www.codewars.com/kata/equal-sides-of-an-array/train/python
+def find_even_index(arr):
+    arr_rev = arr[::-1]
+    z = []
+    for x,y in zip(arr,arr_rev):
+        z.append(x+y)
+    sorted_z = sorted(z)
+    length = len(z)
+    index = (length -1) // 2
+    print(index)
+
+
+
+find_even_index([40,9,-6,3,4,19,11])
