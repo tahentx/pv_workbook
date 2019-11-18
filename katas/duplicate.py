@@ -237,6 +237,12 @@ def find_even_index(arr):
     index = (length -1) // 2
     print(index)
 
+# find_even_index([40,9,-6,3,4,19,11])
 
+# kata: https://www.codewars.com/kata/testing-1-2-3/train/python
+def testing(lines):
+    it = iter(lines)
+    res_dct = dict(zip(lines.index(it),it))
+    print(res_dct)
 
-find_even_index([40,9,-6,3,4,19,11])
+testing(["d","g","b"])
