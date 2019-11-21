@@ -241,8 +241,21 @@ def find_even_index(arr):
 
 # kata: https://www.codewars.com/kata/testing-1-2-3/train/python
 def testing(lines):
-    it = iter(lines)
-    res_dct = dict(zip(lines.index(it),it))
-    print(res_dct)
+    presidents = lines
+    for num, name in enumerate(presidents, start=1):
+        print("President {}: {}".format(num, name))
 
-testing(["d","g","b"])
+# testing(["Washington", "Adams", "Jefferson", "Madison", "Monroe", "Adams", "Jackson"])
+
+
+# kata: https://www.codewars.com/kata/compare-strings-by-sum-of-chars/train/python
+def compare(s1,s2):
+    a = list(s1.upper())
+    b = list(s2.upper())
+    v1 = sum(map(lambda x: ord(x),a))
+    v2 = sum(map(lambda x: ord(x),b))
+    if v1 == v2:
+        print("True")
+    else:
+        print("False")
+compare("AA","AA")
