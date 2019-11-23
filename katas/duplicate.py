@@ -255,7 +255,15 @@ def compare(s1,s2):
     v1 = sum(map(lambda x: ord(x),a))
     v2 = sum(map(lambda x: ord(x),b))
     if v1 == v2:
-        print("True")
+        return True
     else:
-        print("False")
-compare("AA","AA")
+        return False
+# compare("AA","AA")
+
+# kata: https://www.codewars.com/kata/write-number-in-expanded-form/train/python
+def expanded_form(num):
+    num_str = str(num)
+    base = "0"
+
+
+expanded_form("brand")
