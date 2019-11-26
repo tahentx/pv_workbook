@@ -264,6 +264,20 @@ def compare(s1,s2):
 def expanded_form(num):
     num_str = str(num)
     base = "0"
+    starting = len(num) - 1
+    add_zero = list(map(lambda x: x + (base * starting),list(num)))
+    print(add_zero)
+
+# expanded_form("brand")
+
+# kata: https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/train/python
+def nameList(names):
+    foo = []
+    for x in names:
+        foo.append(names.get(x))
+    output = " & ".join([", ".join(foo[:-1]),foo[-1]])
+    print(output)
 
 
-expanded_form("brand")
+foo = {'blue' : '42','red' : '18','green' : '18'}
+nameList(foo)
