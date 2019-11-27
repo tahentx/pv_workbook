@@ -218,6 +218,7 @@ def highest_word(arr):
     return answer[0]
 
 
+
 def clean_plant(str):
     str_list = str.split()
     del str_list[:2]
@@ -269,15 +270,24 @@ def expanded_form(num):
     print(add_zero)
 
 # expanded_form("brand")
-
 # kata: https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/train/python
 def nameList(names):
     foo = []
     for x in names:
         foo.append(names.get(x))
     output = " & ".join([", ".join(foo[:-1]),foo[-1]])
-    print(output)
+    return output
 
 
 foo = {'blue' : '42','red' : '18','green' : '18'}
-nameList(foo)
+# nameList(foo)
+
+# kata: https://www.hackerrank.com/challenges/np-shape-reshape/problem
+import numpy as np
+
+def reshape(arr):
+    foo_bar = arr.replace(" ","")
+    foo = list(foo_bar)
+    print(np.reshape(foo,[3,3]))
+
+reshape("4 3 2 6 9 8 1 5 5")
