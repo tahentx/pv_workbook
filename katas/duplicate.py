@@ -290,4 +290,24 @@ def reshape(arr):
     foo = list(foo_bar)
     print(np.reshape(foo,[3,3]))
 
-reshape("4 3 2 6 9 8 1 5 5")
+# reshape("4 3 2 6 9 8 1 5 5")
+
+# np.random.seed(42)
+# rand =  np.random.random(size=4)
+# heads = rand > 0.5
+# print(heads)
+
+# kata: https://www.codewars.com/kata/make-a-function-that-does-arithmetic/train/python
+def arithmetic(a, b, operator):
+    if operator == "add":
+        return a + b
+    elif operator == "subtract":
+        return a - b
+    elif operator == "multiply":
+        return a * b
+    else:
+        return a / b
+
+arithmetic(5,3,"add")
+arithmetic(5,3,"divide")
+arithmetic(9,3,"foo")
