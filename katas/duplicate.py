@@ -308,6 +308,10 @@ def arithmetic(a, b, operator):
     else:
         return a / b
 
-arithmetic(5,3,"add")
-arithmetic(5,3,"divide")
-arithmetic(9,3,"foo")
+# arithmetic(5,3,"add")
+# arithmetic(5,3,"divide")
+# arithmetic(9,3,"foo")
+
+# kata: https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/train/python
+def get_sum(a,b):
+    return sum(list(range(a,b + 1)))
