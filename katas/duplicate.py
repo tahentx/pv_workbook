@@ -314,4 +314,20 @@ def arithmetic(a, b, operator):
 
 # kata: https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/train/python
 def get_sum(a,b):
-    return sum(list(range(a,b + 1)))
+    print(sum(list(range(a,b + 1))))
+# get_sum(0,-1)
+
+def xo(s):
+    ls = list(s)
+    exes = []
+    ohs = []
+    for i in ls:
+        if i == "x":
+            exes.append(i)
+        elif i == "o":
+            ohs.append(i)
+    if len(exes) == len(ohs):
+        return True
+    else:
+        return False
+xo("xxoo")
