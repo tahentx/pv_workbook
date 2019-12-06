@@ -326,6 +326,10 @@ def xo(s):
             exes.append(i)
         elif i == "o":
             ohs.append(i)
+        elif i == "X":
+            exes.append(i)
+        elif i == "O":
+            ohs.append(i)
     if len(exes) == len(ohs):
         return True
     else:
