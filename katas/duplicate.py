@@ -334,4 +334,14 @@ def xo(s):
         return True
     else:
         return False
-xo("xxoo")
+# xo("xxoo")
+
+def find_longest(arr):
+    z = []
+    for x in arr:
+        z.append(len(str(x)))
+    for y in arr:
+        if len(str(y)) == max(z):
+            return y
+
+find_longest([33,462,31])
