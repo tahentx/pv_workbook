@@ -343,5 +343,13 @@ def find_longest(arr):
     for y in arr:
         if len(str(y)) == max(z):
             return y
-
 find_longest([33,462,31])
+
+def remove_url_anchor(url):
+    lst = list(url)
+    foo = [lst.index(x) for x in lst if x == "#"]
+    x = foo[0]
+    y = slice(0,x)
+    return url[y]
+
+remove_url_anchor("www.espn.com#test")
