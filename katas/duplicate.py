@@ -345,6 +345,7 @@ def find_longest(arr):
             return y
 find_longest([33,462,31])
 
+# kata: https://www.codewars.com/kata/remove-anchor-from-url/train/python
 def remove_url_anchor(url):
     lst = list(url)
     foo = [lst.index(x) for x in lst if x == "#"]
@@ -352,4 +353,13 @@ def remove_url_anchor(url):
     y = slice(0,x)
     return url[y]
 
-remove_url_anchor("www.espn.com#test")
+# remove_url_anchor("www.espn.com#test")
+
+
+items = [1, 2, 3, 4, 5]
+squared = list(map(lambda x: x**2, items))
+# print(squared)
+
+wo = [500,325,4353,324,904]
+misc_cost = list(map(lambda x: x*.15, wo))
+print("Miscellaneous costs for Macerich in November: " + str(sum(misc_cost)))
