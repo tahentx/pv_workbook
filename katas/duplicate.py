@@ -362,4 +362,14 @@ squared = list(map(lambda x: x**2, items))
 
 wo = [500,325,4353,324,904]
 misc_cost = list(map(lambda x: x*.15, wo))
-print("Miscellaneous costs for Macerich in November: " + str(sum(misc_cost)))
+# print("Miscellaneous costs for Macerich in November: " + str(sum(misc_cost)))
+
+
+def order(sentence):
+    lst_sen = sentence.split()
+    for word in lst_sen:
+        for i,c in enumerate(word):
+            if c.isdigit():
+                print(i)
+                break
+order("let4 6us 9try")
