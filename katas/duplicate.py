@@ -366,10 +366,9 @@ misc_cost = list(map(lambda x: x*.15, wo))
 
 
 def order(sentence):
-    lst_sen = sentence.split()
-    for word in lst_sen:
-        for i,c in enumerate(word):
-            if c.isdigit():
-                print(i)
-                break
+    base = sentence.split()
+    for word in base:
+        way = [int(i) for i,c in enumerate(word) if c.isdigit()]
+        print(way)
+
 order("let4 6us 9try")
