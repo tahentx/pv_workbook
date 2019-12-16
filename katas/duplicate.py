@@ -364,11 +364,14 @@ wo = [500,325,4353,324,904]
 misc_cost = list(map(lambda x: x*.15, wo))
 # print("Miscellaneous costs for Macerich in November: " + str(sum(misc_cost)))
 
-
 def order(sentence):
-    base = sentence.split()
-    for word in base:
-        way = [int(i) for i,c in enumerate(word) if c.isdigit()]
-        print(way)
+    return " ".join(sorted(sentence.split(), key=lambda x: int(filter(str.isdigit, x))))
 
-order("let4 6us 9try")
+# order("let4 6us 9try")
+
+def kebabize(string):
+    s = string.split()
+    s2 = '-'.join(s)
+    return s2.lower()
+
+kebabize("This is a test")
