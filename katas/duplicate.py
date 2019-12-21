@@ -381,6 +381,14 @@ def kebabize(string):
 def stat(strg):
     strg_splt = strg.split()
     cln = [word.rstrip(",") for word in strg_splt]
-    print(cln)
+    x = cln[0]
+    y = x.split("|")
+
+    hr_sec = int(y[0]) * 3600
+    min_sec = int(y[1]) * 60
+    time = hr_sec + min_sec + int(y[2])
+
+    print(time)
+        
 
 stat("01|15|59, 1|47|16, 01|17|20, 1|32|34, 2|17|17")
