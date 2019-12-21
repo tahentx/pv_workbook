@@ -374,4 +374,13 @@ def kebabize(string):
     s2 = '-'.join(s)
     return s2.lower()
 
-kebabize("This is a test")
+# kebabize("This is a test")
+
+# kata: https://www.codewars.com/kata/statistics-for-an-athletic-association/python
+
+def stat(strg):
+    strg_splt = strg.split()
+    cln = [word.rstrip(",") for word in strg_splt]
+    print(cln)
+
+stat("01|15|59, 1|47|16, 01|17|20, 1|32|34, 2|17|17")
