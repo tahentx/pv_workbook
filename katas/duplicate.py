@@ -384,11 +384,17 @@ def stat(strg):
     x = cln[0]
     y = x.split("|")
 
-    hr_sec = int(y[0]) * 3600
-    min_sec = int(y[1]) * 60
-    time = hr_sec + min_sec + int(y[2])
+    team_times = []
 
-    print(time)
-        
+    def time_work(time):
+        hr_sec = int(time[0]) * 3600
+        min_sec = int(time[1]) * 60
+        time_num = hr_sec + min_sec + int(time[2])
+        team_times.append(time_num)
+
+    time_work(y)
+    print(team_times)
+
+
 
 stat("01|15|59, 1|47|16, 01|17|20, 1|32|34, 2|17|17")
