@@ -402,4 +402,16 @@ def square_digits(num):
     x = [str(i) for i in sq]
     ans = int(''.join(x))
     return ans
-square_digits(5523)
+# square_digits(5523)
+
+def comp(array1, array2):
+    import math
+    comp_arr = list(map(lambda x : x * x, array1))
+    sorted1 = comp_arr.sort()
+    sorted2 = array2.sort()
+    if sorted1 == sorted2:
+        return True
+    else:
+        return False
+
+comp([4,5,6],[16,25,36])
