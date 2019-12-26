@@ -395,6 +395,11 @@ def stat(strg):
     time_work(y)
     print(team_times)
 
-
-
-stat("01|15|59, 1|47|16, 01|17|20, 1|32|34, 2|17|17")
+# kata: https://www.codewars.com/kata/square-every-digit/train/python
+def square_digits(num):
+    num_s = [int(x) for x in str(num)]
+    sq = list(map(lambda y : y ** 2, num_s))
+    x = [str(i) for i in sq]
+    ans = int(''.join(x))
+    return ans
+square_digits(5523)
