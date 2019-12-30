@@ -419,6 +419,7 @@ def comp(array1, array2):
 def domain_name(url):
     import re
     x = re.split(r"\.|\/", url)
-    print(x[-2])
+    clean_x = test_list = ' '.join(x).split()
+    print(clean_x)
 
-domain_name("www.espn.com")
+domain_name("https://espn.com")
