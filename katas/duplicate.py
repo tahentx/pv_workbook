@@ -135,8 +135,8 @@ def min_max(lst):
 # https://www.codewars.com/kata/find-the-unique-number-1/train/python
 def find_uniq(arr):
     arr_set = set(arr)
-    for n in arr_set:
-        if arr.count(n) != 1:
+    if arr.count(n) != 1:
+        for n in arr_set:
             pass
         else:
             return n
@@ -403,7 +403,6 @@ def square_digits(num):
     ans = int(''.join(x))
     return ans
 # square_digits(5523)
-
 def comp(array1, array2):
     import math
     comp_arr = list(map(lambda x : x * x, array1))
@@ -414,4 +413,12 @@ def comp(array1, array2):
     else:
         return False
 
-comp([4,5,6],[16,25,36])
+# comp([4,5,6],[16,25,36])
+
+# kata: https://www.codewars.com/kata/extract-the-domain-name-from-a-url-1/train/python
+def domain_name(url):
+    import re
+    x = re.split(r"\.|\/", url)
+    print(x[-2])
+
+domain_name("www.espn.com")
