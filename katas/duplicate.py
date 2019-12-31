@@ -419,7 +419,20 @@ def comp(array1, array2):
 def domain_name(url):
     import re
     x = re.split(r"\.|\/", url)
-    clean_x = test_list = ' '.join(x).split()
-    print(clean_x)
+    clean_x = ' '.join(x).split()
+    return clean_x[1]
 
-domain_name("https://espn.com")
+# domain_name("https://espn.com")
+
+# kata: https://www.codewars.com/kata/539ee3b6757843632d00026b/train/python
+def capitals(word):
+    list_word = list(word)
+    output = [x.islower() for x in list_word]
+    word_dict = { k:v for (k,v) in zip(list_word,output)}
+    answer = []
+    for key, value in word_dict.items():
+        if value == False:
+            answer.append(key)
+    y = [list_word.index(x) for x in answer if x in list_word]
+    return y
+capitals("BooBoO")
