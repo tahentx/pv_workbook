@@ -427,13 +427,5 @@ def domain_name(url):
 # kata: https://www.codewars.com/kata/539ee3b6757843632d00026b/train/python
 def capitals(word):
     list_word = list(word)
-    output = [x.islower() for x in list_word]
-    word_dict = { k:v for (k,v) in zip(list_word,output)}
-    answer = []
-    for key, value in word_dict.items():
-        if value == False:
-            answer.append(key)
-    y = [list_word.index(x) for x in answer if x in list_word]
-    z = sorted(y)
-    print(z)
-capitals("BooBoO")
+    return [list_word.index(y) for y in list_word if y.islower() == False]
+capitals("nnnYYsagU")
