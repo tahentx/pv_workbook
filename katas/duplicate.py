@@ -434,5 +434,6 @@ def capitals(word):
         if value == False:
             answer.append(key)
     y = [list_word.index(x) for x in answer if x in list_word]
-    return y
+    z = sorted(y)
+    print(z)
 capitals("BooBoO")
