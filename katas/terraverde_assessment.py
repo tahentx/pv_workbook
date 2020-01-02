@@ -14,23 +14,23 @@
 
 
 #
-def lineFromPoints(coord1,coord2):
+def lineFromPoints(coordinate_set = [], *args):
+
     # The first step is to calculate the slope of the line
-    a = coord1[1] - coord2[1]
-    b = coord1[0] - coord2[0]
-    c = a/b
-    print(c)
+    a = coords1[1] - coords2[1]
+    b = coords1[0] - coords2[0]
+    slope = a/b
+
     # Next step is to create the slope of a perpendicular line
-    # int_vector = -1/c
-    #
-    # y = (int_vector * (b - 3)) + 2
+    inverse_slope = -1/slope
+
+    intersecting_lines = []
+
+    for i in range(3):
+        x_intercept = inverse_slope * (coord1[0] - i)
+        i = i + 5
+        intersecting_lines.append([x_intercept,coord1[1]])
+    print(intersecting_lines)
 
 
-
-
-
-# Driver code
-if __name__=='__main__':
-    P = [-3,-3]
-    Q = [3,1]
-    lineFromPoints(P,Q)
+lineFromPoints()
