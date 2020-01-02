@@ -10,26 +10,27 @@
 #
 # create_intersection([[5,4],[7,5]])
 
-def lineFromPoints(P,Q):
+
+
+
+#
+def lineFromPoints(coord1,coord2):
     # The first step is to calculate the slope of the line
-    a = Q[1] - P[1]
-    b = P[0] - Q[0]
-    c = a*(P[0]) + b*(P[1])
-
-    # Next step is to create a perpendicular line
-    int_vector = -1/c
-    print(str(int_vector))
-
+    a = coord1[1] - coord2[1]
+    b = coord1[0] - coord2[0]
+    c = a/b
+    print(c)
+    # Next step is to create the slope of a perpendicular line
+    # int_vector = -1/c
     #
-    # if(b<0):
-    #     print("The line passing through points P and Q is:",
-    #           a ,"x ",b ,"y = ",c ,"\n")
-    # else:
-    #     print("The line passing through points P and Q is: ",
-    #           a ,"x + " ,b ,"y = ",c ,"\n")
+    # y = (int_vector * (b - 3)) + 2
+
+
+
+
 
 # Driver code
 if __name__=='__main__':
-    P = [2, 5]
-    Q = [6, 9]
+    P = [-3,-3]
+    Q = [3,1]
     lineFromPoints(P,Q)
