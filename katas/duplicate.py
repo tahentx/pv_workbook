@@ -439,4 +439,12 @@ def sort_by_length(arr):
         print(sorted(arr,key=len))
     except:
         print("Input did not work with function")
-sort_by_length(["44","forty"])
+# sort_by_length(["44","forty"])
+
+# kata: https://www.codewars.com/kata/summing-a-numbers-digits/train/python
+def sum_digits(number):
+    values = list(map(int, str(number)))
+    return sum(values)
+
+
+sum_digits(542)
