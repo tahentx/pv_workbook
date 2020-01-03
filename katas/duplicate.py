@@ -431,4 +431,12 @@ def capitals(word):
     answer = set(z)
     foo = sorted((list(answer)))
     print(foo)
-capitals("nnnYXsagU")
+# capitals("nnnYXsagU")
+
+# kata: https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c
+def sort_by_length(arr):
+    try:
+        print(sorted(arr,key=len))
+    except:
+        print("Input did not work with function")
+sort_by_length(["44","forty"])
