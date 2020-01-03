@@ -14,23 +14,36 @@
 
 
 #
-def lineFromPoints(coordinate_set = [], *args):
+def lineFromPoints(P,Q) -> list:
 
     # The first step is to calculate the slope of the line
-    a = coords1[1] - coords2[1]
-    b = coords1[0] - coords2[0]
+    a = P[1] - Q[1]
+    b = P[0] - Q[0]
     slope = a/b
-
+    print(slope)
     # Next step is to create the slope of a perpendicular line
     inverse_slope = -1/slope
+    print(inverse_slope)
+    # Create empty list to store the three distinct perpendicular lines that cross the input set
+    intercept = []
 
-    intersecting_lines = []
+    # Create first line
+    x_0 = 0
+    x_1 = Q[0]
+    y_0 = 0
 
     for i in range(3):
-        x_intercept = inverse_slope * (coord1[0] - i)
-        i = i + 5
-        intersecting_lines.append([x_intercept,coord1[1]])
-    print(intersecting_lines)
+        y_1 = inverse_slope * (x_1 - x_0) + y_0
+        intercept.append(y_1)
+        y_0 = y_0 + 1
+
+    print(intercept)
+
+    # coordinates = list(map(lambda y : y + 5, ))
+    #
 
 
-lineFromPoints()
+if __name__=='__main__':
+    P = [3, 2]
+    Q = [2, 6]
+    lineFromPoints(P,Q)
