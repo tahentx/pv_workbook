@@ -447,4 +447,15 @@ def sum_digits(number):
     return sum(values)
 
 
-sum_digits(542)
+# sum_digits(542)
+
+a = input("Is your car silent when you turn the key? Please answer with 'Y' or 'N'")
+if a == "Y":
+    b = input("Are the battery terminals corroded?")
+    if b == "Y":
+        print("Clean terminals and try again")
+    elif b == "N":
+        print("Replace cables and try again")
+elif a == "N":
+    c = input("Does the car make a clicking noise?")
+    print("that's not good")
