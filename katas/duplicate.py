@@ -458,4 +458,17 @@ if a == "Y":
         print("Replace cables and try again")
 elif a == "N":
     c = input("Does the car make a clicking noise?")
-    print("that's not good")
+    if c == "Y":
+        print("Replace the battery")
+    elif c == "N":
+        d = input("Does the car crank up but fail to start?")
+        if d == "Y":
+            print("Check the spark plug connections")
+        elif d == "N":
+            e = input("Does the engine start and then die?")
+            if e == "Y":
+                f = input("Does your car have fuel injection?")
+                if f == "Y":
+                    print("Get it in for service")
+                else:
+                    print("Check to ensure the choke is opening and closing")
