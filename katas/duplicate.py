@@ -490,4 +490,17 @@ def phone_number(digits: list) -> str:
     return number
 
 
-phone_number([1,2,3,5,5,6,6,3,2,3])
+# phone_number([1,2,3,5,5,6,6,3,2,3])
+
+def blocks(s: str) -> str:
+    s_list = list(s)
+    low = []
+    up = []
+    num = []
+    for x in s_list:
+        if x.isnumeric() == True:
+            num.append(x)
+    print(num)
+
+
+blocks("abTY3uvsX")
