@@ -476,6 +476,18 @@ def sum_digits(number):
 
 def phone_number(digits: list) -> str:
     assert len(digits) == 10
-    print(digits)
+    # add parentheses
+    par1 = "("
+    par2 = ")"
+    digits.insert(0,par1)
+    digits.insert(4,par2)
+    # add space and dash
+    space = ' '
+    dash = "-"
+    digits.insert(8,dash)
+    digits.insert(5,space)
+    number = ''.join(str(x) for x in digits)
+    return number
 
-phone_number([1,2,3,5,5,6,6,3,2])
+
+phone_number([1,2,3,5,5,6,6,3,2,3])
