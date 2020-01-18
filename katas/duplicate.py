@@ -449,26 +449,33 @@ def sum_digits(number):
 
 # sum_digits(542)
 
-a = input("Is your car silent when you turn the key? Please answer with 'Y' or 'N'")
-if a == "Y":
-    b = input("Are the battery terminals corroded?")
-    if b == "Y":
-        print("Clean terminals and try again")
-    elif b == "N":
-        print("Replace cables and try again")
-elif a == "N":
-    c = input("Does the car make a clicking noise?")
-    if c == "Y":
-        print("Replace the battery")
-    elif c == "N":
-        d = input("Does the car crank up but fail to start?")
-        if d == "Y":
-            print("Check the spark plug connections")
-        elif d == "N":
-            e = input("Does the engine start and then die?")
-            if e == "Y":
-                f = input("Does your car have fuel injection?")
-                if f == "Y":
-                    print("Get it in for service")
-                else:
-                    print("Check to ensure the choke is opening and closing")
+# a = input("Is your car silent when you turn the key? Please answer with 'Y' or 'N'")
+# if a == "Y":
+#     b = input("Are the battery terminals corroded?")
+#     if b == "Y":
+#         print("Clean terminals and try again")
+#     elif b == "N":
+#         print("Replace cables and try again")
+# elif a == "N":
+#     c = input("Does the car make a clicking noise?")
+#     if c == "Y":
+#         print("Replace the battery")
+#     elif c == "N":
+#         d = input("Does the car crank up but fail to start?")
+#         if d == "Y":
+#             print("Check the spark plug connections")
+#         elif d == "N":
+#             e = input("Does the engine start and then die?")
+#             if e == "Y":
+#                 f = input("Does your car have fuel injection?")
+#                 if f == "Y":
+#                     print("Get it in for service")
+#                 else:
+#                     print("Check to ensure the choke is opening and closing")
+
+
+def phone_number(digits: list) -> str:
+    assert len(digits) == 10
+    print(digits)
+
+phone_number([1,2,3,5,5,6,6,3,2])
