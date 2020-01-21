@@ -491,16 +491,6 @@ def phone_number(digits: list) -> str:
 
 
 # phone_number([1,2,3,5,5,6,6,3,2,3])
-
-def blocks(s: str) -> str:
-    s_list = list(s)
-    low = []
-    up = []
-    num = []
-    for x in s_list:
-        if x.isnumeric() == True:
-            num.append(x)
-    print(num)
-
-
-blocks("abTY3uvsX")
+import random
+service_providers = ['MaxGen','Bay4','SST']
+print(random.choices(service_providers, weights = [4, 3, 3], k = 20))
