@@ -1,4 +1,10 @@
-def foo():
-    print(2+2)
+def solution(number):
+    container = []
+    counter = 0
+    while sum(container) < number:
+        container.append(counter+3)
+        if sum(container) < number:
+            print(sum(container))
+        
 
-foo()
+solution(13)
