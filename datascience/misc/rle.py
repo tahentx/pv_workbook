@@ -3,7 +3,15 @@ from itertools import groupby
 def encode(input):
     freq = [len(list(group)) for key, group in groupby(input)]
     encoded = zip(list(set(input)),freq)
-    print(encoded)
+    output = []
+    for char in list(input):
+        for c in encoded:
+            if char == c[0]:
+                output.append(char + str(c[1]))
+    output = list(set(output))
+    output = ''.join(output)
+    return output
+    
     
     
 encode("AAAALOTOOOOFTEEEEXXXXXXT")
