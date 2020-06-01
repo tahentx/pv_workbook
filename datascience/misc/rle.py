@@ -32,4 +32,15 @@ def encode(st):
         else:
             output.append(val)
     print(output)
-encode('hello')
+# encode('hello')
+
+def decode(st):
+    # key_extract = [k for k, v in vows.items() if v in list(st)]
+    st = list(st)
+    for k,v in vows.items():
+        v = str(v)
+        for char in st:
+            if v in st:
+                st = st.replace(char,k)
+            print(st)
+decode("h2ll4")
