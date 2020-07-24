@@ -1,0 +1,925 @@
+Baseline Data,,,,Pandemic Data,,,,,,Centers > 10,,,,,,High Prevalence States,,,,,,Open the Whole Time,,,,
+State,Town/County/City,Age Ranges,Single or Multiple Locations?,Opening Details,Number of Students Served During Pandemic,Number of Staff During Pandemic,COVID-19 Cases in Children,COVID-19 Cases in Staff,,Kids,Staff,Kid COVID,Staff COVID,Count,,Count of Kids,Count of Staff,Kids COVID,Staff COVID,Total Centers,,Kids,Staff,Kid COVID,Staff COVID,Count
+Washington,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,4,,0,0,,0,0,0,0,0,,4,,0,0,1,,,,,,
+Connecticut,New Haven,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,25,19,0,2,,25,19,0,2,1,,0,0,0,0,0,,4,,0,0,1
+Connecticut,Stanford,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,10,,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Illinois,Cook County,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,60,20,2,0,,60,20,2,0,1,,0,0,0,0,0,,0,0,0,0,0
+Wisconsin ,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,40,,0,1,,40,,0,1,1,,0,0,0,0,0,,60,20,2,0,1
+California,San Francisco,2 to 4 years,Single,Closed for a portion,12,,0,0,,12,,0,0,1,,12,,0,0,1,,0,0,0,0,0
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,30,,0,0,,30,,0,0,1,,0,0,0,0,0,,12,,0,0,1
+Minnesota,Multiple,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,250,41,0,0,,250,41,0,0,1,,0,0,0,0,0,,30,,0,0,1
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,100,30,0,2,,100,30,0,2,1,,0,0,0,0,0,,250,41,0,0,1
+Oregon,Lane,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,100,30,0,2,1
+California,San Francisco,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,4,2,0,0,,0,0,0,0,0,,4,2,0,0,1,,5,1,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years",Single,Closed for a portion,8,5,0,0,,0,0,0,0,0,,8,5,0,0,1,,0,0,0,0,0
+Pennsylvania ,Dauphin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,0,6,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Maryland,Prince Georges,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,6,0,0,1
+Washington,Thurston,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,8,1,0,0,1,,6,1,0,0,1
+Kansas,Johnson,"2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,20,4,0,0,,20,4,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+California,Orange County,"5 to 10 years, Over 10",Multiple,Closed for a portion,20,6,0,0,,20,6,0,0,1,,20,6,0,0,1,,0,0,0,0,0
+California,Santa Cruz,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,43,11,0,0,,43,11,0,0,1,,43,11,0,0,1,,0,0,0,0,0
+California,Fontana,"2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,0,,,0,0,0,0,0,,5,1,0,,1,,43,11,0,0,1
+Texas,Frio,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,6,0,0,,30,6,0,0,1,,0,0,0,0,0,,5,1,0,,1
+Texas ,Bell,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,45,6,0,0,,45,6,0,0,1,,0,0,0,0,0,,30,6,0,0,1
+Maryland,Calvert,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,7,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Texas,Williamson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,65,15,0,0,,65,15,0,0,1,,0,0,0,0,0,,7,1,0,0,1
+California,Santa Clara,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,2,1,0,0,1,,65,15,0,0,1
+California,Contra Costa,2 to 4 years,Single,Closed for a portion,20,6,0,0,,20,6,0,0,1,,20,6,0,0,1,,0,0,0,0,0
+Massachusetts,,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,20,6,0,0,1
+Oregon,Lane,2 to 4 years,Single,Open the whole time,5,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,1,0,0,1
+Georgia,Newton,"1 to 2 years, 2 to 4 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,5,2,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,20,12,0,0,,20,12,0,0,1,,20,12,0,0,1,,0,0,0,0,0
+Washington,King County,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,4,2,0,0,,0,0,0,0,0,,4,2,0,0,1,,20,12,0,0,1
+Oregon,Deschutes,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,30,7,0,0,,30,7,0,0,1,,0,0,0,0,0,,4,2,0,0,1
+Arizona,Maricopa,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,100,30,0,0,,100,30,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Michigan,Calhoun,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,25,6,0,0,,25,6,0,0,1,,0,0,0,0,0,,100,30,0,0,1
+California,Riverside,"2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,15,6,0,0,,15,6,0,0,1,,15,6,0,0,1,,0,0,0,0,0
+Washington,King County,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,3,0,0,,12,3,0,0,1,,12,3,0,0,1,,15,6,0,0,1
+Texas,Wilson,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,10,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,3,0,0,1
+Texas,El Paso,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,7,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,10,4,0,0,1
+Pennsylvania ,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,6,5,0,1,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+North Carolina,Lenoir,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,45,12,0,0,,45,12,0,0,1,,0,0,0,0,0,,6,5,0,1,1
+Texas,Fort Bend,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,45,12,0,0,1
+Maryland,Garrett,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,1,0,0,,12,1,0,0,1,,0,0,0,0,0,,8,4,0,0,1
+Florida,Volusia,5 to 10 years,Multiple,Open the whole time,90,10,0,0,,90,10,0,0,1,,0,0,0,0,0,,12,1,0,0,1
+California,San Mateo,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,0,0,0,,0,0,0,0,0,,2,0,0,0,1,,90,10,0,0,1
+Floria,Pinellas,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,9,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,2,0,0,0,1
+California,Contra Costa,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,4,0,0,0,,0,0,0,0,0,,4,0,0,0,1,,0,0,0,0,0
+Texas,Starr,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Georgia,Glascock,"6 months - 1 year, 2 to 4 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,2,0,0,1
+Washington,King ,"6 weeks - 6 months, 6 months - 1 year, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,6,2,0,0,1,,6,1,0,0,1
+Texas,Harris,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,100,18,0,0,,100,18,0,0,1,,0,0,0,0,0,,6,2,0,0,1
+Connecticut,Fairfield,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,35,12,0,0,,35,12,0,0,1,,0,0,0,0,0,,100,18,0,0,1
+North Carolina,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,20,5,0,0,,20,5,0,0,1,,0,0,0,0,0,,35,12,0,0,1
+Washington,King ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,14,3,0,0,,14,3,0,0,1,,14,3,0,0,1,,20,5,0,0,1
+New Jersey,Ocean,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,10,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Pennsylvania ,Montgomery,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Arizona,Maricopa,"1 to 2 years, 2 to 4 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,1,0,0,1
+Maryland,Anne Arundel,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,1,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,7,3,0,0,,0,0,0,0,0,,7,3,0,0,1,,5,1,0,0,1
+Maryland,Anne Arundel,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,6,0,0,,,0,0,0,0,0,,0,0,0,0,0,,7,3,0,0,1
+California,Los Angeles,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,4,1,0,0,,0,0,0,0,0,,4,1,0,0,1,,0,0,0,0,0
+Arizona,Maricopa,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,100,30,0,0,,100,30,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Washington,Pierce,"2 to 4 years, 5 to 10 years",,Closed for a portion,8,0,0,0,,0,0,0,0,0,,8,0,0,0,1,,0,0,0,0,0
+Washington,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,4,2,0,0,,0,0,0,0,0,,4,2,0,0,1,,8,0,0,0,1
+Colorado,Denver,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,65,56,0,1,,65,56,0,1,1,,0,0,0,0,0,,4,2,0,0,1
+Washington,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,5,1,0,0,1,,65,56,0,1,1
+Indiana,Marion,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,7,0,0,,30,7,0,0,1,,0,0,0,0,0,,5,1,0,0,1
+North Carolina,Gaston,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,10,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,30,7,0,0,1
+Maryland,Baltimore,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Georgia,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,0,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,2,1,0,0,1
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,45,12,0,0,,45,12,0,0,1,,0,0,0,0,0,,0,1,0,0,1
+Pennsyvania,Potter,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,45,12,0,0,1
+California,San Francisco,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,4,1,0,0,,0,0,0,0,0,,4,1,0,0,1,,0,0,0,0,0
+Maryland,Montgomery,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,3,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Oregon,Clackamas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,40,15,0,0,,40,15,0,0,1,,0,0,0,0,0,,3,0,0,0,1
+California,,"6 months - 1 year, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,2,0,0,,0,0,0,0,0,,5,2,0,0,1,,40,15,0,0,1
+Illinois,McLean,"2 to 4 years, 5 to 10 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,5,2,0,0,1
+Maryland,Monkton,"6 weeks - 6 months, 1 to 2 years, 5 to 10 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,1,0,0,1
+Pennsylvania,Allegheny,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,1,0,0,1
+NewYork,New York,"1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,1,0,0,1
+New Jersey,Hudson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,7,9,0,1,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Washington,Cowlitz,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,7,2,0,0,,0,0,0,0,0,,7,2,0,0,1,,7,9,0,1,1
+Washington,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,2,0,0,,0,0,0,0,0,,3,2,0,0,1,,7,2,0,0,1
+Pennsylvania,Eerie,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,2,0,0,1
+Washington,Benton,"2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,5,1,0,0,1,,3,2,0,0,1
+California,San Bernadino,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,6,1,0,0,1,,5,1,0,0,1
+California,,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,,,,0,0,0,0,0,,2,1,,,1,,6,1,0,0,1
+Texas ,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,35,10,0,0,,35,10,0,0,1,,0,0,0,0,0,,2,1,,,1
+Illinois,Cook,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,4,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+North Carolina,Harnett,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,20,10,0,0,,20,10,0,0,1,,0,0,0,0,0,,4,4,0,0,1
+Maryland,,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,2,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Oregon,Marion,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,28,14,0,0,,28,14,0,0,1,,0,0,0,0,0,,2,0,0,0,1
+Los Angeles,Los Angeles,"1 to 2 years, 2 to 4 years",Single,Open the whole time,10,7,0,0,,0,0,0,0,0,,0,0,0,0,0,,28,14,0,0,1
+Colorado,Weld,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,10,7,0,0,1
+Arizona,Pinal,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,40,13,0,0,,40,13,0,0,1,,0,0,0,0,0,,5,1,0,0,1
+Pennsylvania,Adams,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,1,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,40,13,0,0,1
+Texas,Dallas,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,70,30,0,0,,70,30,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Texas,Coryell,"6 weeks - 6 months, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,70,30,0,0,1
+Georgia,Clayton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,8,1,0,0,1
+New York,New York,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,10,20,0,0,,0,0,0,0,0,,10,20,0,0,1,,6,2,0,0,1
+Minnesota,Anoka,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,47,16,0,0,,47,16,0,0,1,,0,0,0,0,0,,10,20,0,0,1
+California,San Francisco,2 to 4 years,Single,Closed for a portion,12,3,0,0,,12,3,0,0,1,,12,3,0,0,1,,0,0,0,0,0
+California,Los Angeles,"2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,10,4,0,0,,0,0,0,0,0,,10,4,0,0,1,,0,0,0,0,0
+Ohio,Lucas,"6 weeks - 6 months, 2 to 4 years",Single,Closed for a portion,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Oregon,Jackson,"2 to 4 years, 5 to 10 years",Multiple,Open the whole time,30,5,0,0,,30,5,0,0,1,,0,0,0,0,0,,5,1,0,0,1
+California,San Francisco,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,11,3,0,0,,11,3,0,0,1,,11,3,0,0,1,,0,0,0,0,0
+California,Alameda,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,20,14,0,0,,20,14,0,0,1,,20,14,0,0,1,,11,3,0,0,1
+Maryland,Prince Georges,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,7,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,20,14,0,0,1
+Washington,Thurston,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,1,1,0,0,,0,0,0,0,0,,1,1,0,0,1,,7,2,0,0,1
+Washington,Stevens,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,6,1,0,0,,0,0,0,0,0,,6,1,0,0,1,,0,0,0,0,0
+Washington,Pierce,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,12,1,0,0,,12,1,0,0,1,,12,1,0,0,1,,6,1,0,0,1
+North Carolina,Orange,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,1,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+California,,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,10,0,0,0,,0,0,0,0,0,,10,0,0,0,1,,1,0,0,0,1
+North Carolina,Bladen,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,45,11,0,0,,45,11,0,0,1,,0,0,0,0,0,,10,0,0,0,1
+North Carolina,Guilford,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,12,4,0,0,,12,4,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Texas,Hidalgo,"2 to 4 years, 5 to 10 years",Single,Open the whole time,4,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,4,0,0,1
+New Jersey,Union,2 to 4 years,Single,Closed for a portion,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Texas,Collins,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,3,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,1
+Virginia ,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,27,11,,,,27,11,,,1,,0,0,0,0,0,,3,2,0,0,1
+North Carolina,Wake,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,35,12,0,0,,35,12,0,0,1,,0,0,0,0,0,,27,11,,,1
+Wisconsin ,Racine,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,50,19,0,0,,50,19,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Connecticut,New HAven,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,12,3,0,0,,12,3,0,0,1,,0,0,0,0,0,,50,19,0,0,1
+Illinois,Will,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,20,14,0,0,,20,14,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Michigan,Oakland,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,20,4,0,0,,20,4,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Arizona,Mohave,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,7,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,20,4,0,0,1
+Colorado,Douglas,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,7,2,0,0,1
+Illinois,Cook,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,5,2,0,0,1
+New York,Suffold,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,9,2,0,0,,0,0,0,0,0,,9,2,0,0,1,,0,0,0,0,0
+North Carolina,Burke,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,7,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,9,2,0,0,1
+California,San Francisco,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,2,4,0,0,,0,0,0,0,0,,2,4,0,0,1,,0,0,0,0,0
+Texas,Fort Worth,"1 to 2 years, 2 to 4 years, 5 to 10 years",,Open the whole time,11,2,0,0,,11,2,0,0,1,,0,0,0,0,0,,2,4,0,0,1
+Minnesota,Hennepin,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,14,2,0,0,,14,2,0,0,1,,0,0,0,0,0,,11,2,0,0,1
+Texas,Travis,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,14,2,0,0,1
+Massachusetts,Hampden,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+New Jersey,Ocean,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,27,11,0,0,,27,11,0,0,1,,0,0,0,0,0,,0,0,0,0,1
+North Carolina,Guilford,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,6,0,0,,30,6,0,0,1,,0,0,0,0,0,,27,11,0,0,1
+Texas,Harris,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,25,4,0,0,,25,4,0,0,1,,0,0,0,0,0,,30,6,0,0,1
+Massachusetts,Quincy,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Texas,Midland,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,160,25,0,0,,160,25,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Pennsylvania,Berks,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,160,25,0,0,1
+California,San Bernadino,"1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,2,1,0,0,1,,6,1,0,0,1
+California ,,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Michigan,Wayne,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,20,4,0,0,,20,4,0,0,1,,0,0,0,0,0,,3,1,0,0,1
+California,Tulare,2 to 4 years,Single,Open the whole time,30,8,0,0,,30,8,0,0,1,,30,8,0,0,1,,20,4,0,0,1
+California,San Francisco,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,0,0,0,,0,0,0,0,0,,2,0,0,0,1,,30,8,0,0,1
+California,Los Angeles,2 to 4 years,Single,Closed for a portion,0,7,0,0,,0,0,0,0,0,,0,7,0,0,1,,0,0,0,0,0
+Pennsylvania,Carbon,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,7,0,0,1
+Gerogia,Fulton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,34,8,0,0,,34,8,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+North Carolina,Davidson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,45,10,0,0,,45,10,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,40,15,0,1,,40,15,0,1,1,,0,0,0,0,0,,45,10,0,0,1
+California,,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,6,2,0,0,1,,40,15,0,1,1
+Texas,Harris,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,20,7,0,0,,20,7,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Colorado,Araphoe,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,12,6,0,0,,12,6,0,0,1,,0,0,0,0,0,,20,7,0,0,1
+Texas,Tarrant,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,5,12,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,6,0,0,1
+California,San Mateo,"2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,12,3,0,0,,12,3,0,0,1,,12,3,0,0,1,,0,0,0,0,0
+California,San Mateo,2 to 4 years,Single,Closed for a portion,12,10,0,0,,12,10,0,0,1,,12,10,0,0,1,,0,0,0,0,0
+Texas,Hood,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,20,4,0,0,,20,4,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+New Jersey,Warren,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,35,7,0,0,,35,7,0,0,1,,0,0,0,0,0,,20,4,0,0,1
+Texas,Williamson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,10,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Washington,Clallam,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,15,5,0,0,,15,5,0,0,1,,15,5,0,0,1,,10,2,0,0,1
+Wisconsin ,Marathon,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,27,10,0,0,,27,10,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Pennsylvania,Cumberland,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,27,10,0,0,1
+Georgia,Clayton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,10,5,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Texas,Lubbock,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,95,44,0,0,,95,44,0,0,1,,0,0,0,0,0,,10,5,0,0,1
+Georgia ,Liberty ,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,10,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,95,44,0,0,1
+Oregon,Multnomah,"2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,100,29,0,0,,100,29,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+California,San Benito,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,2,1,0,0,1,,100,29,0,0,1
+California,Los Angeles,2 to 4 years,Single,Open the whole time,10,5,0,0,,0,0,0,0,0,,10,5,0,0,1,,2,1,0,0,1
+Washington,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,6,1,0,0,1,,10,5,0,0,1
+Oregon,Deshutes,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,30,7,0,0,,30,7,0,0,1,,0,0,0,0,0,,6,1,0,0,1
+Illinois ,Cook,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,22,7,0,0,,22,7,0,0,1,,0,0,0,0,0,,30,7,0,0,1
+Maryland ,Montgomery ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,8,,0,0,,0,0,0,0,0,,0,0,0,0,0,,22,7,0,0,1
+California,San Mateo,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,3,1,0,0,,0,0,0,0,0,,3,1,0,0,1,,0,0,0,0,0
+California,Alameda,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,3,1,0,0,1,,3,1,0,0,1
+Pennsylvania,Montgomery,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Georgia,Cobb,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,60,17,1,0,,60,17,1,0,1,,0,0,0,0,0,,0,0,0,0,0
+California ,San Bernardino ,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,60,17,1,0,1
+Illinois,St Clair ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,19,5,0,0,,19,5,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+California,Contra costa,2 to 4 years,Single,Closed for a portion,8,2,0,0,,0,0,0,0,0,,8,2,0,0,1,,0,0,0,0,0
+Rhode Island,US,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,30,2,0,0,,30,2,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+California,Orange ,2 to 4 years,Single,Closed for a portion,12,1,0,0,,12,1,0,0,1,,12,1,0,0,1,,0,0,0,0,0
+Indiana,Tippecanoe,"2 to 4 years, 5 to 10 years",Single,Open the whole time,12,5,0,0,,12,5,0,0,1,,0,0,0,0,0,,12,1,0,0,1
+Arizona ,Maricopa,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,80,30,0,0,,80,30,0,0,1,,0,0,0,0,0,,12,5,0,0,1
+Virginia ,Suffolk ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,24,10,0,0,,24,10,0,0,1,,0,0,0,0,0,,80,30,0,0,1
+Illinois,United States,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,40,10,0,1,,40,10,0,1,1,,0,0,0,0,0,,0,0,0,0,0
+Texas,Panola,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,36,11,0,1,,36,11,0,1,1,,0,0,0,0,0,,0,0,0,0,0
+Massachusetts,Bristol,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,12,2,0,0,,12,2,0,0,1,,0,0,0,0,0,,36,11,0,1,1
+Florida,Lake,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,15,15,0,0,,15,15,0,0,1,,0,0,0,0,0,,12,2,0,0,1
+Texas,Hays,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,15,6,0,0,,15,6,0,0,1,,0,0,0,0,0,,15,15,0,0,1
+Arizona,Pima,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,10,3,0,0,,0,0,0,0,0,,0,0,0,0,0,,15,6,0,0,1
+Mississippi,Jackson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,40,10,0,0,,40,10,0,0,1,,0,0,0,0,0,,10,3,0,0,1
+Florida,hendry,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,35,10,4,1,,35,10,4,1,1,,0,0,0,0,0,,0,0,0,0,0
+Washington ,Snohomish ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,35,10,4,1,1
+Georgia,Fulton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,70,25,0,0,,70,25,0,0,1,,0,0,0,0,0,,6,1,0,0,1
+North Carolina,Buncombe,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,24,14,0,0,,24,14,0,0,1,,0,0,0,0,0,,70,25,0,0,1
+Florida ,MIAMI DADE ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,15,25,0,0,,15,25,0,0,1,,0,0,0,0,0,,24,14,0,0,1
+Maryland,Harford ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,2,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Arizona ,Maricopa ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,2,0,0,0,1
+California ,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,4,1,0,0,1
+Texas,Hood,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,1,0,0,,12,1,0,0,1,,0,0,0,0,0,,5,1,0,0,1
+Maryland ,Kent ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,1,0,0,1
+Illinois ,Fulton ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,14,5,0,0,,14,5,0,0,1,,0,0,0,0,0,,5,0,0,0,1
+Washington,KING,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,5,2,0,0,,0,0,0,0,0,,5,2,0,0,1,,14,5,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,23,10,0,0,,23,10,0,0,1,,23,10,0,0,1,,0,0,0,0,0
+Texas,Bell,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,0,0,,,0,0,0,0,0,,0,0,0,0,0,,23,10,0,0,1
+Georgia,Dekalb,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,7,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,0,0,,1
+Maryland ,Baltimore ,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,7,0,0,0,1
+Texas,Harris,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years",Single,Closed for a portion,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+New Jersey,Mercer county,"1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,3,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Texas,Bell,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,12,4,0,0,,12,4,0,0,1,,0,0,0,0,0,,3,2,0,0,1
+Minnesota,Goodhue,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,60,12,0,0,,60,12,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Washington,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,59,27,0,0,,59,27,0,0,1,,59,27,0,0,1,,60,12,0,0,1
+California ,San Mateo county ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,59,27,0,0,1
+California ,Los Angeles,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,35,14,0,0,,35,14,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+California ,Marin ,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,5,3,0,0,,0,0,0,0,0,,0,0,0,0,0,,35,14,0,0,1
+Texas ,Harris ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,16,10,0,0,,16,10,0,0,1,,0,0,0,0,0,,5,3,0,0,1
+Pennsylvania,Allegheny,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,16,10,0,0,1
+Maryland,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,1,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,1,0,0,1
+Maryland,StMarys,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Minnesota,Ramsey,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,7,3,0,0,,0,0,0,0,0,,0,0,0,0,0,,5,1,0,0,1
+Texas,Tarrant ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,7,3,0,0,1
+North Carolina,Guilford,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,22,4,0,0,,22,4,0,0,1,,0,0,0,0,0,,5,4,0,0,1
+Georgia,Coweta,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Washington,King ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,11,2,0,0,,11,2,0,0,1,,11,2,0,0,1,,3,1,0,0,1
+Virginia,Richmond City,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,15,10,0,0,,15,10,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Texas,Dallas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,20,9,0,0,,20,9,0,0,1,,0,0,0,0,0,,15,10,0,0,1
+Pennsylvania,Berks,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,20,9,0,0,1
+Wisconsin,Rock,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,22,10,0,0,,22,10,0,0,1,,0,0,0,0,0,,6,1,0,0,1
+Massachusetts ,Worcester,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",,Closed for a portion,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Illinois,Cook,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,8,1,0,0,1
+Texas,Hidalgo ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",,Closed for a portion,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Maryland ,Baltimore City,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,2,0,0,1
+Maryland ,Prince George’s ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,2,0,0,1
+Texas,Tarrant,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",,Open the whole time,55,10,0,0,,55,10,0,0,1,,0,0,0,0,0,,8,1,0,0,1
+Maryland ,Calvert,"1 to 2 years, 2 to 4 years, 5 to 10 years",,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,55,10,0,0,1
+Washington,Spokane,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,3,0,0,,15,3,0,0,1,,15,3,0,0,1,,5,1,0,0,1
+Texas,Harris,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,50,8,0,0,,50,8,0,0,1,,0,0,0,0,0,,15,3,0,0,1
+Illinois ,Cook,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,5,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,50,8,0,0,1
+Georgia,Fayette,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,5,2,0,0,1
+California ,Orange,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",,Open the whole time,25,4,0,0,,25,4,0,0,1,,0,0,0,0,0,,6,1,0,0,1
+Texas,Cameron,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,2,0,0,,12,2,0,0,1,,0,0,0,0,0,,25,4,0,0,1
+Texas,Dallas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",One Center,Open the whole time,20,9,0,0,,20,9,0,0,1,,0,0,0,0,0,,12,2,0,0,1
+Georgia,Carroll,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,20,9,0,0,1
+Massachusetts,Boston,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,2,0,0,1
+Georgia ,Fulton ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Maryland ,Montgomery County,"2 to 4 years, 5 to 10 years",Single,Open the whole time,7,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,2,1,0,0,1
+Indiana,Randolph,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,12,14,0,0,,12,14,0,0,1,,0,0,0,0,0,,7,2,0,0,1
+California,San Francisco,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,0,0,0,0,,0,0,0,0,0,,0,0,0,0,1,,0,0,0,0,0
+California,Orange,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,27,10,0,0,,27,10,0,0,1,,27,10,0,0,1,,0,0,0,0,0
+Washington,Snohomish,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,40,10,0,0,,40,10,0,0,1,,40,10,0,0,1,,27,10,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,3,1,0,0,1,,40,10,0,0,1
+Pennsylvania,Bucks,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,8,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Georgia,Gwinnett ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,18,7,0,0,,18,7,0,0,1,,0,0,0,0,0,,8,2,0,0,1
+California,Alameda,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,4,1,0,0,1,,18,7,0,0,1
+California,San Mateo,2 to 4 years,One Center,Closed for a portion,12,10,0,0,,12,10,0,0,1,,12,10,0,0,1,,0,0,0,0,0
+Pennsylvania,Northampton,"2 to 4 years, 5 to 10 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,10,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",One Center,Open the whole time,7,3,0,0,,0,0,0,0,0,,7,3,0,0,1,,3,1,0,0,1
+Washington ,King,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,7,3,0,0,1
+California,Los Angeles,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,59,10,0,0,,59,10,0,0,1,,59,10,0,0,1,,0,0,0,0,0
+New Jersey ,Morris,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,4,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,59,10,0,0,1
+Texas,Tarrant ,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,1,,,,0,0,0,0,0,,0,0,0,0,0,,4,2,0,0,1
+Maryland,Montgomery ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,20,17,0,0,,20,17,0,0,1,,0,0,0,0,0,,4,1,,,1
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",One Center,Open the whole time,40,15,0,1,,40,15,0,1,1,,0,0,0,0,0,,20,17,0,0,1
+Texas,Collin,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,40,15,0,1,1
+Washington,Pierce,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,4,1,,0,,0,0,0,0,0,,4,1,,0,1,,0,0,0,0,0
+Illinois,Dekalb ,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,4,1,,0,1
+California,Los Angeles ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,0,0,0,,0,0,0,0,0,,5,0,0,0,1,,5,1,0,0,1
+Oregon ,Washington ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,28,8,0,0,,28,8,0,0,1,,0,0,0,0,0,,5,0,0,0,1
+California,San Francisco,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,12,3,0,0,,12,3,0,0,1,,12,3,0,0,1,,0,0,0,0,0
+Maryland,Prince George,"6 weeks - 6 months, 1 to 2 years, 2 to 4 years",,Open the whole time,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,3,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,10,1,0,0,,0,0,0,0,0,,10,1,0,0,1,,2,1,0,0,1
+Texas,Usa,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,10,1,0,0,1
+Texas,Tarrant,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,10,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,2,1,0,0,1
+Texas,Coryell,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,4,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,10,1,0,0,1
+Washinton,Snohomish,"2 to 4 years, 5 to 10 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,4,0,0,0,1
+Taexas,Victoria ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,4,3,0,0,,0,0,0,0,0,,0,0,0,0,0,,2,1,0,0,1
+Indiana,Lake,"1 to 2 years, 2 to 4 years",Single,Open the whole time,6,5,0,0,,0,0,0,0,0,,0,0,0,0,0,,4,3,0,0,1
+Arizona,Yuma,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,0,,,0,0,0,0,0,,0,0,0,0,0,,6,5,0,0,1
+California,Riverside ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,4,1,0,0,,0,0,0,0,0,,4,1,0,0,1,,0,0,0,0,0
+Texas,Johnson ,"2 to 4 years, 5 to 10 years",Single,Open the whole time,75,25,0,0,,75,25,0,0,1,,0,0,0,0,0,,4,1,0,0,1
+Texas,Guadalupe ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,12,2,0,0,,12,2,0,0,1,,0,0,0,0,0,,75,25,0,0,1
+Oregon,Washington ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,9,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,2,0,0,1
+California,Riverside ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,7,2,0,0,,0,0,0,0,0,,7,2,0,0,1,,9,1,0,0,1
+Washington,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,3,3,0,0,,0,0,0,0,0,,3,3,0,0,1,,7,2,0,0,1
+New Jersey,Newark,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",,Open the whole time,4,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,3,0,0,1
+California,Sacramento ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,14,1,0,0,,14,1,0,0,1,,14,1,0,0,1,,4,0,0,0,1
+Illinois,Cook,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,13,7,0,1,,13,7,0,1,1,,0,0,0,0,0,,0,0,0,0,0
+Colorado,Douglas,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,13,7,0,1,1
+California,Kern,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,4,0,0,,15,4,0,0,1,,15,4,0,0,1,,6,0,0,0,1
+California,Los Angeles,"2 to 4 years, 5 to 10 years",,Closed for a portion,2,2,0,0,,0,0,0,0,0,,2,2,0,0,1,,0,0,0,0,0
+Texas,Liberty ,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,2,2,0,0,1
+California,Los Angeles,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,3,1,0,0,1,,8,1,0,0,1
+Oregon,Linn,"2 to 4 years, 5 to 10 years",Single,Open the whole time,23,4,0,0,,23,4,0,0,1,,0,0,0,0,0,,3,1,0,0,1
+Texas,Hays,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,23,4,0,0,1
+California ,Fresno,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,111,2,0,0,,111,2,0,0,1,,0,0,0,0,0,,3,1,0,0,1
+Texas,Harris,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,7,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,111,2,0,0,1
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",One Center,Open the whole time,40,15,0,1,,40,15,0,1,1,,0,0,0,0,0,,7,1,0,0,1
+Connecticut,Windham,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,10,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,40,15,0,1,1
+Washington DC,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,3,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,10,4,0,0,1
+Texas,Harris,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Oregon,Washington,"6 months - 1 year, 2 to 4 years",Single,Open the whole time,2,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,1,0,0,1
+Florida ,Orange County,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,6,0,0,,0,0,0,0,0,,0,0,0,0,0,,2,0,0,0,1
+Washington,Clark,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,9,1,0,0,,0,0,0,0,0,,9,1,0,0,1,,0,0,0,0,0
+Texas,Williamson,"6 months - 1 year, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,9,1,0,0,1
+Arizona,Maricopa,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,30,13,0,0,,30,13,0,0,1,,0,0,0,0,0,,4,0,0,0,1
+Texas,McLennan ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,28,9,0,0,,28,9,0,0,1,,0,0,0,0,0,,30,13,0,0,1
+Texas,Cameron,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,30,11,0,0,,30,11,0,0,1,,0,0,0,0,0,,28,9,0,0,1
+California ,United States ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,30,11,0,0,1
+Illionis,Dekalb,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,50,34,0,1,,50,34,0,1,1,,0,0,0,0,0,,0,0,0,0,0
+Oregon,Washington ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,18,4,0,0,,18,4,0,0,1,,0,0,0,0,0,,50,34,0,1,1
+California,Riverside,"2 to 4 years, 5 to 10 years",Single,Open the whole time,12,2,0,0,,12,2,0,0,1,,12,2,0,0,1,,18,4,0,0,1
+Indiana ,Hamilton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,12,0,0,,30,12,0,0,1,,0,0,0,0,0,,12,2,0,0,1
+Washington,Pierce,"2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,4,1,0,0,,0,0,0,0,0,,4,1,0,0,1,,0,0,0,0,0
+Washington,Yakima,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,7,2,0,0,,0,0,0,0,0,,7,2,0,0,1,,4,1,0,0,1
+Washington,Clark,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,2,0,0,,12,2,0,0,1,,12,2,0,0,1,,7,2,0,0,1
+Washington,Snohomish ,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,7,0,0,,15,7,0,0,1,,15,7,0,0,1,,12,2,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,3,1,0,0,1,,15,7,0,0,1
+Oregon,Multnomah,"2 to 4 years, 5 to 10 years",Single,Open the whole time,10,3,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,1,0,0,1
+Georgia,Glynn,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Indiana,Lake,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,35,20,0,0,,35,20,0,0,1,,0,0,0,0,0,,8,1,0,0,1
+New Jersey,monmouth,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,19,15,0,0,,19,15,0,0,1,,0,0,0,0,0,,35,20,0,0,1
+Washington,Grant,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,15,3,0,0,,15,3,0,0,1,,15,3,0,0,1,,0,0,0,0,0
+Idaho,Ada,"2 to 4 years, 5 to 10 years",Single,Open the whole time,25,4,0,0,,25,4,0,0,1,,0,0,0,0,0,,15,3,0,0,1
+Washington,Pacific ,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,5,1,0,0,1,,25,4,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,2,1,0,0,1,,5,1,0,0,1
+Arizona,Maricopa,"1 to 2 years, 2 to 4 years",Single,Open the whole time,30,7,0,0,,30,7,0,0,1,,0,0,0,0,0,,2,1,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,10,2,0,0,,0,0,0,0,0,,10,2,0,0,1,,30,7,0,0,1
+Texas,Bexar,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Washington,Pierce,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,0,0,0,,0,0,0,0,0,,4,0,0,0,1,,2,1,0,0,1
+California,Santa Clara,"2 to 4 years, 5 to 10 years",Multiple,Open the whole time,40,20,0,1,,40,20,0,1,1,,40,20,0,1,1,,4,0,0,0,1
+Washington,Yakima,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,10,4,0,0,,0,0,0,0,0,,10,4,0,0,1,,40,20,0,1,1
+Washington,Snohomish ,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,7,0,0,,15,7,0,0,1,,15,7,0,0,1,,10,4,0,0,1
+Oregon,Multnomah,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,10,5,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Washington,Benton ,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,,,,0,0,0,0,0,,5,1,,,1,,10,5,0,0,1
+New York,Suffolk,"1 to 2 years, 2 to 4 years",,Closed for a portion,9,2,0,0,,0,0,0,0,0,,9,2,0,0,1,,0,0,0,0,0
+California ,Orange ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,23,14,0,2,,23,14,0,2,1,,0,0,0,0,0,,0,0,0,0,0
+Maryland ,Baltimore City,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,23,14,0,2,1
+Washington,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,2,1,0,0,1,,6,2,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,12,3,0,0,,12,3,0,0,1,,12,3,0,0,1,,2,1,0,0,1
+Washington,King,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,12,8,0,0,,12,8,0,0,1,,12,8,0,0,1,,0,0,0,0,0
+Washington,Yakima,"2 to 4 years, 5 to 10 years",Multiple,Open the whole time,6,2,0,0,,0,0,0,0,0,,6,2,0,0,1,,12,8,0,0,1
+California,San Francisco,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,4,1,0,0,,0,0,0,0,0,,4,1,0,0,1,,0,0,0,0,0
+California,Alameda ,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,3,0,0,,0,0,0,0,0,,6,3,0,0,1,,4,1,0,0,1
+Illionis,Lake,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,12,5,0,0,,12,5,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Texas,Dawson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,70,12,0,0,,70,12,0,0,1,,0,0,0,0,0,,12,5,0,0,1
+California ,San Francisco,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,70,12,0,0,1
+Georgia,North Fulton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,4,1,0,0,1
+Michigan,Oakland,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,1,0,0,1
+Florida,Hillsborough,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,20,16,0,1,,20,16,0,1,1,,0,0,0,0,0,,0,0,0,0,0
+Florida ,Leon,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,55,25,0,0,,55,25,0,0,1,,0,0,0,0,0,,20,16,0,1,1
+North Carolina ,Franklin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,35,14,0,0,,35,14,0,0,1,,0,0,0,0,0,,55,25,0,0,1
+North Carolina,Henderson,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,50,11,2,4,,50,11,2,4,1,,0,0,0,0,0,,0,0,0,0,0
+New Jersey,Mercer,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,30,10,0,0,,30,10,0,0,1,,0,0,0,0,0,,50,11,2,4,1
+Texas,Harrys,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,30,10,0,0,1
+Maryland,Carroll,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,4,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,8,1,0,0,1
+Maryland,Baltimore,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,4,0,0,0,1
+Georgia,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,40,16,0,0,,40,16,0,0,1,,0,0,0,0,0,,5,2,0,0,1
+Minnesota ,Olmsted,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,50,34,0,0,,50,34,0,0,1,,0,0,0,0,0,,40,16,0,0,1
+Florida,Collier,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,15,6,0,0,,15,6,0,0,1,,0,0,0,0,0,,50,34,0,0,1
+Maine,Cumberland,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,15,6,0,0,1
+Florida,Pinellas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,7,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,2,0,0,1
+Virginia,Chesterfield,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,50,12,0,0,,50,12,0,0,1,,0,0,0,0,0,,7,1,0,0,1
+Florida,St. Lucie,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,50,12,0,0,1
+Florida,Brevard,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,20,10,0,0,,20,10,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Virginia,Virginia beach,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,20,4,0,0,,20,4,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Georgia,Dougherty ,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,51,1,0,0,,51,1,0,0,1,,0,0,0,0,0,,20,4,0,0,1
+North Carolina,Mecklenburg,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,25,8,0,0,,25,8,0,0,1,,0,0,0,0,0,,51,1,0,0,1
+Indiana,Madison,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,40,20,0,0,,40,20,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Connecticut,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,15,5,0,0,,15,5,0,0,1,,0,0,0,0,0,,40,20,0,0,1
+Florida,Pinellas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,3,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Texas,Bell,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,5,0,0,,15,5,0,0,1,,0,0,0,0,0,,3,2,0,0,1
+Maryland,Prince George's,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,15,5,0,0,1
+Vermont ,Lamoille,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,20,14,0,0,,20,14,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Maryland ,Baltimore ,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,20,14,0,0,1
+Illinois,DuPage,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Ohio,Hamilton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,44,10,0,0,,44,10,0,0,1,,0,0,0,0,0,,4,1,0,0,1
+Maryland,Anne Arundel,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,44,10,0,0,1
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,50,12,0,0,,50,12,0,0,1,,0,0,0,0,0,,8,1,0,0,1
+Maryland ,Baltimore City ,"6 weeks - 6 months, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,9,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,50,12,0,0,1
+Florida,Osceola,"2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,10,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Florida,Marion,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,33,6,0,0,,33,6,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Maryland,Montgomery,"2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,12,8,0,1,,12,8,0,1,1,,0,0,0,0,0,,33,6,0,0,1
+Connecticut,Hartford,"6 weeks - 6 months, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,10,5,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,8,0,1,1
+Florida,Saint Lucie,"2 to 4 years, 5 to 10 years",Single,Open the whole time,20,4,0,0,,20,4,0,0,1,,0,0,0,0,0,,10,5,0,0,1
+Massachusetts ,Bristol,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,20,3,0,0,,20,3,0,0,1,,0,0,0,0,0,,20,4,0,0,1
+Felicia Hines,Gwinnett ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,18,7,0,0,,18,7,0,0,1,,0,0,0,0,0,,20,3,0,0,1
+Pennsylvania,Montgomery,"1 to 2 years, 2 to 4 years, 5 to 10 years",One Center,Closed for a portion,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Michigan,Oakland,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,12,8,0,0,,12,8,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Colorado,Weld,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,8,0,0,1
+Florida,Broward,Over 10,Single,Closed for a portion,170,30,0,0,,170,30,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Connecticut,Fairfield,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,7,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Indiana,Rush,"2 to 4 years, 5 to 10 years",Single,Open the whole time,3,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,7,2,0,0,1
+Florida,Sumter,"1 to 2 years, 2 to 4 years",Multiple,Closed for a portion,100,28,0,0,,100,28,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Florida,Palm Beach,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,30,12,0,0,,30,12,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+New York,Tompkins,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,28,10,0,0,,28,10,0,0,1,,28,10,0,0,1,,0,0,0,0,0
+Texas,Fort Bend,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,7,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,28,10,0,0,1
+Maryland,Harford,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,7,1,0,0,1
+Texas,Harris,"2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,25,4,0,0,,25,4,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Minnesota,Hennepin,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,37,8,0,0,,37,8,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Michigan,Wayne,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,10,5,0,0,,0,0,0,0,0,,0,0,0,0,0,,37,8,0,0,1
+Washington ,king ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,10,5,0,0,1
+Maryland ,USA ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,7,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Texas,Guadalupe,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,9,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Texas,Hale,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,50,30,0,0,,50,30,0,0,1,,0,0,0,0,0,,9,1,0,0,1
+Illinois,McHenry,"6 months - 1 year, 2 to 4 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,50,30,0,0,1
+Texas,Dallas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,60,6,0,0,,60,6,0,0,1,,0,0,0,0,0,,6,1,0,0,1
+Tennessee,Hamilton,2 to 4 years,Single,Closed for a portion,10,8,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Illinois,LaSalle,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,10,8,0,0,1
+Virginia,Prince Willliam ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,12,3,0,0,,12,3,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+North Carolina,Cumberland,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,60,14,0,0,,60,14,0,0,1,,0,0,0,0,0,,12,3,0,0,1
+Minnesota,Anoka,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,20,11,0,0,,20,11,0,0,1,,0,0,0,0,0,,60,14,0,0,1
+Ohio,Warren,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,75,15,0,1,,75,15,0,1,1,,0,0,0,0,0,,20,11,0,0,1
+Maryland,Howard County,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,75,15,0,1,1
+Florida,Polk,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,38,14,0,0,,38,14,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Florida,Miami-Dade,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,15,3,0,0,,15,3,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+North Carolina,Orange,"1 to 2 years, 2 to 4 years",Single,Open the whole time,15,6,0,0,,15,6,0,0,1,,0,0,0,0,0,,15,3,0,0,1
+Texas,Grayson,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,9,5,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Georgia,Gwinnett,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,14,6,0,0,,14,6,0,0,1,,0,0,0,0,0,,9,5,0,0,1
+Washington,Okanogan,5 to 10 years,Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,6,1,0,0,1,,14,6,0,0,1
+New Jersey,Camden,"1 to 2 years, 2 to 4 years",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,1,0,0,1
+Nebraska,Lancaster,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,11,0,0,,30,11,0,0,1,,0,0,0,0,0,,4,1,0,0,1
+Colorado,Denver,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Closed for a portion,35,14,0,0,,35,14,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Indiana,Madison,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,15,14,0,0,,15,14,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Illinois,Vermilion,"2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,18,14,0,0,,18,14,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Wisconsin,Sauk,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,21,9,0,0,,21,9,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Pennsylvania,Mintgomery,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,16,15,0,0,,16,15,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+New York,Ulster,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,18,15,0,0,,18,15,0,0,1,,18,15,0,0,1,,16,15,0,0,1
+Georgia,Dougherty,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,10,7,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Marylad ,Montgomery ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,10,7,0,0,1
+Pennsylvania,Allegheny,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Closed for a portion,12,28,0,0,,12,28,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+New York,Manhattan,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,9,14,0,0,,0,0,0,0,0,,9,14,0,0,1,,12,28,0,0,1
+Colorado ,Larimer ,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,9,14,0,0,1
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,35,12,0,0,,35,12,0,0,1,,0,0,0,0,0,,5,1,0,0,1
+Felicia Hines,Gwinnett ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,18,7,0,0,,18,7,0,0,1,,0,0,0,0,0,,35,12,0,0,1
+Maryland,Howard,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,25,8,0,0,,25,8,0,0,1,,0,0,0,0,0,,18,7,0,0,1
+Colorado,Adams,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,5,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,25,8,0,0,1
+Texas,Dallas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,130,21,0,0,,130,21,0,0,1,,0,0,0,0,0,,5,2,0,0,1
+Maryland,Anne Arundel,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,1,2,1,,0,0,0,0,0,,0,0,0,0,0,,130,21,0,0,1
+Wisconsin,Milwaukee,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,20,6,0,0,,20,6,0,0,1,,0,0,0,0,0,,6,1,2,1,1
+Texas ,Denton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,2,0,0,,12,2,0,0,1,,0,0,0,0,0,,20,6,0,0,1
+Wisconsin,Sheboygan,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,29,6,0,0,,29,6,0,0,1,,0,0,0,0,0,,12,2,0,0,1
+Pennsylvania ,Allegheny ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,29,6,0,0,1
+Texas,Dallas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,35,7,0,0,,35,7,0,0,1,,0,0,0,0,0,,2,1,0,0,1
+Texas,Dallas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,2,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,35,7,0,0,1
+Texas,Pharr,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,2,2,0,0,1
+California,San Bernardino,2 to 4 years,Single,Closed for a portion,24,7,0,0,,24,7,0,0,1,,24,7,0,0,1,,0,0,0,0,0
+Georgia,Cobb,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,24,7,0,0,1
+Texas,Fort Bend,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,76,15,0,0,,76,15,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Pennsylvania ,Allegheny ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,76,15,0,0,1
+Florida,Indian River,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,30,12,0,0,,30,12,0,0,1,,0,0,0,0,0,,2,1,0,0,1
+New Jersey,Ocean,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,9,0,0,,15,9,0,0,1,,0,0,0,0,0,,30,12,0,0,1
+New Jersey,Monmouth,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,15,10,0,0,,15,10,0,0,1,,0,0,0,0,0,,15,9,0,0,1
+Ohio,Hancock,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,25,5,0,0,,25,5,0,0,1,,0,0,0,0,0,,15,10,0,0,1
+Texas,Colllin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,20,10,0,0,,20,10,0,0,1,,0,0,0,0,0,,25,5,0,0,1
+Texas,Dallas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,35,65,0,0,,35,65,0,0,1,,0,0,0,0,0,,20,10,0,0,1
+Minnesota,Olmsted,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,50,15,0,0,,50,15,0,0,1,,0,0,0,0,0,,35,65,0,0,1
+Washington ,King,"2 to 4 years, 5 to 10 years",Single,Open the whole time,15,4,0,0,,15,4,0,0,1,,0,0,0,0,0,,50,15,0,0,1
+Washington ,Snohomish ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,36,18,0,0,,36,18,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Washington,King,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,4,1,0,0,1,,36,18,0,0,1
+Delaware ,New castle,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,33,13,0,0,,33,13,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Ohio,Franklin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,70,20,0,2,,70,20,0,2,1,,0,0,0,0,0,,0,0,0,0,0
+North Carolina,Durham,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,20,13,0,0,,20,13,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Pennsylvania ,Mercer,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,20,13,0,0,1
+Washington,Pierce,"2 to 4 years, 5 to 10 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,6,2,0,0,1,,6,1,0,0,1
+Florida,Palm Beach,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,35,11,0,0,,35,11,0,0,1,,0,0,0,0,0,,6,2,0,0,1
+North Carolina,McDowell,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,25,11,0,0,,25,11,0,0,1,,0,0,0,0,0,,35,11,0,0,1
+New Jersey,Ocean,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,13,3,0,0,,13,3,0,0,1,,0,0,0,0,0,,25,11,0,0,1
+Indiana,Porter,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,13,3,0,0,1
+North Carolina,New Hanover,2 to 4 years,Single,Open the whole time,40,15,0,0,,40,15,0,0,1,,0,0,0,0,0,,3,1,0,0,1
+California,San Mateo,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years",Single,Open the whole time,4,2,0,0,,0,0,0,0,0,,4,2,0,0,1,,40,15,0,0,1
+North Carolina,Forsyth,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,40,22,0,0,,40,22,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Ohio,Licking,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,54,19,0,0,,54,19,0,0,1,,0,0,0,0,0,,40,22,0,0,1
+California,San Mateo,2 to 4 years,Single,Closed for a portion,12,10,0,0,,12,10,0,0,1,,12,10,0,0,1,,0,0,0,0,0
+Minnesota,Houston,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",,Open the whole time,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,10,0,0,1
+Florida,Orange,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,66,30,0,0,,66,30,0,0,1,,0,0,0,0,0,,2,1,0,0,1
+Oregon,Washington ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,19,10,0,0,,19,10,0,0,1,,0,0,0,0,0,,66,30,0,0,1
+Minnesota,St. Louis,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,35,8,0,0,,35,8,0,0,1,,0,0,0,0,0,,19,10,0,0,1
+California,La,2 to 4 years,Single,Closed for a portion,40,13,0,0,,40,13,0,0,1,,40,13,0,0,1,,0,0,0,0,0
+Washington,King,2 to 4 years,Multiple,Open the whole time,6,4,0,0,,0,0,0,0,0,,6,4,0,0,1,,40,13,0,0,1
+California,San Diego ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,3,1,0,0,1,,6,4,0,0,1
+Illinois,McHenry,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+California,Orange,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,12,4,0,0,,12,4,0,0,1,,12,4,0,0,1,,4,1,0,0,1
+New York,Monroe,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,9,0,0,,12,9,0,0,1,,12,9,0,0,1,,12,4,0,0,1
+Colorado,Boulder ,2 to 4 years,Single,Closed for a portion,7,3,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Indiana,La Porte,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,30,22,0,0,,30,22,0,0,1,,0,0,0,0,0,,7,3,0,0,1
+Florida ,Brevard ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,28,10,0,0,,28,10,0,0,1,,0,0,0,0,0,,30,22,0,0,1
+Florida,Pinellas,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,28,10,0,0,1
+Texas,Tarrant,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,85,10,0,0,,85,10,0,0,1,,0,0,0,0,0,,3,1,0,0,1
+Oregon ,Lane ,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,5,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Minnesota,Lac Qui Parle,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,25,15,0,0,,25,15,0,0,1,,0,0,0,0,0,,5,4,0,0,1
+Washington,Clark,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,4,1,0,0,1,,25,15,0,0,1
+Texas,Dallas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,10,0,0,,30,10,0,0,1,,0,0,0,0,0,,4,1,0,0,1
+North Carolina,Guilford,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,35,10,0,0,,35,10,0,0,1,,0,0,0,0,0,,30,10,0,0,1
+Kansas,Johnson,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,20,3,0,0,,20,3,0,0,1,,0,0,0,0,0,,35,10,0,0,1
+Texas,Fort Bend,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,75,75,0,0,,75,75,0,0,1,,0,0,0,0,0,,20,3,0,0,1
+Georgia,Richmond,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,20,3,0,0,,20,3,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Maryland ,Howard ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,20,3,0,0,1
+Texas,Wilson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,25,6,0,0,,25,6,0,0,1,,0,0,0,0,0,,5,1,0,0,1
+California,CCC,2 to 4 years,Single,Closed for a portion,8,1,0,0,,0,0,0,0,0,,8,1,0,0,1,,0,0,0,0,0
+Utah,Salt Lake,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,25,5,0,0,,25,5,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Georgia,Calhoun,"1 to 2 years, 2 to 4 years",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,25,5,0,0,1
+Maryland,Baltimore,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,5,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,4,1,0,0,1
+New York,Westchester,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,7,1,0,2,,0,0,0,0,0,,7,1,0,2,1,,5,0,0,0,1
+Indiana,Floyd,2 to 4 years,Single,Closed for a portion,35,12,0,0,,35,12,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Maryland,Baltimore City,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,35,12,0,0,1
+Wisconsin,Outagamie,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,80,15,0,0,,80,15,0,0,1,,0,0,0,0,0,,5,1,0,0,1
+North Carolina,Wake,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",,Open the whole time,35,12,0,0,,35,12,0,0,1,,0,0,0,0,0,,80,15,0,0,1
+Minnesota,Washington,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,500,300,1,3,,500,300,1,3,1,,0,0,0,0,0,,35,12,0,0,1
+Texas,Ellis,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,35,18,0,0,,35,18,0,0,1,,0,0,0,0,0,,500,300,1,3,1
+Wisconsin,Kenosha,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,62,15,0,1,,62,15,0,1,1,,0,0,0,0,0,,35,18,0,0,1
+Missouri,Macon,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Closed for a portion,500,300,3,0,,500,300,3,0,1,,0,0,0,0,0,,0,0,0,0,0
+Indiana ,Hamilton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,10,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,500,300,3,0,1
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,45,20,0,0,,45,20,0,0,1,,0,0,0,0,0,,10,1,0,0,1
+Texas,Tarrant,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,10,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,45,20,0,0,1
+Michigan,Oakland,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,30,14,0,1,,30,14,0,1,1,,0,0,0,0,0,,0,0,0,0,0
+Maryland,Howard,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,30,14,0,1,1
+New Jersey,Hunterdon,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,23,7,0,0,,23,7,0,0,1,,0,0,0,0,0,,4,1,0,0,1
+Florida,Seminole,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,27,15,0,0,,27,15,0,0,1,,0,0,0,0,0,,23,7,0,0,1
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,8,2,0,0,,0,0,0,0,0,,8,2,0,0,1,,27,15,0,0,1
+Texas,Jones,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,12,1,0,0,,12,1,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Texas,El Paso,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,30,15,0,0,,30,15,0,0,1,,0,0,0,0,0,,12,1,0,0,1
+Texas,Bexar,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,13,3,0,0,,13,3,0,0,1,,0,0,0,0,0,,30,15,0,0,1
+Illinois,Champaign,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,28,10,0,0,,28,10,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+New Mexico,Santa Fe,"2 to 4 years, 5 to 10 years",Single,Open the whole time,15,2,0,0,,15,2,0,0,1,,0,0,0,0,0,,28,10,0,0,1
+Texas,Midland,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,165,30,0,0,,165,30,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Texas ,Tarrant ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,45,8,0,0,,45,8,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Texas,Travis,,,Closed for a portion,6,5,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+California,Contra Costa ,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,5,2,0,0,,0,0,0,0,0,,5,2,0,0,1,,0,0,0,0,0
+Arizona,Pima,2 to 4 years,Single,Closed for a portion,40,10,0,0,,40,10,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Minnesota ,Ramsey ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,16,5,0,2,,16,5,0,2,1,,0,0,0,0,0,,0,0,0,0,0
+Illinois,Logan,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,6,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,16,5,0,2,1
+Oregon,Yamhill,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,25,9,0,0,,25,9,0,0,1,,0,0,0,0,0,,6,4,0,0,1
+Florida,Leon,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,50,12,0,0,,50,12,0,0,1,,0,0,0,0,0,,25,9,0,0,1
+Oregon,Deschutes,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,15,4,0,0,,15,4,0,0,1,,0,0,0,0,0,,50,12,0,0,1
+Texas,Dallas,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,10,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,20,11,0,0,,20,11,0,0,1,,0,0,0,0,0,,10,2,0,0,1
+New York,Westchester,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,24,7,0,0,,24,7,0,0,1,,24,7,0,0,1,,20,11,0,0,1
+Washington state ,King ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,8,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,24,7,0,0,1
+Nebraska,Douglas,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,40,25,1,1,,40,25,1,1,1,,0,0,0,0,0,,0,0,0,0,0
+Delaware ,New Castle,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,6,0,0,,15,6,0,0,1,,0,0,0,0,0,,40,25,1,1,1
+Washington,Mason,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,19,7,0,0,,19,7,0,0,1,,19,7,0,0,1,,15,6,0,0,1
+Georgia ,Cobb,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,19,7,0,0,1
+North Carolina,Gaston,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,25,10,0,0,,25,10,0,0,1,,0,0,0,0,0,,2,1,0,0,1
+Arizona,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,30,9,0,0,,30,9,0,0,1,,0,0,0,0,0,,25,10,0,0,1
+Texas,Tarrant,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,250,50,0,0,,250,50,0,0,1,,0,0,0,0,0,,30,9,0,0,1
+Illinois,Cook,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,250,50,0,0,1
+New Jersey,Middlesex,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,8,2,1,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Texas,Travis,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,17,8,0,0,,17,8,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Florida,Orange,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,17,6,0,0,,17,6,0,0,1,,0,0,0,0,0,,17,8,0,0,1
+Texas,Bexar,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,15,5,0,0,,15,5,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+MInnesota,Rice,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,8,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Alabama,Baldwin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,38,13,0,0,,38,13,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Oregon,Washington,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,40,10,0,0,,40,10,0,0,1,,0,0,0,0,0,,38,13,0,0,1
+Colorado,Arapahoe,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,30,11,0,0,,30,11,0,0,1,,0,0,0,0,0,,40,10,0,0,1
+Arizona,Maricopa,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,20,6,0,0,,20,6,0,0,1,,0,0,0,0,0,,30,11,0,0,1
+Texas,Matagorda,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,39,16,1,0,,39,16,1,0,1,,0,0,0,0,0,,20,6,0,0,1
+Arizona,Maricopa,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 5 to 10 years, Over 10",Single,Closed for a portion,25,15,0,0,,25,15,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Virginia,Fairfax,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Closed for a portion,33,47,0,1,,33,47,0,1,1,,0,0,0,0,0,,0,0,0,0,0
+California,San Francisco,"2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,72,40,0,0,,72,40,0,0,1,,72,40,0,0,1,,0,0,0,0,0
+Florida,Duval,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,75,15,0,0,,75,15,0,0,1,,0,0,0,0,0,,72,40,0,0,1
+Washington,Whitman,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,18,15,0,0,,18,15,0,0,1,,18,15,0,0,1,,75,15,0,0,1
+Washington ,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+California ,Los Angeles ,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,1,0,0,1
+Texas,DeWitt,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,31,17,0,0,,31,17,0,0,1,,0,0,0,0,0,,6,1,0,0,1
+Maryland,Harford,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,31,17,0,0,1
+Tennessee ,Hamilton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,8,1,0,0,1
+Texas,Harris,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,28,9,0,1,,28,9,0,1,1,,0,0,0,0,0,,6,2,0,0,1
+Texas,Tarrant,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,40,50,0,0,,40,50,0,0,1,,0,0,0,0,0,,28,9,0,1,1
+North Carolina,Person,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,27,7,0,0,,27,7,0,0,1,,0,0,0,0,0,,40,50,0,0,1
+Texas,Dallas,"1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,10,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,27,7,0,0,1
+Virginia,Virginia Beach,"2 to 4 years, 5 to 10 years",Single,Open the whole time,30,8,0,0,,30,8,0,0,1,,0,0,0,0,0,,10,4,0,0,1
+Georgia ,Long,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,5,3,0,0,,0,0,0,0,0,,0,0,0,0,0,,30,8,0,0,1
+Tennessee,Anderson,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,30,13,0,0,,30,13,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+California ,Los Angeles ,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,30,13,0,0,1
+California,Ventura,2 to 4 years,Single,Closed for a portion,40,10,0,0,,40,10,0,0,1,,40,10,0,0,1,,0,0,0,0,0
+New Jersey,Bergen,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,30,9,0,0,,30,9,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+North Carolina,Granville,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,30,9,0,0,1
+Katrina woermann ,Clark,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,9,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Massachusetts,Middlesex,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,23,50,0,0,,23,50,0,0,1,,0,0,0,0,0,,9,1,0,0,1
+North Carolina,Orange,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,30,16,0,0,,30,16,0,0,1,,0,0,0,0,0,,23,50,0,0,1
+Virginia ,None,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,14,3,0,0,,14,3,0,0,1,,0,0,0,0,0,,30,16,0,0,1
+California,San Francisco,2 to 4 years,Multiple,Closed for a portion,110,25,0,0,,110,25,0,0,1,,110,25,0,0,1,,0,0,0,0,0
+Texas,Dallas,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,13,9,0,0,,13,9,0,0,1,,0,0,0,0,0,,110,25,0,0,1
+Lynn Tarnowski,Bucks,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,8,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+California,USA,2 to 4 years,Single,Closed for a portion,12,4,0,0,,12,4,0,0,1,,12,4,0,0,1,,0,0,0,0,0
+Indiana,Hancock,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,7,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,4,0,0,1
+Washington,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,25,12,0,0,,25,12,0,0,1,,25,12,0,0,1,,7,2,0,0,1
+Minnesota,Hennepin,"2 to 4 years, 5 to 10 years",Single,Open the whole time,8,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,25,12,0,0,1
+Pennsylvania ,Mercer,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,8,4,0,0,1
+Georgia,Gwinnett,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,1,0,0,1
+Maryland,Harford ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,2,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,20,20,0,0,,20,20,0,0,1,,0,0,0,0,0,,2,0,0,0,1
+Oregon,Lane,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,17,5,0,0,,17,5,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Michigan,Montcalm,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,14,3,0,0,,14,3,0,0,1,,0,0,0,0,0,,17,5,0,0,1
+Tenneessee,Hamilton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,32,8,1,1,,32,8,1,1,1,,0,0,0,0,0,,14,3,0,0,1
+New Jersey ,Hudson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,19,25,0,0,,19,25,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Texas,Galveston,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,30,3,0,0,,30,3,0,0,1,,0,0,0,0,0,,19,25,0,0,1
+California,San Diego,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,4,2,0,0,,0,0,0,0,0,,4,2,0,0,1,,0,0,0,0,0
+Madina Said,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,4,2,0,0,1
+California,Santa Clara,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,40,5,0,0,,40,5,0,0,1,,40,5,0,0,1,,3,1,0,0,1
+New Jersey,Hudson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,10,5,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+California,Santa Clara,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,6,2,0,0,1,,10,5,0,0,1
+Florida,Orange,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,200,40,0,0,,200,40,0,0,1,,0,0,0,0,0,,6,2,0,0,1
+Oregon,Jackson,"2 to 4 years, 5 to 10 years",Multiple,Open the whole time,30,5,0,0,,30,5,0,0,1,,0,0,0,0,0,,200,40,0,0,1
+Pennsylvania,Schuylkill,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,14,3,0,0,,14,3,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Minnesota,Morrison,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,25,13,0,0,,25,13,0,0,1,,0,0,0,0,0,,14,3,0,0,1
+Arizona,Maricopa,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,50,16,0,0,,50,16,0,0,1,,0,0,0,0,0,,25,13,0,0,1
+WA State,King,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,140,40,0,1,,140,40,0,1,1,,0,0,0,0,0,,0,0,0,0,0
+California,Los Angeles,2 to 4 years,Single,Closed for a portion,7,7,0,0,,0,0,0,0,0,,7,7,0,0,1,,0,0,0,0,0
+Maryland,Montgomery,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,7,7,0,0,1
+Texas,Harris County,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,3,0,0,,12,3,0,0,1,,0,0,0,0,0,,6,2,0,0,1
+Washington,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,15,5,0,0,,15,5,0,0,1,,15,5,0,0,1,,0,0,0,0,0
+Oregon,Multnomah,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years",Multiple,Open the whole time,15,25,0,0,,15,25,0,0,1,,0,0,0,0,0,,15,5,0,0,1
+Georgia,Fulton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,135,33,0,0,,135,33,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Oregon,Multnomah,"2 to 4 years, 5 to 10 years",Multiple,Open the whole time,16,6,0,0,,16,6,0,0,1,,0,0,0,0,0,,135,33,0,0,1
+New Jersey,Hudson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,12,18,0,0,,12,18,0,0,1,,0,0,0,0,0,,16,6,0,0,1
+Colorado,Douglas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,18,0,0,1
+North Carolina ,Pender,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,75,39,0,0,,75,39,0,0,1,,0,0,0,0,0,,5,1,0,0,1
+Utah,Salt Lake,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,70,12,0,1,,70,12,0,1,1,,0,0,0,0,0,,75,39,0,0,1
+Washington,Snohomish,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",,Open the whole time,8,1,0,0,,0,0,0,0,0,,8,1,0,0,1,,70,12,0,1,1
+Utah,Salt Lake ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,65,60,0,0,,65,60,0,0,1,,0,0,0,0,0,,8,1,0,0,1
+California ,,"2 to 4 years, 5 to 10 years",Single,Open the whole time,9,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,65,60,0,0,1
+Texas,Ector,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,9,1,0,0,1
+Maryland ,Baltimore ,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Wisconsin,Brown,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+California,Alameda,2 to 4 years,Single,Closed for a portion,12,8,0,0,,12,8,0,0,1,,12,8,0,0,1,,0,0,0,0,0
+Illinois,Cook,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,25,12,0,0,,25,12,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Arizona,Maricopa,"2 to 4 years, 5 to 10 years",Single,Open the whole time,5,3,0,0,,0,0,0,0,0,,0,0,0,0,0,,25,12,0,0,1
+Florida,Volusia,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,25,3,0,1,,25,3,0,1,1,,0,0,0,0,0,,5,3,0,0,1
+Oregon,Yamhill,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,10,10,0,0,,0,0,0,0,0,,0,0,0,0,0,,25,3,0,1,1
+Washington,Spokane,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,45,7,0,0,,45,7,0,0,1,,45,7,0,0,1,,0,0,0,0,0
+Washington,King,2 to 4 years,Multiple,Open the whole time,6,4,0,0,,0,0,0,0,0,,6,4,0,0,1,,45,7,0,0,1
+Texas,Montgomery,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,20,9,0,0,,20,9,0,0,1,,0,0,0,0,0,,6,4,0,0,1
+North Carolina,Nash,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,12,8,0,0,,12,8,0,0,1,,0,0,0,0,0,,20,9,0,0,1
+Washington ,King,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,8,0,0,,15,8,0,0,1,,0,0,0,0,0,,12,8,0,0,1
+Illinois,will,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,8,6,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Virginia,Arlington,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+California,San Francisco,2 to 4 years,Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,6,2,0,0,1,,2,1,0,0,1
+Minnesota,Anoka,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+New York,Schenectady,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,40,12,0,0,,40,12,0,0,1,,40,12,0,0,1,,6,1,0,0,1
+Wisconsin,Dane,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,17,5,0,0,,17,5,0,0,1,,0,0,0,0,0,,40,12,0,0,1
+California ,La,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,15,5,0,0,,15,5,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Virginia,Falls Church,2 to 4 years,Single,Closed for a portion,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Arizona,Maricopa,"2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,90,24,0,0,,90,24,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+California,Unites States,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,3,0,0,,0,0,0,0,0,,2,3,0,0,1,,90,24,0,0,1
+Texas,Harris ,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,11,1,0,0,,11,1,0,0,1,,0,0,0,0,0,,2,3,0,0,1
+California ,USA,"2 to 4 years, 5 to 10 years",Single,Open the whole time,9,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,11,1,0,0,1
+Dc,Washington ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Closed for a portion,10,8,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Texas,McLennan,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,100,48,0,0,,100,48,0,0,1,,0,0,0,0,0,,10,8,0,0,1
+Brenda Gomez ,Alameda ,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,3,0,0,,0,0,0,0,0,,0,0,0,0,0,,100,48,0,0,1
+Washington ,King ,"2 to 4 years, 5 to 10 years",Single,Open the whole time,12,1,0,0,,12,1,0,0,1,,0,0,0,0,0,,6,3,0,0,1
+Washington,King,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,12,7,0,0,,12,7,0,0,1,,12,7,0,0,1,,12,1,0,0,1
+California,,"2 to 4 years, Over 10",Single,Open the whole time,20,5,0,0,,20,5,0,0,1,,20,5,0,0,1,,12,7,0,0,1
+Washington,Snohomish,"1 to 2 years, 2 to 4 years",Single,Open the whole time,45,14,0,0,,45,14,0,0,1,,45,14,0,0,1,,20,5,0,0,1
+Oregon,Yamhill,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,25,0,0,,30,25,0,0,1,,0,0,0,0,0,,45,14,0,0,1
+Maryland ,Prince George’s ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,30,25,0,0,1
+California,Santa Clara,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,25,6,1,1,,25,6,1,1,1,,25,6,1,1,1,,0,0,0,0,0
+California,Contra Costa,"2 to 4 years, 5 to 10 years",Single,Open the whole time,12,5,0,0,,12,5,0,0,1,,12,5,0,0,1,,25,6,1,1,1
+Maryland,Anne Arundel County,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,5,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,5,0,0,1
+Washington,King,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,3,1,0,0,1,,5,1,0,0,1
+Wisconsin,Marathon,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,8,0,0,,15,8,0,0,1,,0,0,0,0,0,,3,1,0,0,1
+Texas,Dallas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,60,20,0,0,,60,20,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Iowa,Polk,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,40,17,0,0,,40,17,0,0,1,,0,0,0,0,0,,60,20,0,0,1
+New York,Onondaga,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,6,0,0,,12,6,0,0,1,,12,6,0,0,1,,40,17,0,0,1
+Washington ,Pierce ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,12,6,0,0,1
+Texas,Midland,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,4,2,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,1,0,0,1
+New York,Monroe,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,150,90,0,0,,150,90,0,0,1,,150,90,0,0,1,,4,2,0,0,1
+Pennsylvania,York,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",,Open the whole time,6,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,150,90,0,0,1
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,18,8,0,0,,18,8,0,0,1,,0,0,0,0,0,,6,1,0,0,1
+California,Solano,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,65,21,0,0,,65,21,0,0,1,,65,21,0,0,1,,18,8,0,0,1
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,18,8,0,0,,18,8,0,0,1,,0,0,0,0,0,,65,21,0,0,1
+Texas,Deaf Smith,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,13,6,4,0,,13,6,4,0,1,,0,0,0,0,0,,18,8,0,0,1
+Georgia ,Cobb,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,13,6,4,0,1
+Michigan,Kalamazoo,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,32,15,0,0,,32,15,0,0,1,,0,0,0,0,0,,2,1,0,0,1
+California,Santa Clara,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,6,1,0,0,,0,0,0,0,0,,6,1,0,0,1,,0,0,0,0,0
+Florida,Broward,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,13,6,0,0,,13,6,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Virginia,Richmond City,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,15,10,0,0,,15,10,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+California ,Placer,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,10,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,15,10,0,0,1
+New Jersey,United States of America,"5 to 10 years, Over 10",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,10,1,0,0,1
+Texas,Williamson ,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,2,0,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,1,0,0,1
+California,San Francisco,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,3,1,0,0,,0,0,0,0,0,,3,1,0,0,1,,0,0,0,0,0
+Utah,Utah,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,1,0,0,1
+Washington ,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,8,1,0,0,1
+Texas,Williamson,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,4,1,0,1,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Ohio,Cuyahoga,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,40,15,0,0,,40,15,0,0,1,,0,0,0,0,0,,4,1,0,1,1
+Ohio ,Mahoning,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,60,25,0,0,,60,25,0,0,1,,0,0,0,0,0,,40,15,0,0,1
+Texas,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,16,6,0,0,,16,6,0,0,1,,0,0,0,0,0,,60,25,0,0,1
+California,Marin,2 to 4 years,Single,Closed for a portion,20,10,0,1,,20,10,0,1,1,,20,10,0,1,1,,0,0,0,0,0
+Wisconsin,Marathon,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,3,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,20,10,0,1,1
+California ,Los Angeles ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,3,1,0,0,1
+Maine,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,8,1,0,0,1
+California,San Francisco ,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,3,2,0,0,,0,0,0,0,0,,3,2,0,0,1,,8,1,0,0,1
+California,San Diego,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,20,6,0,0,,20,6,0,0,1,,20,6,0,0,1,,0,0,0,0,0
+New Hampshire,Strafford,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,30,5,0,0,,30,5,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Idaho,United States,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,25,13,0,0,,25,13,0,0,1,,0,0,0,0,0,,30,5,0,0,1
+Wisconsin,Dane,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,50,12,0,0,,50,12,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+California,Los Angeles,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,20,23,0,0,,20,23,0,0,1,,20,23,0,0,1,,0,0,0,0,0
+Georgia,Chatham,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,20,23,0,0,1
+Arizona,,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,25,4,0,0,,25,4,0,0,1,,0,0,0,0,0,,4,1,0,0,1
+Georgia,Fayette,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,40,0,0,,30,40,0,0,1,,0,0,0,0,0,,25,4,0,0,1
+Washington,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,3,0,0,0,,0,0,0,0,0,,3,0,0,0,1,,30,40,0,0,1
+Florida ,Leon,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,70,15,0,0,,70,15,0,0,1,,0,0,0,0,0,,3,0,0,0,1
+New Hampshire ,Rockingham ,"2 to 4 years, 5 to 10 years",Single,Open the whole time,12,7,0,0,,12,7,0,0,1,,0,0,0,0,0,,70,15,0,0,1
+Arkansas,Craighead,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,50,10,0,0,,50,10,0,0,1,,0,0,0,0,0,,12,7,0,0,1
+Iowa,Linn,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,10,7,0,0,,0,0,0,0,0,,0,0,0,0,0,,50,10,0,0,1
+Wisconsin ,Milwaukee,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,30,6,0,0,,30,6,0,0,1,,0,0,0,0,0,,10,7,0,0,1
+Iowa,Polk,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,120,20,0,2,,120,20,0,2,1,,0,0,0,0,0,,30,6,0,0,1
+Maryland ,Prince George's ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,7,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,120,20,0,2,1
+California,Alameda,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,6,2,0,0,,0,0,0,0,0,,6,2,0,0,1,,0,0,0,0,0
+Maryland,Anne Arundel,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,35,14,0,0,,35,14,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Florida ,Miami Dade,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,20,9,0,0,,20,9,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+New Jersey ,Camden,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,21,18,0,0,,21,18,0,0,1,,0,0,0,0,0,,20,9,0,0,1
+Pennsylvania ,Philadelphia,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,21,18,0,0,1
+Washington,Kitsap,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,6,3,0,0,,0,0,0,0,0,,6,3,0,0,1,,8,1,0,0,1
+Texas,Collin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,25,14,0,0,,25,14,0,0,1,,0,0,0,0,0,,6,3,0,0,1
+California ,Monterey,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,0,0,0,,12,0,0,0,1,,0,0,0,0,0,,25,14,0,0,1
+Texas,Travis,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,60,40,0,0,,60,40,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+Texas,Cameron,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,30,11,0,0,,30,11,0,0,1,,0,0,0,0,0,,60,40,0,0,1
+Illinois,DuPage,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,4,8,0,0,,0,0,0,0,0,,0,0,0,0,0,,30,11,0,0,1
+New York,Kings,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,6,2,0,0,,0,0,0,0,0,,6,2,0,0,1,,4,8,0,0,1
+Pennsylvania ,Philadelphia ,2 to 4 years,Single,Closed for a portion,6,4,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+Wisconsin ,Outagamie ,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,6,4,0,0,1
+Texas,travis,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,115,20,0,0,,115,20,0,0,1,,0,0,0,0,0,,8,1,0,0,1
+Pennsylvania,Erie,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years",Single,Closed for a portion,4,1,0,0,,0,0,0,0,0,,0,0,0,0,0,,0,0,0,0,0
+California,San Francisco,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,2,0,0,,0,0,0,0,0,,2,2,0,0,1,,4,1,0,0,1
+North Carolina ,Union,2 to 4 years,Single,Open the whole time,15,1,0,0,,15,1,0,0,1,,0,0,0,0,0,,2,2,0,0,1
+Texas ,Fort Bend ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,20,3,0,0,,20,3,0,0,1,,0,0,0,0,0,,15,1,0,0,1
+Virginia,Arlington ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,15,4,0,2,,15,4,0,2,1,,0,0,0,0,0,,20,3,0,0,1
+Texas,Floyd,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,15,5,0,0,,15,5,0,0,1,,0,0,0,0,0,,15,4,0,2,1
+Georgia ,Ben Hill,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,10,10,0,0,,0,0,0,0,0,,0,0,0,0,0,,15,5,0,0,1
+Tennessee,Davidson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,45,2,0,0,,45,2,0,0,1,,0,0,0,0,0,,0,0,0,0,0
+California,San Mateo,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,16,30,0,1,,,,,,,,,,,,,,0,0,0,0,0
+Alaska,Psg-Wrg Census area,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,35,9,0,0,,,,,,,,,,,,,,0,0,0,0,0
+New York,Tompkins ,"1 to 2 years, 2 to 4 years",Single,Open the whole time,10,4,0,0,,,,,,,,,,,,,,35,9,0,0,1
+California ,Los Angeles,"2 to 4 years, 5 to 10 years",Single,Open the whole time,19,3,0,0,,,,,,,,,,,,,,10,4,0,0,1
+Texas,Harris,"2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,0,0,,,,,,,,,,,,,,19,3,0,0,1
+Minnesota,Kanabec,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,5,0,0,0,,,,,,,,,,,,,,5,1,0,0,1
+Texas,smith,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,10,2,0,0,,,,,,,,,,,,,,5,0,0,0,1
+Oregon ,Lane,"2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,10,2,0,0,,,,,,,,,,,,,,0,0,0,0,0
+California,San Francisco,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years",Single,Open the whole time,3,2,0,0,,,,,,,,,,,,,,10,2,0,0,1
+California,San Mateo,"2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,40,14,0,0,,,,,,,,,,,,,,0,0,0,0,0
+Washington,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,25,15,0,0,,,,,,,,,,,,,,40,14,0,0,1
+Texas,Nueces,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,40,10,0,0,,,,,,,,,,,,,,25,15,0,0,1
+Texas,Dallas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,35,18,0,0,,,,,,,,,,,,,,40,10,0,0,1
+West Virginia ,Putnam,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,20,1,1,,,,,,,,,,,,,,35,18,0,0,1
+Illinois,Will,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,12,0,0,,,,,,,,,,,,,,30,20,1,1,1
+Alabama,Jefferson,"5 to 10 years, Over 10",Multiple,Open the whole time,80,30,0,0,,,,,,,,,,,,,,15,12,0,0,1
+Wisconsin ,Dane,"2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,20,25,0,0,,,,,,,,,,,,,,80,30,0,0,1
+Nebraska ,Douglas ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,400,80,0,0,,,,,,,,,,,,,,0,0,0,0,0
+Washington ,Walla Walla,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,0,0,,,,,,,,,,,,,,400,80,0,0,1
+Nevada,Douglas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,22,11,0,0,,,,,,,,,,,,,,5,1,0,0,1
+Georgia,USA,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,10,3,0,0,,,,,,,,,,,,,,22,11,0,0,1
+Texas,Henderson ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,60,11,0,0,,,,,,,,,,,,,,10,3,0,0,1
+Missori,St. Louis,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,30,14,0,0,,,,,,,,,,,,,,0,0,0,0,0
+California,Contra costa,"1 to 2 years, 2 to 4 years",Multiple,Closed for a portion,50,15,0,0,,,,,,,,,,,,,,0,0,0,0,0
+Florida,Pinellas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,32,1,0,0,,,,,,,,,,,,,,0,0,0,0,0
+Washington,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,200,10,9,9,,,,,,,,,,,,,,32,1,0,0,1
+Oregon ,Multnomah,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,18,9,0,0,,,,,,,,,,,,,,0,0,0,0,0
+Colorado,Denver,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,50,20,0,0,,,,,,,,,,,,,,0,0,0,0,0
+Texas,Parker,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,100,30,0,0,,,,,,,,,,,,,,50,20,0,0,1
+North Dakota,Cass,2 to 4 years,Single,Open the whole time,10,2,0,0,,,,,,,,,,,,,,100,30,0,0,1
+Texas,Harris,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,150,51,0,4,,,,,,,,,,,,,,0,0,0,0,0
+California ,Contra Costa ,1 to 2 years,Single,Closed for a portion,4,1,0,0,,,,,,,,,,,,,,0,0,0,0,0
+California,Contra Costa,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,5,1,0,0,,,,,,,,,,,,,,4,1,0,0,1
+New Mexico ,Bernalillo ,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,10,3,0,0,,,,,,,,,,,,,,0,0,0,0,0
+Colorado,Jefferson ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,7,12,0,0,,,,,,,,,,,,,,10,3,0,0,1
+Colorado ,Adams,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,40,18,0,0,,,,,,,,,,,,,,0,0,0,0,0
+Wisconsin ,Outagamie ,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,8,1,0,0,,,,,,,,,,,,,,40,18,0,0,1
+Texas,travis,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,115,20,0,0,,,,,,,,,,,,,,8,1,0,0,1
+Pennsylvania,Erie,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years",Single,Closed for a portion,4,1,0,0,,,,,,,,,,,,,,0,0,0,0,0
+California,San Francisco,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,2,0,0,,,,,,,,,,,,,,4,1,0,0,1
+North Carolina ,Union,2 to 4 years,Single,Open the whole time,15,1,0,0,,,,,,,,,,,,,,2,2,0,0,1
+Texas ,Fort Bend ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,20,3,0,0,,,,,,,,,,,,,,15,1,0,0,1
+Virginia,Arlington ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,15,4,0,2,,,,,,,,,,,,,,20,3,0,0,1
+Texas,Floyd,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,15,5,0,0,,,,,,,,,,,,,,15,4,0,2,1
+Georgia ,Ben Hill,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,10,10,0,0,,,,,,,,,,,,,,15,5,0,0,1
+Tennessee,Davidson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,45,2,0,0,,,,,,,,,,,,,,0,0,0,0,0
+California,San Mateo,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,16,30,0,1,,,,,,,,,,,,,,0,0,0,0,0
+Alaska,Psg-Wrg Census area,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,35,9,0,0,,,,,,,,,,,,,,0,0,0,0,0
+New York,Tompkins ,"1 to 2 years, 2 to 4 years",Single,Open the whole time,10,4,0,0,,,,,,,,,,,,,,35,9,0,0,1
+California ,Los Angeles,"2 to 4 years, 5 to 10 years",Single,Open the whole time,19,3,0,0,,,,,,,,,,,,,,10,4,0,0,1
+Texas,Harris,"2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,0,0,,,,,,,,,,,,,,19,3,0,0,1
+Minnesota,Kanabec,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,5,0,0,0,,,,,,,,,,,,,,5,1,0,0,1
+Texas,smith,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,10,2,0,0,,,,,,,,,,,,,,5,0,0,0,1
+Oregon ,Lane,"2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,10,2,0,0,,,,,,,,,,,,,,0,0,0,0,0
+California,San Francisco,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years",Single,Open the whole time,3,2,0,0,,,,,,,,,,,,,,10,2,0,0,1
+California,San Mateo,"2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,40,14,0,0,,,,,,,,,,,,,,0,0,0,0,0
+Washington,King,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,25,15,0,0,,,,,,,,,,,,,,,,,,
+Texas,Nueces,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,40,10,0,0,,,,,,,,,,,,,,,,,,
+Texas,Dallas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,35,18,0,0,,,,,,,,,,,,,,,,,,
+West Virginia ,Putnam,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,20,1,1,,,,,,,,,,,,,,,,,,
+Illinois,Will,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,12,0,0,,,,,,,,,,,,,,,,,,
+Alabama,Jefferson,"5 to 10 years, Over 10",Multiple,Open the whole time,80,30,0,0,,,,,,,,,,,,,,,,,,
+Wisconsin ,Dane,"2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,20,25,0,0,,,,,,,,,,,,,,,,,,
+Nebraska ,Douglas ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,400,80,0,0,,,,,,,,,,,,,,,,,,
+Washington ,Walla Walla,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,5,1,0,0,,,,,,,,,,,,,,,,,,
+Nevada,Douglas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,22,11,0,0,,,,,,,,,,,,,,,,,,
+Georgia,USA,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,10,3,0,0,,,,,,,,,,,,,,,,,,
+Texas,Henderson ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,60,11,0,0,,,,,,,,,,,,,,,,,,
+Missori,St. Louis,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,30,14,0,0,,,,,,,,,,,,,,,,,,
+California,Contra costa,"1 to 2 years, 2 to 4 years",Multiple,Closed for a portion,50,15,0,0,,,,,,,,,,,,,,,,,,
+Florida,Pinellas,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,32,1,0,0,,,,,,,,,,,,,,,,,,
+Oregon ,Multnomah,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,18,9,0,0,,,,,,,,,,,,,,,,,,
+Colorado,Denver,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,50,20,0,0,,,,,,,,,,,,,,,,,,
+Texas,Parker,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,100,30,0,0,,,,,,,,,,,,,,,,,,
+North Dakota,Cass,2 to 4 years,Single,Open the whole time,10,2,0,0,,,,,,,,,,,,,,,,,,
+Texas,Harris,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,150,51,0,4,,,,,,,,,,,,,,,,,,
+California ,Contra Costa County ,1 to 2 years,Single,Closed for a portion,4,1,0,0,,,,,,,,,,,,,,,,,,
+California,Contra Costa,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,5,1,0,0,,,,,,,,,,,,,,,,,,
+New Mexico ,Bernalillo ,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,10,3,0,0,,,,,,,,,,,,,,,,,,
+Colorado,Jefferson ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,7,12,0,0,,,,,,,,,,,,,,,,,,
+Colorado ,Adams,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,40,18,0,0,,,,,,,,,,,,,,,,,,
+Texas,Webb,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,44,15,0,1,,,,,,,,,,,,,,,,,,
+Pennsylvania,Montgomery ,1 to 2 years,Multiple,Closed for a portion,0,0,0,0,,,,,,,,,,,,,,,,,,
+Tennessee ,Shelby ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,12,3,0,0,,,,,,,,,,,,,,,,,,
+Oklahoma,Cleveland,2 to 4 years,Single,Closed for a portion,8,2,0,0,,,,,,,,,,,,,,,,,,
+New Jersey ,Bergen ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Closed for a portion,0,0,0,0,,,,,,,,,,,,,,,,,,
+MN,Goodhue,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,7,2,0,0,,,,,,,,,,,,,,,,,,
+Oregon,Washington,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,3,0,0,0,,,,,,,,,,,,,,,,,,
+california,riverside,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,2,0,0,,,,,,,,,,,,,,,,,,
+Maryland,Prince George's,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,4,1,0,0,,,,,,,,,,,,,,,,,,
+Washington,Pierce,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,2,0,0,,,,,,,,,,,,,,,,,,
+Nebraska ,Douglas ,1 to 2 years,Multiple,Open the whole time,3,4,0,0,,,,,,,,,,,,,,,,,,
+Michigan,Van Buren,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,35,5,0,0,,,,,,,,,,,,,,,,,,
+Maryland ,Montgomery ,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,2,1,0,0,,,,,,,,,,,,,,,,,,
+Michigan ,Washtenaw ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,35,13,0,0,,,,,,,,,,,,,,,,,,
+Maryland,Prince George's,"6 weeks - 6 months, 5 to 10 years",Multiple,Open the whole time,8,2,0,0,,,,,,,,,,,,,,,,,,
+Florida,Miami-dade,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,10,5,0,0,,,,,,,,,,,,,,,,,,
+California,Solano,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,2,1,0,0,,,,,,,,,,,,,,,,,,
+California ,Orange,"1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,75,15,0,0,,,,,,,,,,,,,,,,,,
+California ,,2 to 4 years,Multiple,Open the whole time,10,10,0,0,,,,,,,,,,,,,,,,,,
+Maryland ,Carroll,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,7,2,0,0,,,,,,,,,,,,,,,,,,
+Texas,Nuece,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,3,0,0,0,,,,,,,,,,,,,,,,,,
+Maryland ,Montgomery ,"6 weeks - 6 months, 6 months - 1 year, 2 to 4 years",Single,Open the whole time,4,0,0,0,,,,,,,,,,,,,,,,,,
+Florida,Volusia,5 to 10 years,Multiple Centers,Open the whole time,90,10,0,0,,,,,,,,,,,,,,,,,,
+Pennsylvania ,Clearfield,"1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,1,1,0,0,,,,,,,,,,,,,,,,,,
+California ,Los Angeles,"2 to 4 years, 5 to 10 years",Single,Open the whole time,19,3,0,0,,,,,,,,,,,,,,,,,,
+Marylad ,Montgomery ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,3,1,0,0,,,,,,,,,,,,,,,,,,
+California ,Sacramento,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,45,8,0,1,,,,,,,,,,,,,,,,,,
+Washington ,Yakima ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,1,0,0,,,,,,,,,,,,,,,,,,
+Hawaii,Honolulu,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,7,2,0,0,,,,,,,,,,,,,,,,,,
+Washington,King ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,11,2,0,0,,,,,,,,,,,,,,,,,,
+North Carolina ,Durham,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,15,12,0,0,,,,,,,,,,,,,,,,,,
+North Carolina,Durham,1 to 2 years,Single,Open the whole time,50,15,0,0,,,,,,,,,,,,,,,,,,
+georgiaeorgi,dekalb,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,0,0,,,,,,,,,,,,,,,,,,
+Oregon ,Multnomah,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,17,7,0,0,,,,,,,,,,,,,,,,,,
+Washington,King,2 to 4 years,Single,Closed for a portion,6,3,0,0,,,,,,,,,,,,,,,,,,
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,25,15,0,0,,,,,,,,,,,,,,,,,,
+Minnesota,Hennepinn,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,23,0,0,,,,,,,,,,,,,,,,,,
+New Mexico,Bernalillo,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,11,0,0,,,,,,,,,,,,,,,,,,
+Texas,Tarrant,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,2,1,0,0,,,,,,,,,,,,,,,,,,
+California,United States,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,3,1,0,0,,,,,,,,,,,,,,,,,,
+California,San Mateo,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,12,2,0,0,,,,,,,,,,,,,,,,,,
+Indiana,Marion,2 to 4 years,Single,Open the whole time,4,2,0,1,,,,,,,,,,,,,,,,,,
+Texas,Bexar,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,1,1,0,0,,,,,,,,,,,,,,,,,,
+WIsconsin,Juneau,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,15,6,0,0,,,,,,,,,,,,,,,,,,
+Maryland ,Howard ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,5,1,0,0,,,,,,,,,,,,,,,,,,
+Minnesota,Lac Qui Parle,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,35,10,0,0,,,,,,,,,,,,,,,,,,
+Washington,king,"2 to 4 years, 5 to 10 years",Single,Open the whole time,9,1,0,0,,,,,,,,,,,,,,,,,,
+Virginia,Fairfax,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Closed for a portion,30,12,0,2,,,,,,,,,,,,,,,,,,
+New York,Schenectady ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,30,11,0,0,,,,,,,,,,,,,,,,,,
+North Carolina,Carteret,"1 to 2 years, 2 to 4 years",Single,Closed for a portion,30,9,0,0,,,,,,,,,,,,,,,,,,
+illnois,fulton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,12,4,0,0,,,,,,,,,,,,,,,,,,
+Washington,Snohomish,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,30,7,0,0,,,,,,,,,,,,,,,,,,
+Colorado,Pueblo,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,20,14,0,0,,,,,,,,,,,,,,,,,,
+Maryland,garrett,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,8,1,0,0,,,,,,,,,,,,,,,,,,
+Michigan,Wayne,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,11,14,0,0,,,,,,,,,,,,,,,,,,
+Washington,Yakima,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,21,5,0,0,,,,,,,,,,,,,,,,,,
+California ,San Francisco ,2 to 4 years,Single,Open the whole time,10,6,0,0,,,,,,,,,,,,,,,,,,
+New York,Queen,"6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,30,14,0,1,,,,,,,,,,,,,,,,,,
+Wisconsin,Kenosha,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,40,20,0,0,,,,,,,,,,,,,,,,,,
+California ,Santa Clara,5 to 10 years,Single,Open the whole time,10,4,0,0,,,,,,,,,,,,,,,,,,
+Minnesota,Stearns,"2 to 4 years, 5 to 10 years",Single,Open the whole time,14,4,0,0,,,,,,,,,,,,,,,,,,
+nc,madsion,"2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,10,4,0,0,,,,,,,,,,,,,,,,,,
+Minnesota,Norman,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,25,14,0,0,,,,,,,,,,,,,,,,,,
+Texas,"El,Paso","6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,6,2,0,0,,,,,,,,,,,,,,,,,,
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,15,6,0,2,,,,,,,,,,,,,,,,,,
+Tennessee,Sumner,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,25,10,0,0,,,,,,,,,,,,,,,,,,
+Georgia,Paulding,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,30,10,0,0,,,,,,,,,,,,,,,,,,
+Michigan,Livingston,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,15,8,0,0,,,,,,,,,,,,,,,,,,
+Washington,King,"2 to 4 years, 5 to 10 years",Single,Open the whole time,21,7,0,0,,,,,,,,,,,,,,,,,,
+Pennsylvania,cumberland,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,157,21,0,3,,,,,,,,,,,,,,,,,,
+California,Los Angeles,2 to 4 years,Single,Closed for a portion,13,4,0,0,,,,,,,,,,,,,,,,,,
+Texas,Dallas,"6 weeks - 6 months, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,65,33,0,0,,,,,,,,,,,,,,,,,,
+Minnesota,Hennepin,,Single,Open the whole time,15,3,0,2,,,,,,,,,,,,,,,,,,
+Maryland,Washington,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,6,1,0,0,,,,,,,,,,,,,,,,,,
+Arizona,Pima,"2 to 4 years, 5 to 10 years, Over 10",Single,Closed for a portion,0,7,0,0,,,,,,,,,,,,,,,,,,
+Minnesota,Hennepin,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,27,10,0,0,,,,,,,,,,,,,,,,,,
+New York,Kings,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,6,2,0,0,,,,,,,,,,,,,,,,,,
+Minnesota,Hennepin,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,10,5,0,0,,,,,,,,,,,,,,,,,,
+"Minneaota, Iowa, Idaho & Colorado",,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,2200,1000,4,7,,,,,,,,,,,,,,,,,,
+Minnesota,Ramsey,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Open the whole time,50,15,0,0,,,,,,,,,,,,,,,,,,
+Texas,Walker,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,130,22,0,0,,,,,,,,,,,,,,,,,,
+Florida,Osceola,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Closed for a portion,9,4,0,0,,,,,,,,,,,,,,,,,,
+Washington,Stevens,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",One Center,Closed for a portion,6,1,0,0,,,,,,,,,,,,,,,,,,
+Texas,Cooke,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,40,17,0,0,,,,,,,,,,,,,,,,,,
+California ,Alameda,2 to 4 years,Single,Open the whole time,5,2,0,0,,,,,,,,,,,,,,,,,,
+Washington,Clark,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Multiple,Open the whole time,50,12,0,0,,,,,,,,,,,,,,,,,,
+Arizona,Maricopa,"2 to 4 years, 5 to 10 years",Single,Closed for a portion,10,2,0,0,,,,,,,,,,,,,,,,,,
+Virginia,Fairfax,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,4,3,0,0,,,,,,,,,,,,,,,,,,
+Virginia,City of Charlottesville,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,4,4,0,0,,,,,,,,,,,,,,,,,,
+North Carolina,Johnston,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,18,5,0,0,,,,,,,,,,,,,,,,,,
+California,Sonoma,"2 to 4 years, 5 to 10 years",Multiple,Open the whole time,30,12,0,0,,,,,,,,,,,,,,,,,,
+California ,San Mateo,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,3,1,0,0,,,,,,,,,,,,,,,,,,
+California ,San Francisco ,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,8,3.5,0,0,,,,,,,,,,,,,,,,,,
+California ,San Francisco ,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,8,3.5,0,0,,,,,,,,,,,,,,,,,,
+Texas,Harris,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,7,1,0,0,,,,,,,,,,,,,,,,,,
+Maryland,Talbot,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,6,0,0,0,,,,,,,,,,,,,,,,,,
+Maryland ,Howard ,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,5,1,0,0,,,,,,,,,,,,,,,,,,
+Texas,Tarrant,"1 to 2 years, 2 to 4 years",Single,Open the whole time,3,1,0,0,,,,,,,,,,,,,,,,,,
+Arkansas,Faulkner,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,12,7,0,0,,,,,,,,,,,,,,,,,,
+Texas,Denton,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,2,1,0,0,,,,,,,,,,,,,,,,,,
+Oregon,Lane,"1 to 2 years, 2 to 4 years, 5 to 10 years",Single,Open the whole time,26,10,0,0,,,,,,,,,,,,,,,,,,
+Minnesota,Ramsey,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,55,20,0,2,,,,,,,,,,,,,,,,,,
+New York,Westchester,"6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,20,23,0,0,,,,,,,,,,,,,,,,,,
+Michigan,oakland,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years",Multiple,Closed for a portion,65,35,0,0,,,,,,,,,,,,,,,,,,
+Missouri,Jackson,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,40,30,0,0,,,,,,,,,,,,,,,,,,
+"Washington, DC","Washington, DC","6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,10,15,0,0,,,,,,,,,,,,,,,,,,
+Oregon,Columbia,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years, 5 to 10 years, Over 10",Single,Open the whole time,30,9,0,0,,,,,,,,,,,,,,,,,,
+Oregon ,Multnomah,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Multiple,Open the whole time,8,28,0,0,,,,,,,,,,,,,,,,,,
+Texas,Potter,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Open the whole time,6,1,0,0,,,,,,,,,,,,,,,,,,
+Louisiana,East Baton Rouge,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,60,25,0,0,,,,,,,,,,,,,,,,,,
+North Carolina,Durham,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,8,8,0,0,,,,,,,,,,,,,,,,,,
+Florida,Miami-Dade,"6 weeks - 6 months, 6 months - 1 year, 1 to 2 years, 2 to 4 years",Single,Closed for a portion,16,7,0,0,,,,,,,,,,,,,,,,,,
+Oregon,Lane,"2 to 4 years, 5 to 10 years",Single,Open the whole time,14,5,0,0,,,,,,,,,,,,,,,,,,
