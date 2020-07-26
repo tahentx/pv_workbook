@@ -1,8 +1,17 @@
 # https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python
-
+import itertools
 def move_zeros(array):
-    zero = [x for x in array if x == 0]
-    zero_new = list(filter(lambda x: isinstance(x, int), zero))
-    return array.extend(zero_new)
+    non_zeros = []
+    zeros = []
+    for x in array:
+        if x == 0:
+            zeros.append(x)
+        else:
+            non_zeros.append(x)
+    non_zeros.extend(zeros)
+    return non_zeros
+    
+
+        
 
 move_zeros([False,1,0,1,2,0,1,3,"a"])
