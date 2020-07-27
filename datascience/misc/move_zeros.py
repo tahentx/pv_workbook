@@ -14,7 +14,11 @@ def move_zeros(array):
 # move_zeros([False,1,0,1,2,0,1,3,"a"])
 
 def pig_latin(text):
-    front, base = text[0], text[1:]
-    new_word = base + front + 'ay'
-    print(new_word)
-pig_latin("hello")
+    new_words = []
+    for word in text.split():
+        front, base = word[0], word[1:]
+        new_word = base + front + 'ay'
+        new_words.append(new_word)
+    output = ' '.join(new_words)
+    return output
+pig_latin("hello world")
