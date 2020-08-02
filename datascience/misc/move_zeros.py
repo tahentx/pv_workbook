@@ -24,7 +24,7 @@ def pig_latin(text):
 # pig_latin("hello world!")
 
 def solve(s):
-    t = ''.join([x[::-1] for x in s[::-1]])
-    print(t)
-
+    t = s.split()
+    u = ' '.join([x[::-1] for x in t[::-1]])
+    return u
 solve("Blue Blood")
