@@ -20,5 +20,11 @@ def pig_latin(text):
         new_word = base + front + 'ay'
         new_words.append(new_word)
     output = ' '.join(new_words)
-    return output
-pig_latin("hello world")
+    print(output)
+# pig_latin("hello world!")
+
+def solve(s):
+    t = ''.join([x[::-1] for x in s[::-1]])
+    print(t)
+
+solve("Blue Blood")
