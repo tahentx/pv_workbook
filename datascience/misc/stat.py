@@ -1,6 +1,9 @@
-def stat(strg):
-    separated_times = strg.split(',')
-    for time in separated_times:
-        time = time.split("|")
-        print(time)
-stat("01|15|59, 1|47|16, 01|17|20, 1|32|34, 2|17|17")
+# https://www.codewars.com/kata/5878520d52628a092f0002d0/train/python
+def string_transformer(s):
+    if not s:
+        return ''
+    else:
+        s = s.split()
+        return s
+    
+string_transformer("Example string")
