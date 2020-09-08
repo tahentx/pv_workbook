@@ -12,14 +12,11 @@ import string
 
 def name_value(my_list):
     alphabet = list(string.ascii_lowercase)
+    total = []
     for item in my_list:
-        if ' ' in item:
-            item = item.split()
-            for subitem in item:
-                my_list.append(subitem)
-        if item in alphabet:
-            item = alphabet.index(item) + 1
-            print(item)
-    # list_total = sum([my_list.index(x) + 1 for x in my_list])
+        for letter in item:
+            if letter in alphabet:
+                total.append(alphabet.index(letter))
+    print(total)   
 
-name_value(['t','a','a','g'])
+name_value(['tee','abb','ass','gee'])
