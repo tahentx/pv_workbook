@@ -9,5 +9,13 @@
 # string_transformer("Example string")
 
 def name_value(my_list):
-    z = sum([my_list.index(x) + 1 for x in my_list])
-    return z
+    for item in my_list:
+        if ' ' in item:
+            item = item.split()
+            for subitem in item:
+                my_list.append(subitem)
+        else:
+            print(item)
+    # z = sum([my_list.index(x) + 1 for x in my_list])
+
+name_value(['this', 'is', 'a test'])
