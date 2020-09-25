@@ -7,16 +7,32 @@
 #         return s
     
 # string_transformer("Example string")
-from itertools import count
-import string
+# from itertools import count
+# import string
 
-def name_value(my_list):
-    alphabet = list(string.ascii_lowercase)
-    total = []
-    for item in my_list:
-        for letter in item:
-            if letter in alphabet:
-                total.append(alphabet.index(letter))
-    print(total)   
+# def name_value(my_list):
+#     alphabet = list(string.ascii_lowercase)
+#     total = []
+#     for item in my_list:
+#         for letter in item:
+#             if letter in alphabet:
+#                 total.append(alphabet.index(letter))
+#     print(total)   
 
-name_value(['tee','abb','ass','gee'])
+# name_value(['tee','abb','ass','gee'])
+
+# from itertools import accumulate
+# def sum_of_n(n):
+#     answer = accumulate([value for value in range(0,n)])
+#     print(answer)
+
+
+# sum_of_n(5)
+from collections import Counter
+def filter_homogeneous(arrays): 
+    for element in arrays: 
+        c = Counter(element)
+        print(c)
+        
+
+filter_homogeneous([[1, 5, 4], ['a', 3, 5], ['b'], [], ['1', 2, 3]])
