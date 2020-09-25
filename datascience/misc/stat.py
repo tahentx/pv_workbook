@@ -31,11 +31,15 @@
 from collections import Counter
 def filter_homogeneous(arrays): 
     for element in arrays: 
+        empty_types = ['',[]]
         type_counts = Counter(type(x) for x in element)
+        for x in empty_types:
+            if x in element:
+                return element
         if len(type_counts) == 1:
             return element
         else:
             pass
         
 
-filter_homogeneous([[1, 5, 4], ['a', 3, 5], ['b'], [], ['1', 2, 3]])
+filter_homogeneous([[123, 234, 432], ['', 'abc'], [''], ['', 1], ['', '1'], []])
