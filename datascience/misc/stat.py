@@ -28,18 +28,14 @@
 
 
 # sum_of_n(5)
-from collections import Counter
-def filter_homogeneous(arrays): 
-    for element in arrays: 
-        empty_types = ['',[]]
-        type_counts = Counter(type(x) for x in element)
-        for x in empty_types:
-            if x in element:
-                return element
-        if len(type_counts) == 1:
-            return element
-        else:
-            pass
-        
+     
+def solve(arr):
+    duplicate_arr = sorted(arr)
+    end_result_arr = []
+    while duplicate_arr:
+        end_result_arr.append(duplicate_arr.pop())
+        duplicate_arr.reverse()
+    return end_result_arr
 
-filter_homogeneous([[123, 234, 432], ['', 'abc'], [''], ['', 1], ['', '1'], []])
+
+solve([1,2,33,41,5,62])
