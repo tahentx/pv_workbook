@@ -29,13 +29,25 @@
 
 # sum_of_n(5)
      
-def solve(arr):
-    duplicate_arr = sorted(arr)
-    end_result_arr = []
-    while duplicate_arr:
-        end_result_arr.append(duplicate_arr.pop())
-        duplicate_arr.reverse()
-    return end_result_arr
+# def solve(arr):
+#     duplicate_arr = sorted(arr)
+#     end_result_arr = []
+#     while duplicate_arr:
+#         end_result_arr.append(duplicate_arr.pop())
+#         duplicate_arr.reverse()
+#     return end_result_arr
 
 
-solve([1,2,33,41,5,62])
+# solve([1,2,33,41,5,62])
+
+def spacey(array):
+    new_array = []
+    for x in array:
+        chunk_size = array.index(x) + 1
+        new_array.append(''.join(array[:chunk_size]))
+    print(new_array)
+
+
+
+
+spacey(['i','have','no','space'])
