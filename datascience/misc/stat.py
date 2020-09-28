@@ -42,9 +42,9 @@
 
 def spacey(array):
     new_array = []
-    for x in array:
-        chunk_size = array.index(x) + 1
-        new_array.append(''.join(array[:chunk_size]))
+    indices = [x for x in range(1, len(array) + 1)]
+    for slicer in indices:
+        new_array.append(''.join(array[:slicer]))
     print(new_array)
 
 
