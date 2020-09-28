@@ -40,14 +40,22 @@
 
 # solve([1,2,33,41,5,62])
 
-def spacey(array):
-    new_array = []
-    indices = [x for x in range(1, len(array) + 1)]
-    for slicer in indices:
-        new_array.append(''.join(array[:slicer]))
-    print(new_array)
+# def spacey(array):
+#     new_array = []
+#     indices = [x for x in range(1, len(array) + 1)]
+#     for slicer in indices:
+#         new_array.append(''.join(array[:slicer]))
+#     return new_array
 
 
 
 
-spacey(['i','have','no','space'])
+# spacey(['i','have','no','space'])
+
+def solve(string_input):
+    import re
+    numbers = re.findall(r"\d+", string_input)
+    bingo = [int(x) for x in numbers]
+    return max(bingo)
+
+solve('vih61w8oohj5')
