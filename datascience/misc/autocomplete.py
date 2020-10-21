@@ -33,7 +33,7 @@ def remove_parentheses(s):
     product = ''.join([first[0], end_last[0][::-1]])
     return product
 
-remove_parentheses("hello(exm(p)l)heyoo")
+# remove_parentheses("hello(exm(p)l)heyoo")
 
 from collections import Counter
 def repeats(arr):
@@ -46,4 +46,19 @@ def repeats(arr):
             singles.append(key)
     return sum(singles)
 
-repeats([9, 10, 19, 13, 19, 13])
+# repeats([9, 10, 19, 13, 19, 13])
+
+def string_task(s):
+    vowels = ["a", "o", "y", "e", "u", "i"]
+    list_s = list(s.lower())
+    transformed = []
+    for item in list_s:
+        if item in vowels:
+            pass
+        else:
+            transformed.append("." + item)
+    answer = ''.join(transformed)
+    return answer    
+
+# string_task("Codewars")
+
