@@ -63,12 +63,17 @@ def string_task(s):
 # string_task("Codewars")
 
 def leaderboard_sort(leaderboard, changes):
-    for player in enumerate(leaderboard):
-        print(player)
+    new_leaderboard = []
     changes = [change.split() for change in changes]
     for item in changes:
         if item[0] in leaderboard:
-            print(item)
+            # parse the score value
+            score_change = item[1]
+            value = list(score_change)
+            if value[0] == "+":
+                new_leaderboard.insert((leaderboard.index(item[0]) - int(value[1])), item[0])
+            else:
+                new_leaderboard.insert((leaderboard.index(item[0]) + int(value[1])), item[0])
         
 
 leaderboard_sort(['John','Brian','Jim','Dave','Fred'], ['Dave +1', 'Fred +4', 'Brian -1'])
