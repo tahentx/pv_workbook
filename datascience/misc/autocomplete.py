@@ -77,8 +77,23 @@ def leaderboard_sort(leaderboard, changes):
         
 
 # leaderboard_sort(['John','Brian','Jim','Dave','Fred'], ['Dave +1', 'Fred +4', 'Brian -1'])
-from itertools import groupby
-def unique_in_order(iterator):
-    grouped_iterator = [x[0] for x in groupby(list(iterator))]
-    return grouped_iterator
-unique_in_order("AAAABBBCCDAABBB")
+# from itertools import groupby
+# def unique_in_order(iterator):
+#     grouped_iterator = [x[0] for x in groupby(list(iterator))]
+#     return grouped_iterator
+# unique_in_order("AAAABBBCCDAABBB")
+
+from operator import itemgetter
+def remove_duplicate_ids(obj):
+    values = []
+    for k, v in obj.items():
+        values.extend(v)
+        for i in list(set(v)):
+            if i in values[:len(v)]:
+                v.remove(i)
+        print(k)
+        print(v)
+remove_duplicate_ids({
+  "1": ["A", "B", "C"],
+  "2": ["A", "B", "D", "A"],
+})
