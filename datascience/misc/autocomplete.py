@@ -76,4 +76,9 @@ def leaderboard_sort(leaderboard, changes):
                 new_leaderboard.insert((leaderboard.index(item[0]) + int(value[1])), item[0])
         
 
-leaderboard_sort(['John','Brian','Jim','Dave','Fred'], ['Dave +1', 'Fred +4', 'Brian -1'])
+# leaderboard_sort(['John','Brian','Jim','Dave','Fred'], ['Dave +1', 'Fred +4', 'Brian -1'])
+from itertools import groupby
+def unique_in_order(iterator):
+    grouped_iterator = [x[0] for x in groupby(list(iterator))]
+    return grouped_iterator
+unique_in_order("AAAABBBCCDAABBB")
