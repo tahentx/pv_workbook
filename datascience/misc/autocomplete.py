@@ -83,17 +83,12 @@ def leaderboard_sort(leaderboard, changes):
 #     return grouped_iterator
 # unique_in_order("AAAABBBCCDAABBB")
 
-from operator import itemgetter
-def remove_duplicate_ids(obj):
-    values = []
-    for k, v in obj.items():
-        values.extend(v)
-        for i in list(set(v)):
-            if i in values[:len(v)]:
-                v.remove(i)
-        print(k)
-        print(v)
-remove_duplicate_ids({
-  "1": ["A", "B", "C"],
-  "2": ["A", "B", "D", "A"],
-})
+import itertools
+def beggars(values, n):
+    count = n
+    while count > 0:
+        segment = list(filter(lambda x: x % count == 0, values))
+        print(segment)
+        count -= 1
+
+beggars([1,2,3,4,5], 3)
