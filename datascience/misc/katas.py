@@ -21,7 +21,18 @@
 
 # string_letter_count("This is a test sentence")
 
-def sum_even_numbers(seq):
-    answer = sum(list(filter(lambda x: x % 2 == 0, seq)))
-    print(answer)
-sum_even_numbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+# def sum_even_numbers(seq):
+#     return sum(list(filter(lambda x: x % 2 == 0, seq)))
+    
+# sum_even_numbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+
+def pyramid(n):
+    container = []
+    while n > 0:
+        g = [1 for _ in range(n)]
+        container.append(g)
+        n -= 1
+    container = container[::-1]
+    print(container)
+
+pyramid(5)
