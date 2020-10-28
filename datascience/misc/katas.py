@@ -2,8 +2,9 @@ def string_letter_count(s):
     from collections import Counter
     from operator import itemgetter
     cnt = Counter()
+    bad = [',' ,'.' ,'{', '}','[', ']', ' ']
     for word in s.lower():
-        if word == ' ':
+        if word in bad:
             pass
         else:
             cnt[word] += 1
