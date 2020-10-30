@@ -53,6 +53,10 @@
 def decipher_this(string):
     target = min([string.index(x) for x in string if not x.isdigit()])
     nums, chars = int(string[:target]),list(string[target:])
-    print(nums)
-    print(chars)
-decipher_this("100gsafe")
+    first, body, last = chars[0], ''.join(chars[1:-1]), chars[-1]
+    to_join = [chr(nums),last,body,first]
+    output = ''.join(to_join)
+    print(output)
+    
+    
+decipher_this("72olle")
