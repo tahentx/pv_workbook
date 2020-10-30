@@ -37,15 +37,22 @@
 
 # pyramid(5)
 
-def letter_frequency(text):
-    from collections import Counter
-    from operator import itemgetter
-    cnt = Counter()
-    lst = list(text.lower().replace(" ",""))
-    for l in lst:
-        cnt[l] += 1
-    ordered = sorted(cnt.items(), key=itemgetter(1), reverse=True)
-    return ordered
+# 003def letter_frequency(text):
+#     from collections import Counter
+#     from operator import itemgetter
+#     cnt = Counter()
+#     lst = list(text.lower().replace(" ",""))
+#     for l in lst:
+#         cnt[l] += 1
+#     ordered = sorted(cnt.items(), key=itemgetter(1,0), reverse=True)
+#     return ordered
     
     
-letter_frequency("aaAabb dddDD hhcc")
+# letter_frequency("aaAabb dddDD hhcc")
+
+def decipher_this(string):
+    target = min([string.index(x) for x in string if not x.isdigit()])
+    nums, chars = int(string[:target]),list(string[target:])
+    print(nums)
+    print(chars)
+decipher_this("100gsafe")
