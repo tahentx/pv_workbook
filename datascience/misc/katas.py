@@ -26,13 +26,26 @@
     
 # sum_even_numbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
 
-def pyramid(n):
-    container = []
-    while n > 0:
-        g = [1 for _ in range(n)]
-        container.append(g)
-        n -= 1
-    container = container[::-1]
-    print(container)
+# def pyramid(n):
+#     container = []
+#     while n > 0:
+#         g = [1 for _ in range(n)]
+#         container.append(g)
+#         n -= 1
+#     container = container[::-1]
+#     return container
 
-pyramid(5)
+# pyramid(5)
+
+def letter_frequency(text):
+    from collections import Counter
+    from operator import itemgetter
+    cnt = Counter()
+    lst = list(text.lower().replace(" ",""))
+    for l in lst:
+        cnt[l] += 1
+    ordered = sorted(cnt.items(), key=itemgetter(1), reverse=True)
+    return ordered
+    
+    
+letter_frequency("aaAabb dddDD hhcc")
