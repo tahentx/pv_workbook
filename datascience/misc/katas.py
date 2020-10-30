@@ -51,12 +51,16 @@
 # letter_frequency("aaAabb dddDD hhcc")
 
 def decipher_this(string):
-    target = min([string.index(x) for x in string if not x.isdigit()])
-    nums, chars = int(string[:target]),list(string[target:])
-    first, body, last = chars[0], ''.join(chars[1:-1]), chars[-1]
-    to_join = [chr(nums),last,body,first]
-    output = ''.join(to_join)
-    print(output)
+    x = string.split()
+    phrase = []
+    for string in x:
+        target = min([string.index(x) for x in string if not x.isdigit()])
+        nums, chars = int(string[:target]),list(string[target:])
+        first, body, last = chars[0], ''.join(chars[1:-1]), chars[-1]
+        to_join = [chr(nums),last,body,first]
+        output = ''.join(to_join)
+        phrase.append(output)
+    phrase = ' '.join(phrase)
+    print(phrase)    
     
-    
-decipher_this("72olle")
+decipher_this("84eh 109ero 104e 115wa 116eh 108sse 104e 115eokp")
