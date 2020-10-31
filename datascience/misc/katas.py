@@ -77,16 +77,23 @@
 #     output = ' '.join(output)
 #     return output
 # reverse_alternate(" I really hope it works this time... ")
-from itertools import permutations
-def consecutive(arr, a, b):
-    base = (a,b)
-    perm = permutations(arr,2)
-    for p in perm:
-        if p == base:
-            return True
-        elif p == base[::-1]:
-            return True
-        else:
-            return False
+# from itertools import permutations
+# def consecutive(arr, a, b):
+#     base = (a,b)
+#     perm = permutations(arr,2)
+#     for p in perm:
+#         if p == base:
+#             return True
+#         elif p == base[::-1]:
+#             return True
+#         else:
+#             return False
 
-consecutive([1, 6, 9, -3, 4, -78, 0], -3, 4)
+# consecutive([1, 6, 9, -3, 4, -78, 0], -3, 4)
+from itertools import combinations
+def solve(arr):
+    flat_arr = [item for sub in arr for item in sub]
+    combos = combinations(flat_arr,len(arr))
+    unique = list(set([combo for combo in combos]))
+    print(unique)
+solve([[1,2],[4],[5,6]])
