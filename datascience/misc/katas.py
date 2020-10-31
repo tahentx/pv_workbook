@@ -50,17 +50,43 @@
     
 # letter_frequency("aaAabb dddDD hhcc")
 
-def decipher_this(string):
-    x = string.split()
-    phrase = []
-    for string in x:
-        target = min([string.index(x) for x in string if not x.isdigit()])
-        nums, chars = int(string[:target]),list(string[target:])
-        first, body, last = chars[0], ''.join(chars[1:-1]), chars[-1]
-        to_join = [chr(nums),last,body,first]
-        output = ''.join(to_join)
-        phrase.append(output)
-    phrase = ' '.join(phrase)
-    print(phrase)    
+# def decipher_this(string):
+#     x = string.split()
+#     phrase = []
+#     for string in x:
+#         target = min([string.index(x) for x in string if not x.isdigit()])
+#         nums, chars = int(string[:target]),list(string[target:])
+#         first, body, last = chars[0], ''.join(chars[1:-1]), chars[-1]
+#         to_join = [chr(nums),last,body,first]
+#         output = ''.join(to_join)
+#         phrase.append(output)
+#     phrase = ' '.join(phrase)
+#     print(phrase)    
     
-decipher_this("84eh 109ero 104e 115wa 116eh 108sse 104e 115eokp")
+# decipher_this("84eh 109ero 104e 115wa 116eh 108sse 104e 115eokp")
+
+# def reverse_alternate(string):
+#     clean_string = string.strip().split()
+#     output = []
+#     for word in clean_string:
+#         if clean_string.index(word) % 2 != 0:
+#             word = word[::-1]
+#             output.append(word)
+#         else:
+#             output.append(word)
+#     output = ' '.join(output)
+#     return output
+# reverse_alternate(" I really hope it works this time... ")
+from itertools import permutations
+def consecutive(arr, a, b):
+    base = (a,b)
+    perm = permutations(arr,2)
+    for p in perm:
+        if p == base:
+            return True
+        elif p == base[::-1]:
+            return True
+        else:
+            return False
+
+consecutive([1, 6, 9, -3, 4, -78, 0], -3, 4)
