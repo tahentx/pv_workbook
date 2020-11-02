@@ -97,10 +97,25 @@
 #         x *= len(set(a))
 #     print(x)
 # solve([[1,2],[4],[5,6]])
-from itertools import filterfalse
-def longest_palindrome(s):
-    output = filterfalse(lambda x : x == x[::-1], s)
-    for x in output:
-        print(x)
+# from itertools import filterfalse
+# def longest_palindrome(s):
+#     output = filterfalse(lambda x : x == x[::-1], s)
+#     for x in output:
+#         print(x)
         
-longest_palindrome("zzbaabcd")
+# longest_palindrome("zzbaabcd")
+
+def character_count(city):
+    from collections import Counter
+    city_list = list(city.replace(' ',''))
+    city_list = [city.lower() for city in city_list]
+    c = Counter()
+    for city in city_list:
+        c[city] += 1
+    output = []
+    for key,value in dict(c).items():
+        entry = key + ':' + ('*' * value)
+        output.append(entry)
+    final_output = ''.join(output)
+    return final_output
+character_count("Las Vegas")
