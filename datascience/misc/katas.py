@@ -105,17 +105,44 @@
         
 # longest_palindrome("zzbaabcd")
 
-def character_count(city):
-    from collections import Counter
-    city_list = list(city.replace(' ',''))
-    city_list = [city.lower() for city in city_list]
-    c = Counter()
-    for city in city_list:
-        c[city] += 1
-    output = []
-    for key,value in dict(c).items():
-        entry = key + ':' + ('*' * value)
-        output.append(entry)
-    final_output = ''.join(output)
-    return final_output
-character_count("Las Vegas")
+# def character_count(city):
+#     from collections import Counter
+#     city_list = list(city.replace(' ',''))
+#     city_list = [city.lower() for city in city_list]
+#     c = Counter()
+#     for city in city_list:
+#         c[city] += 1
+#     output = []
+#     for key,value in dict(c).items():
+#         entry = key + ':' + ('*' * value) + ','
+#         output.append(entry)
+#     for x in output:
+#         if x is output[-1]:
+#             x.replace(',','')
+#     print(output)
+#     # final_output = ''.join(output)
+#     # print(final_output)
+#     # return final_output
+# character_count("Las Vegas")
+
+def is_it_possible(field):
+    field_as_list = [list(field[:3]), list(field[3:6]), list(field[6:])]
+    trans = [list(row) for row in zip(*field_as_list)]
+    for row in field_as_list:
+        if len(set(row)) < 2:
+            return False
+    for row in trans:
+        if len(set(row)) < 2:
+            return False
+    exes = field.count("X")
+    ohs = field.count("0")
+    if exes + 1 > ohs:
+        return False
+    elif exes - 1 < ohs:
+        return False
+    else:
+        return True
+
+is_it_possible("0XX"+\
+               "XX0"+\
+               "00X")
