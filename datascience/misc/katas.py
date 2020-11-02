@@ -90,10 +90,17 @@
 #             return False
 
 # consecutive([1, 6, 9, -3, 4, -78, 0], -3, 4)
-from itertools import combinations
-def solve(arr):
-    flat_arr = [item for sub in arr for item in sub]
-    combos = combinations(flat_arr,len(arr))
-    unique = list(set([combo for combo in combos]))
-    print(unique)
-solve([[1,2],[4],[5,6]])
+# from itertools import combinations, groupby, combinations_with_replacement
+# def solve(arr):
+#     x = 1
+#     for a in arr:
+#         x *= len(set(a))
+#     print(x)
+# solve([[1,2],[4],[5,6]])
+from itertools import filterfalse
+def longest_palindrome(s):
+    output = filterfalse(lambda x : x == x[::-1], s)
+    for x in output:
+        print(x)
+        
+longest_palindrome("zzbaabcd")
