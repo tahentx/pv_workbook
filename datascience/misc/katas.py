@@ -125,24 +125,32 @@
 #     # return final_output
 # character_count("Las Vegas")
 
-def is_it_possible(field):
-    field_as_list = [list(field[:3]), list(field[3:6]), list(field[6:])]
-    trans = [list(row) for row in zip(*field_as_list)]
-    for row in field_as_list:
-        if len(set(row)) < 2:
-            return False
-    for row in trans:
-        if len(set(row)) < 2:
-            return False
-    exes = field.count("X")
-    ohs = field.count("0")
-    if exes + 1 > ohs:
-        return False
-    elif exes - 1 < ohs:
-        return False
-    else:
-        return True
+# def is_it_possible(field):
+#     field_as_list = [list(field[:3]), list(field[3:6]), list(field[6:])]
+#     trans = [list(row) for row in zip(*field_as_list)]
+#     for row in field_as_list:
+#         if len(set(row)) < 2:
+#             return False
+#     for row in trans:
+#         if len(set(row)) < 2:
+#             return False
+#     exes = field.count("X")
+#     ohs = field.count("0")
+#     if exes + 1 > ohs:
+#         return False
+#     elif exes - 1 < ohs:
+#         return False
+#     else:
+#         return True
 
-is_it_possible("0XX"+\
-               "XX0"+\
-               "00X")
+# is_it_possible("0XX"+\
+#                "XX0"+\
+#                "00X")
+
+def get_word_distance(word_1, word_2, your_string):
+    string_list = your_string.split()
+    diff = (string_list.index(word_1) + 1) - string_list.index(word_2)
+    return abs(diff)
+
+get_word_distance("quick", "field", "the quick rabbit ran through the field with a carrot")
+
