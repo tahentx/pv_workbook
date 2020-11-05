@@ -147,10 +147,17 @@
 #                "XX0"+\
 #                "00X")
 
-def get_word_distance(word_1, word_2, your_string):
-    string_list = your_string.split()
-    diff = (string_list.index(word_1) + 1) - string_list.index(word_2)
-    return abs(diff)
+# def get_word_distance(word_1, word_2, your_string):
+#     string_list = your_string.split()
+#     diff = (string_list.index(word_1) + 1) - string_list.index(word_2)
+#     return abs(diff)
 
-get_word_distance("quick", "field", "the quick rabbit ran through the field with a carrot")
+# get_word_distance("quick", "field", "the quick rabbit ran through the field with a carrot")
 
+from itertools import accumulate
+import operator
+def find_the_product(input_list, input_x):
+    value = max(accumulate(input_list,func=operator.mul))
+    return value % input_x
+    
+find_the_product([5,2,4,1,5], 6)
