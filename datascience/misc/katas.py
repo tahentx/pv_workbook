@@ -154,10 +154,17 @@
 
 # get_word_distance("quick", "field", "the quick rabbit ran through the field with a carrot")
 
-from itertools import accumulate
-import operator
-def find_the_product(input_list, input_x):
-    value = max(accumulate(input_list,func=operator.mul))
-    return value % input_x
+# from itertools import accumulate
+# import operator
+# def find_the_product(input_list, input_x):
+#     value = max(accumulate(input_list,func=operator.mul))
+#     return value % input_x
     
-find_the_product([5,2,4,1,5], 6)
+# find_the_product([5,2,4,1,5], 6)
+
+def count_adjacent_pairs(st):
+    st = st.lower().split()
+    dups = len(set([item for item in st if st.count(item) > 1]))
+    return dups
+
+count_adjacent_pairs("orange Orange kiwi pineapple apple apple plum")
