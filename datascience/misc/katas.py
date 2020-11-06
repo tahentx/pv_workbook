@@ -162,9 +162,31 @@
     
 # find_the_product([5,2,4,1,5], 6)
 
-def count_adjacent_pairs(st):
-    st = st.lower().split()
-    dups = len(set([item for item in st if st.count(item) > 1]))
-    return dups
+# def count_adjacent_pairs(st):
+#     st = st.lower().split()
+#     # dups = len(set([item for item in st if st.count(item) > 1]))
+#     # return dups
+#     print(st)
+#     z = zip([st.index(y) for y in st], [st.count(x) for x in st])
+#     for item in z:
+#         print(item)
 
-count_adjacent_pairs("orange Orange kiwi pineapple apple apple plum")
+# count_adjacent_pairs("orange Orange apple kiwi pineapple apple apple plum")
+# import numpy as np
+# def casino_chips(arr):
+#     ones = np.ones((len(arr) ** len(arr), len(arr)))
+#     print(ones)
+# casino_chips([4,1,1])
+
+def life_path_number(birthdate):
+    separated_bd = birthdate.split("-")
+    final = []
+    for num in separated_bd:
+        total = sum([int(x) for x in list(num)])
+        new = sum([int(n) for n in str(total)])
+        final.append(new)
+    return sum(final)
+        
+
+
+life_path_number("1955-10-28")
