@@ -178,15 +178,30 @@
 #     print(ones)
 # casino_chips([4,1,1])
 
-def life_path_number(birthdate):
-    separated_bd = birthdate.split("-")
-    final = []
-    for num in separated_bd:
-        total = sum([int(x) for x in list(num)])
-        new = sum([int(n) for n in str(total)])
-        final.append(new)
-    return sum(final)
+# def life_path_number(birthdate):
+#     separated_bd = birthdate.split("-")
+#     final = []
+#     for num in separated_bd:
+#         total = sum([int(x) for x in list(num)])
+#         new = sum([int(n) for n in str(total)])
+#         final.append(new)
+#     return sum(final)
+
+def convergence(seed):
+    from functools import reduce
+    series = []
+    if seed < 10:
+        value = seed + seed
+        series.append(value)
+    else:
+        value = reduce((lambda x, y: x * y), [int(d) for d in str(seed)]) 
+        value = seed + value
+        series.append(value)
+    print(series)
+
+
+convergence(16)
+
         
 
 
-life_path_number("1955-10-28")
