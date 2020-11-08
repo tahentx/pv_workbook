@@ -187,21 +187,33 @@
 #         final.append(new)
 #     return sum(final)
 
-def convergence(seed):
-    from functools import reduce
-    series = []
-    if seed < 10:
-        value = seed + seed
-        series.append(value)
-    else:
-        value = reduce((lambda x, y: x * y), [int(d) for d in str(seed)]) 
-        value = seed + value
-        series.append(value)
-    print(series)
+# def convergence(seed):
+#     from functools import reduce
+#     series = []
+#     while series:
+#         if seed < 10:
+#             value = seed + seed
+#             series.append(value)
+#         else:
+#             value = reduce((lambda x, y: x * y), [int(d) for d in str(seed)]) 
+#             value = seed + value
+#             if value == 26:
+#                 break
+#             else:
+#                 series.append(value)
+#     print(series)
 
+# convergence(3)
 
-convergence(16)
+def stock_list(art, cat):
+    art = [item.split() for item in art]
+    for item in art:
+        if item[0][0] in cat:
+            print(item)
+    
 
-        
+b = ["ABAR 200", "CDXE 500", "BKWR 250", "BTSQ 890", "DRTY 600"]
+c = ["A", "B"]
+stock_list(b, c)
 
 
