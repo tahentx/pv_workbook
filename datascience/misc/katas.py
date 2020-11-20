@@ -205,15 +205,33 @@
 
 # convergence(3)
 
-def stock_list(art, cat):
-    art = [item.split() for item in art]
-    for item in art:
-        if item[0][0] in cat:
-            print(item)
+# def stock_list(art, cat):
+#     art = [item.split() for item in art]
+#     inventory = []
+#     for item in art:
+#         if item[0][0] in cat:
+#             inventory.append(item)
+#     print(inventory)
     
 
-b = ["ABAR 200", "CDXE 500", "BKWR 250", "BTSQ 890", "DRTY 600"]
-c = ["A", "B"]
-stock_list(b, c)
+# b = ["ABAR 200", "CDXE 500", "BKWR 250", "BTSQ 890", "DRTY 600"]
+# c = ["A", "B"]
+# stock_list(b, c)
+
+def solve(a,b):
+    from collections import Counter
+    cnt = Counter()
+    for word in a:
+        cnt[word] += 1
+    tally = []
+    for k, v in dict(cnt).items():
+        if k in b:
+            tally.append(v)
+        else:
+            tally.append(0)
+    print(tally)
+        
+    
+solve(['abc', 'abc','xyz','abcd','cde'], ['abc', 'cde', 'uap'])
 
 
