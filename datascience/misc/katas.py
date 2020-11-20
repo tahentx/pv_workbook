@@ -218,20 +218,24 @@
 # c = ["A", "B"]
 # stock_list(b, c)
 
-def solve(a,b):
-    from collections import Counter
-    cnt = Counter()
-    for word in a:
-        cnt[word] += 1
-    tally = []
-    for k, v in dict(cnt).items():
-        if k in b:
-            tally.append(v)
-        else:
-            tally.append(0)
-    print(tally)
-        
-    
-solve(['abc', 'abc','xyz','abcd','cde'], ['abc', 'cde', 'uap'])
+# def solve(a,b):
+#     from collections import Counter
+#     cnt = Counter()
+#     for word in a:
+#         cnt[word] += 1
+#     tally = []
+#     for item in b:
+#         for k,v in dict(cnt).items():
+#             if item == k:
+#                 tally.append(v)
+#         if item not in dict(cnt).keys():
+#             tally.append(0)
+#     return tally
+# solve(['abc', 'abc','xyz','abcd','cde'], ['abc', 'cde', 'uap'])
+
+def sort_items_by_frequency(arr):
+    end_product = sorted(arr, key=lambda x: arr.count(x), reverse=True)
+    print(end_product)
+sort_items_by_frequency([4,4,2,5,1,1,3,3,2,8])
 
 
