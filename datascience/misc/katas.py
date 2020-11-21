@@ -234,8 +234,14 @@
 # solve(['abc', 'abc','xyz','abcd','cde'], ['abc', 'cde', 'uap'])
 
 def sort_items_by_frequency(arr):
-    end_product = sorted(arr, key=lambda x: arr.count(x), reverse=True)
-    print(end_product)
+    from collections import Counter
+    from itertools import repeat, chain
+    result = list(chain.from_iterable(repeat(i, c) 
+         for i, c in Counter(arr).most_common())) 
+    print(result)
 sort_items_by_frequency([4,4,2,5,1,1,3,3,2,8])
 
 
+# import requests
+# response = requests.post("http://127.0.0.1:5000/predict", json=[[5.1, 3.5, 1.4, 0.2]])
+# print(response.text)
