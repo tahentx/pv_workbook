@@ -233,14 +233,22 @@
 #     return tally
 # solve(['abc', 'abc','xyz','abcd','cde'], ['abc', 'cde', 'uap'])
 
-def sort_items_by_frequency(arr):
-    from collections import Counter
-    from itertools import repeat, chain
-    result = list(chain.from_iterable(repeat(i, c) 
-         for i, c in Counter(arr).most_common())) 
-    print(result)
-sort_items_by_frequency([4,4,2,5,1,1,3,3,2,8])
+# def sort_items_by_frequency(arr):
+#     from collections import Counter
+#     from itertools import repeat, chain
+#     result = list(chain.from_iterable(repeat(i, c) 
+#          for i, c in Counter(arr).most_common())) 
+#     print(result)
+# sort_items_by_frequency([4,4,2,5,1,1,3,3,2,8])
 
+def decrypt(code):
+    digits = code.split()
+    for item in digits:
+        y = list(filter(lambda x: x.isdigit(), item))
+        print(y)
+
+    
+decrypt('x20*6<xY y875_r97L')
 
 # import requests
 # response = requests.post("http://127.0.0.1:5000/predict", json=[[5.1, 3.5, 1.4, 0.2]])
