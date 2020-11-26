@@ -242,10 +242,20 @@
 # sort_items_by_frequency([4,4,2,5,1,1,3,3,2,8])
 
 def decrypt(code):
+    import string
     digits = code.split()
+    values = []
     for item in digits:
         y = list(filter(lambda x: x.isdigit(), item))
-        print(y)
+        num = sum([int(x) for x in y])
+        values.append(num)
+    print(values)
+    output = []
+    for letter in enumerate(list(string.ascii_lowercase)):
+        for item in values:
+            if item == letter[0]:
+                output.append(letter[1])
+    print(output)
 
     
 decrypt('x20*6<xY y875_r97L')
