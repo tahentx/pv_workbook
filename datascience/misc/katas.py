@@ -257,16 +257,22 @@
 #                 output.append(letter[1])
 #     print(output)
 
-def shifted_diff(first, second):
-    legit = []
-    for letter in second:
-        if first.index(letter) > second.index(letter):
-            legit.append(letter)
-        else:
-            pass
-    result = len(first) - len(legit)
-    return result
-shifted_diff("eecoff", "coffee")
+# def shifted_diff(first, second):
+#     legit = []
+#     for letter in second:
+#         if first.index(letter) > second.index(letter):
+#             legit.append(letter)
+#         else:
+#             pass
+#     result = len(first) - len(legit)
+#     return result
+# shifted_diff("eecoff", "coffee")
+
+def anagram_difference(w1, w2):
+    common_letter_lngth = len([x for x in w1 if x in w2])
+    total_removed = (len(w1) - common_letter_lngth) + (len(w2) - common_letter_lngth)
+    return total_removed    
+anagram_difference("codewars", "hackerrank")
 
 
 # import requests
