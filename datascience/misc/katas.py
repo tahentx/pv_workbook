@@ -275,6 +275,13 @@ def anagram_difference(w1, w2):
 anagram_difference("codewars", "hackerrank")
 
 
+
 # import requests
 # response = requests.post("http://127.0.0.1:5000/predict", json=[[5.1, 3.5, 1.4, 0.2]])
 # print(response.text)
+
+def what_to_invest_in(name):
+    import mod
+    print("Hi {}, you should invest in {}".format(name, mod.a))
+
+what_to_invest_in("Todd")
