@@ -284,4 +284,11 @@ def what_to_invest_in(name):
     import mod
     print("Hi {}, you should invest in {}".format(name, mod.a))
 
-what_to_invest_in("Todd")
+# what_to_invest_in("Todd")
+
+# print(dir())
+
+def even_numbers(arr, n):
+    evens = [x for x in arr[::-1] if x % 2 == 0]
+    return evens[:n]
+even_numbers([5,5,5,2,4,5,9,32,55,22,3333,9], 3)
