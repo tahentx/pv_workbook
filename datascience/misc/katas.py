@@ -288,7 +288,29 @@ def what_to_invest_in(name):
 
 # print(dir())
 
-def even_numbers(arr, n):
-    evens = [x for x in arr[::-1] if x % 2 == 0]
-    return evens[:n]
-even_numbers([5,5,5,2,4,5,9,32,55,22,3333,9], 3)
+# def even_numbers(arr, n):
+#     evens = [x for x in arr[::-1] if x % 2 == 0]
+#     return evens[:n]
+# even_numbers([5,5,5,2,4,5,9,32,55,22,3333,9], 3)
+
+def maskify(cc):
+    if cc == None:
+        return ' '
+    elif len(cc) < 4:
+        for char in cc:
+            if char.isdigit():
+                return char
+            else:
+                return ""
+    else:
+        reversed_cc = cc[::-1]
+        new_cc = list(reversed_cc[:4])
+        print(new_cc)
+        for item in enumerate(reversed_cc):
+            if item[0] > 3:
+                new_cc.append("#")
+            else:
+                pass
+        return ''.join(new_cc[::-1])
+
+maskify("32534")
