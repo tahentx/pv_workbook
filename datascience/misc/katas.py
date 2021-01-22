@@ -315,8 +315,13 @@ def what_to_invest_in(name):
 
 # maskify("32534")
 
-def pseudo_sort(st):
-    st = sorted(st.split(), key=str.lower)
-    print(st)    
+# def pseudo_sort(st):
+#     st = sorted(st.split(), key=str.lower)
+#     print(st)    
 
-pseudo_sort("Hello everybody so glad to see You")
+# pseudo_sort("Hello everybody so glad to see You")
+
+def merge_sort(a, b):
+    return sorted(a + b)
+
+merge_sort([2,4,6],[3,9,5])
