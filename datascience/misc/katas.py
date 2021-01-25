@@ -321,7 +321,17 @@ def what_to_invest_in(name):
 
 # pseudo_sort("Hello everybody so glad to see You")
 
-def merge_sort(a, b):
-    return sorted(a + b)
+# def merge_sort(a, b):
+#     return sorted(a + b)
 
-merge_sort([2,4,6],[3,9,5])
+# merge_sort([2,4,6],[3,9,5])
+
+def order_weight(strng):
+    new_list = []
+    for item in strng.split(' '):
+       num = sum([int(x) for x in str(item)])
+       new_list.append(num)
+    return sorted(new_list)
+    
+
+order_weight("56 65 74 100 99 68 86 180 90")
