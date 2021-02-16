@@ -326,12 +326,11 @@ def what_to_invest_in(name):
 
 # merge_sort([2,4,6],[3,9,5])
 
-def order_weight(strng):
-    new_list = []
-    for item in strng.split(' '):
-       num = sum([int(x) for x in str(item)])
-       new_list.append(num)
-    return sorted(new_list)
+# def order_weight(strng):
+#     new_list = []
+#     for item in strng.split(' '):
+#        num = sum([int(x) for x in str(item)])
+#        new_list.append(num)
+    
     
 
-order_weight("56 65 74 100 99 68 86 180 90")
